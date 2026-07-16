@@ -471,6 +471,12 @@
       onSeekForward: function () {
         Player.seekBy(10);
       },
+      onLeft: function () {
+        Player.seekBy(-10);
+      },
+      onRight: function () {
+        Player.seekBy(10);
+      },
       onBack: function () {
         Player.stop();
         goHome();
@@ -575,6 +581,9 @@
       el.playerContainer.style.display = '';
       Remote.setHandlers(playerHandlers());
     } else if (name === 'pause') {
+      // Keep the player screen visible underneath so the paused frame still
+      // shows through the (semi-transparent) pause overlay.
+      el.player.classList.add('visible');
       el.pause.classList.add('visible');
       Remote.setHandlers(pauseHandlers());
     }

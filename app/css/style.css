@@ -176,8 +176,20 @@ body {
   box-shadow: 0 10px 0 var(--sun-deep);
 }
 
+/* Pause overlay sits on top of the still-visible (paused) video frame,
+   YouTube-style, instead of replacing it with an opaque screen. */
+#pause-screen.screen.visible {
+  position: fixed;
+  inset: 0;
+  z-index: 5;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom, rgba(20, 16, 36, 0.15) 0%, rgba(20, 16, 36, 0.6) 100%);
+}
+
 .pause-title {
-  color: var(--ink);
+  color: #fff;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.7);
 }
 
 .pause-buttons {

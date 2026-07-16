@@ -103,6 +103,11 @@
       if (callbacks.onPlaying) {
         callbacks.onPlaying();
       }
+    } else if (state === YT.PlayerState.BUFFERING || state === YT.PlayerState.UNSTARTED) {
+      // A pre-roll ad loading/playing reports as buffering/unstarted and can
+      // legitimately take longer than the watchdog window - reset it instead
+      // of treating this as stuck.
+      armWatchdog();
     }
   }
 
