@@ -76,6 +76,18 @@
       onAutoplayBlocked: function () { waitingForUnmuteGesture = true; }
     });
 
+    el.exitHint = qs('exit-hint');
+
+    // Magic Remote pointer show/hide (webOS 2.0+). When the pointer hides the
+    // user has switched to D-pad — make sure the focused card is visible.
+    document.addEventListener('cursorStateChange', function (e) {
+      var pointerVisible = !!(e.detail && e.detail.visibility);
+      document.body.className = pointerVisible ? 'pointer-mode' : 'dpad-mode';
+      if (!pointerVisible && el.home.classList.contains('visible')) {
+        applyHomeFocus();
+      }
+    });
+
     // Global: first keypress after an autoplay-block unmutes, no visual overlay.
     document.addEventListener('keydown', function () {
       if (waitingForUnmuteGesture) {
@@ -309,10 +321,25 @@
         }
         selectVideo(focus.rowIndex, focus.colIndex);
       },
-      onBack: function () {
-        // Already at the root screen - nothing to do.
-      }
+      onBack: handleRootBack
     };
+  }
+
+  // Back at the root screen: require a second press within 2.5s to exit, so
+  // a stray Back from the kid doesn't dump them out of the app.
+  var lastRootBackAt = 0;
+
+  function handleRootBack() {
+    var now = Date.now();
+    if (now - lastRootBackAt < 2500) {
+      window.close();
+      return;
+    }
+    lastRootBackAt = now;
+    el.exitHint.classList.add('visible');
+    setTimeout(function () {
+      el.exitHint.classList.remove('visible');
+    }, 2500);
   }
 
   function clampCol(rowIndex, col) {
@@ -388,6 +415,16 @@
       },
       onPlayPause: function () {
         Player.pause();
+      },
+      onStop: function () {
+        Player.stop();
+        goHome();
+      },
+      onSeekBack: function () {
+        Player.seekBy(-10);
+      },
+      onSeekForward: function () {
+        Player.seekBy(10);
       },
       onBack: function () {
         Player.stop();

@@ -323,16 +323,9 @@ body {
 
 .card.focused {
   border-color: var(--focus-color, var(--candy-4));
-  transform: scale(1.1);
+  transform: scale(1.04);
   z-index: 2;
   position: relative;
-  animation: card-pop 0.22s ease;
-}
-
-@keyframes card-pop {
-  0% { transform: scale(1.1) rotate(0deg); }
-  40% { transform: scale(1.15) rotate(-1.5deg); }
-  100% { transform: scale(1.1) rotate(0deg); }
 }
 
 .card-thumb {
@@ -429,3 +422,28 @@ body {
    carries titles/buttons; system sans keeps card titles calm and legible at
    couch distance. Background shapes are static gradients — no images, no
    per-frame cost. */
+
+/* ---------- Exit hint (double-Back to quit) ---------- */
+
+#exit-hint {
+  position: fixed;
+  left: 50%;
+  bottom: 56px;
+  transform: translateX(-50%) translateY(20px);
+  font-family: var(--font-display);
+  font-size: 28px;
+  font-weight: 700;
+  color: #fff;
+  background: var(--ink);
+  padding: 18px 44px;
+  border-radius: 50px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+  z-index: 10;
+}
+
+#exit-hint.visible {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}

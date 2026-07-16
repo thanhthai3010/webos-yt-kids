@@ -201,6 +201,17 @@
     queueIndex = -1;
   }
 
+  function seekBy(seconds) {
+    if (player && playerReady) {
+      try {
+        var t = player.getCurrentTime() || 0;
+        player.seekTo(Math.max(0, t + seconds), true);
+      } catch (err) {
+        // ignore
+      }
+    }
+  }
+
   function unmuteOnGesture() {
     if (player) {
       try {
@@ -215,6 +226,23 @@
     return queue[queueIndex] || null;
   }
 
+  // webOS suspends the app on Home/app-switch (and possibly input switch) but
+  // does not pause media for us — pause explicitly whenever we go hidden.
+  function onVisibilityChange() {
+    if (document.hidden && player && playerReady) {
+      try {
+        // Reset the debounce so the PAUSED event shows the pause screen,
+        // giving a sane resume point when the app comes back.
+        lastProgrammaticActionTime = 0;
+        player.pauseVideo();
+      } catch (err) {
+        // ignore
+      }
+    }
+  }
+  document.addEventListener('visibilitychange', onVisibilityChange);
+  document.addEventListener('webkitvisibilitychange', onVisibilityChange);
+
   window.Player = {
     init: function (cbs) {
       callbacks = cbs || {};
@@ -224,6 +252,8 @@
     pause: pause,
     resume: resume,
     stop: stop,
+    seekBy: seekBy,
+    isActive: function () { return queueIndex >= 0 && queue.length > 0; },
     unmuteOnGesture: unmuteOnGesture,
     getCurrentVideo: getCurrentVideo
   };

@@ -7,5 +7,8 @@
   "version": "1.0.0",
   "vendor": "Family",
   "resolution": "1920x1080",
-  "disableBackHistoryAPI": true
+  "disableBackHistoryAPI": true,
+  "splashBackground": "splash.png",
+  "splashColor": "#EAF7FF",
+  "iconColor": "#FFC93C"
 }

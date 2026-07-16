@@ -30,10 +30,17 @@ Edit `whitelist.json` at the repo root:
     { "handle": "@freeschool", "maxVideos": 30 }
   ],
   "individualVideos": [
-    { "videoId": "abc123", "title": "One specific approved video" }
+    { "videoId": "abc123", "title": "One specific approved video" },
+    { "url": "https://www.youtube.com/watch?v=XqZsoesa55w" }
   ]
 }
 ```
+
+`individualVideos` entries take a bare video ID or any pasted YouTube URL
+(`watch?v=`, `youtu.be/`, `shorts/`) in `videoId` or `url` — easiest workflow
+is Share → Copy Link on your phone and paste it in. `title` is optional (the
+real title is fetched). Note: YouTube playlists can't be used for curation —
+made-for-kids videos have Save-to-playlist disabled.
 
 Each channel entry needs either a `channelId` (the `UC…` ID) or a `handle` —
 the easiest option, since it's right in the channel URL. `handle` accepts

@@ -49,9 +49,20 @@ async function main() {
   }
 
   const channels = Array.isArray(whitelist.channels) ? whitelist.channels : [];
-  const individualVideos = Array.isArray(whitelist.individualVideos)
+  const individualVideos = (Array.isArray(whitelist.individualVideos)
     ? whitelist.individualVideos
-    : [];
+    : []
+  ).filter((v) => {
+    // Entries may carry a bare 11-char ID or any pasted YouTube URL
+    // (watch?v=, youtu.be/, shorts/, embed/) in "videoId" or "url".
+    const id = extractVideoId(v.videoId || v.url);
+    if (!id) {
+      log(`WARN: individualVideo "${v.title ?? JSON.stringify(v)}" skipped — could not extract a video ID.`);
+      return false;
+    }
+    v.videoId = id;
+    return true;
+  });
 
   if (channels.length === 0 && individualVideos.length === 0) {
     log("ERROR: whitelist.json has no channels and no individualVideos. Nothing to do.");
@@ -303,6 +314,19 @@ async function main() {
   await writeFile(CACHE_PATH, JSON.stringify(cache, null, 2) + "\n", "utf8");
   log(`Wrote ${CACHE_PATH}`);
   log(`Estimated quota units used: ${quotaUnits}`);
+}
+
+// Accepts a bare 11-char video ID or any common YouTube URL form and returns
+// the video ID, or null.
+function extractVideoId(value) {
+  if (!value || typeof value !== "string") return null;
+  const v = value.trim();
+  if (/^[\w-]{11}$/.test(v)) return v;
+  const m =
+    /[?&]v=([\w-]{11})/.exec(v) ||
+    /youtu\.be\/([\w-]{11})/.exec(v) ||
+    /\/(?:shorts|embed|live)\/([\w-]{11})/.exec(v);
+  return m ? m[1] : null;
 }
 
 // Pulls a handle out of "@name", "youtube.com/@name" URLs, or (when allowBare)

@@ -30,6 +30,15 @@
       case 19:  // remote Pause
         if (handlers.onPlayPause) { handlers.onPlayPause(); e.preventDefault(); }
         break;
+      case 413: // remote Stop
+        if (handlers.onStop) { handlers.onStop(); e.preventDefault(); }
+        break;
+      case 412: // remote Rewind
+        if (handlers.onSeekBack) { handlers.onSeekBack(); e.preventDefault(); }
+        break;
+      case 417: // remote Fast-forward
+        if (handlers.onSeekForward) { handlers.onSeekForward(); e.preventDefault(); }
+        break;
       default:
         break;
     }
