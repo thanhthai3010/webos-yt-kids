@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-07-16T00:00:00Z",
+  "channels": [
+    {
+      "channelId": "UCkidsSongsA1",
+      "name": "Sunny Sing-Alongs",
+      "videos": [
+        {
+          "videoId": "aB3dEfGhI9k",
+          "title": "The Wheels on the Bus - Sing Along Fun",
+          "publishedAt": "2026-06-01T12:00:00Z",
+          "durationSeconds": 187,
+          "thumbnail": "https://img.youtube.com/vi/aB3dEfGhI9k/hqdefault.jpg"
+        },
+        {
+          "videoId": "qWeRtYuIoP1",
+          "title": "Twinkle Twinkle Little Star - Bedtime Version",
+          "publishedAt": "2026-06-03T12:00:00Z",
+          "durationSeconds": 210,
+          "thumbnail": "https://img.youtube.com/vi/qWeRtYuIoP1/hqdefault.jpg"
+        },
+        {
+          "videoId": "zXcVbNmA2s3",
+          "title": "Old MacDonald Had a Farm - Animal Sounds",
+          "publishedAt": "2026-06-05T12:00:00Z",
+          "durationSeconds": 245,
+          "thumbnail": "https://img.youtube.com/vi/zXcVbNmA2s3/hqdefault.jpg"
+        },
+        {
+          "videoId": "pOiUyTrEw4d",
+          "title": "Head, Shoulders, Knees and Toes - Dance Along",
+          "publishedAt": "2026-06-08T12:00:00Z",
+          "durationSeconds": 165,
+          "thumbnail": "https://img.youtube.com/vi/pOiUyTrEw4d/hqdefault.jpg"
+        },
+        {
+          "videoId": "lKjHgFdSa5f",
+          "title": "Row Row Row Your Boat - Calm Down Song",
+          "publishedAt": "2026-06-10T12:00:00Z",
+          "durationSeconds": 198,
+          "thumbnail": "https://img.youtube.com/vi/lKjHgFdSa5f/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "channelId": "UClearnAndPlayB2",
+      "name": "Learn & Play ABCs",
+      "videos": [
+        {
+          "videoId": "mNbVcXzA6g7",
+          "title": "ABC Alphabet Song for Toddlers",
+          "publishedAt": "2026-06-02T12:00:00Z",
+          "durationSeconds": 220,
+          "thumbnail": "https://img.youtube.com/vi/mNbVcXzA6g7/hqdefault.jpg"
+        },
+        {
+          "videoId": "tYuIoPqWe8h",
+          "title": "Counting 1 to 10 with Friendly Animals",
+          "publishedAt": "2026-06-04T12:00:00Z",
+          "durationSeconds": 255,
+          "thumbnail": "https://img.youtube.com/vi/tYuIoPqWe8h/hqdefault.jpg"
+        },
+        {
+          "videoId": "rEwQaSdF9j0",
+          "title": "Learning Colors with Balloons",
+          "publishedAt": "2026-06-06T12:00:00Z",
+          "durationSeconds": 190,
+          "thumbnail": "https://img.youtube.com/vi/rEwQaSdF9j0/hqdefault.jpg"
+        },
+        {
+          "videoId": "gHjKlMnB1i2",
+          "title": "Shapes and Sizes Adventure",
+          "publishedAt": "2026-06-09T12:00:00Z",
+          "durationSeconds": 230,
+          "thumbnail": "https://img.youtube.com/vi/gHjKlMnB1i2/hqdefault.jpg"
+        }
+      ]
+    }
+  ],
+  "picks": [
+    {
+      "videoId": "aB3dEfGhI9k",
+      "title": "The Wheels on the Bus - Sing Along Fun",
+      "thumbnail": "https://img.youtube.com/vi/aB3dEfGhI9k/hqdefault.jpg"
+    },
+    {
+      "videoId": "mNbVcXzA6g7",
+      "title": "ABC Alphabet Song for Toddlers",
+      "thumbnail": "https://img.youtube.com/vi/mNbVcXzA6g7/hqdefault.jpg"
+    }
+  ]
+}

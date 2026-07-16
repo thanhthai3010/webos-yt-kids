@@ -1,0 +1,25 @@
+{
+  "channels": [
+    {
+      "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
+      "name": "Super Simple Songs - Kids Songs",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UCbCmjCuTUZos6Inko4u57UQ",
+      "name": "Cocomelon - Nursery Rhymes",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UC6UB5v6R6Vb1kX9EDfhaVUQ",
+      "name": "Ms Rachel - Toddler Learning",
+      "maxVideos": 30
+    }
+  ],
+  "individualVideos": [
+    {
+      "videoId": "XqZsoesa55w",
+      "title": "Baby Shark Dance"
+    }
+  ]
+}

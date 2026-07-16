@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Kids Videos</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background: #0b0b0f;
+      color: #ffffff;
+      font-family: sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    #fallback {
+      display: none;
+      max-width: 80%;
+      font-size: 2vw;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div id="fallback">
+    <p>Could not reach the Kids Videos app.</p>
+    <p>Check that this TV is connected to the internet, then restart the app.</p>
+  </div>
+
+  <script>
+    // EDIT THIS: set to your GitHub Pages URL where app/ is hosted.
+    // GitHub Pages serves the whole repo from root, so the app lives under
+    // the /app/ path — keep the trailing /app/ segment. Must match the
+    // Pages layout described in README.md.
+    var HOSTED_APP_URL = "https://YOUR-GH-USERNAME.github.io/webos-yt-kids/app/";
+
+    window.location.href = HOSTED_APP_URL;
+
+    // If redirect hasn't happened within 5s (e.g. no network), show a message.
+    setTimeout(function () {
+      document.getElementById("fallback").style.display = "block";
+    }, 5000);
+  </script>
+</body>
+</html>

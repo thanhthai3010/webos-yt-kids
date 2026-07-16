@@ -1,0 +1,11 @@
+{
+  "id": "com.family.kidsyoutube",
+  "title": "Kids Videos",
+  "type": "web",
+  "main": "index.html",
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "vendor": "Family",
+  "resolution": "1920x1080",
+  "disableBackHistoryAPI": true
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1920, initial-scale=1.0, user-scalable=no">
+<title>Kids Tube</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Loading screen -->
+  <div id="loading-screen" class="screen">
+    <div class="center-message">
+      <div class="spinner"></div>
+      <p>Loading videos&hellip;</p>
+    </div>
+  </div>
+
+  <!-- Error screen -->
+  <div id="error-screen" class="screen">
+    <div class="center-message">
+      <p class="error-title">Oops! We couldn't load the videos.</p>
+      <button id="retry-btn" class="big-button focusable">Try Again</button>
+    </div>
+  </div>
+
+  <!-- Home screen -->
+  <div id="home-screen" class="screen">
+    <div id="rows"></div>
+  </div>
+
+  <!-- Player screen -->
+  <div id="player-screen" class="screen">
+    <div id="player-container">
+      <div id="yt-player"></div>
+    </div>
+    <div id="now-playing-bar">
+      <span id="now-playing-title"></span>
+    </div>
+    <div id="toast"></div>
+  </div>
+
+  <!-- Pause screen -->
+  <div id="pause-screen" class="screen">
+    <div class="center-message">
+      <p id="pause-title" class="pause-title"></p>
+      <div class="pause-buttons">
+        <button id="btn-resume" class="big-button focusable">Resume</button>
+        <button id="btn-back" class="big-button focusable">Back to Menu</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/player.js"></script>
+  <script src="js/remote.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
