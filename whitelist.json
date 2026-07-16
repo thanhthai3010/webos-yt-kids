@@ -1,18 +1,53 @@
 {
   "channels": [
     {
-      "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
-      "name": "Super Simple Songs - Kids Songs",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "name": "Nat Geo Kids",
       "maxVideos": 30
     },
     {
-      "channelId": "UCbCmjCuTUZos6Inko4u57UQ",
-      "name": "Cocomelon - Nursery Rhymes",
+      "channelId": "UCMRzqb0rmcil3OxeVFVRIMw",
+      "name": "NASA Space Place",
       "maxVideos": 30
     },
     {
-      "channelId": "UC6UB5v6R6Vb1kX9EDfhaVUQ",
-      "name": "Ms Rachel - Toddler Learning",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "name": "Numberblocks",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UCeiYXex_fwgYDonaTcSIk6w",
+      "name": "MinuteEarth",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "name": "Art for Kids Hub",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UCs_Z1HspZ4KzPUMsS6E2mww",
+      "name": "Earth Planet",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UCpaQwg8wZRAkFJe3mo1VKSA",
+      "name": "EZ Sử",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
+      "name": "SciShow Kids",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UCQ0Rm899RpYkdH3Ssyczt4w",
+      "name": "Học viện Bò và Gấu",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UCGfA6UdZEmpIwBZ4btAKkgA",
+      "name": "Vooks",
       "maxVideos": 30
     }
   ],

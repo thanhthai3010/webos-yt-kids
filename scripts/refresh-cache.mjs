@@ -85,34 +85,54 @@ async function main() {
   }
 
   // --- Step 2: playlistItems.list per channel (1 page, 50 items) ---
-  // videoId -> { channelIndex } so we know which channel a video belongs to.
-  const channelVideoIds = new Map(); // channelId -> [{videoId, positionHint}]
+  // Prefer the "UULF" long-form playlist (uploads excluding Shorts — an
+  // undocumented but stable YouTube convention); fall back to the raw "UU"
+  // uploads playlist if it doesn't exist or is empty. The duration filter in
+  // step 4 alone is not enough: Shorts can be up to 3 minutes long.
+  const channelVideoIds = new Map(); // channelId -> [videoId]
 
   for (const channelDef of channels) {
     const { channelId, name } = channelDef;
     const uploadsId = uploadsPlaylistByChannel.get(channelId);
 
     if (!uploadsId) {
-      log(`WARN: channel "${name}" (${channelId}) skipped — could not resolve uploads playlist.`);
+      log(`WARN: channel "${name}" (${channelId}) skipped — could not resolve uploads playlist (check the channelId).`);
       continue;
     }
 
-    try {
-      const url = new URL(`${API_BASE}/playlistItems`);
-      url.searchParams.set("part", "contentDetails");
-      url.searchParams.set("playlistId", uploadsId);
-      url.searchParams.set("maxResults", "50");
-      url.searchParams.set("key", apiKey);
+    const longFormId = "UULF" + uploadsId.slice(2);
+    let ids = null;
 
-      const data = await fetchJson(url);
-      quotaUnits += 1;
+    for (const playlistId of [longFormId, uploadsId]) {
+      try {
+        const url = new URL(`${API_BASE}/playlistItems`);
+        url.searchParams.set("part", "contentDetails");
+        url.searchParams.set("playlistId", playlistId);
+        url.searchParams.set("maxResults", "50");
+        url.searchParams.set("key", apiKey);
 
-      const ids = (data.items ?? [])
-        .map((item) => item?.contentDetails?.videoId)
-        .filter(Boolean);
+        const data = await fetchJson(url);
+        quotaUnits += 1;
+
+        const found = (data.items ?? [])
+          .map((item) => item?.contentDetails?.videoId)
+          .filter(Boolean);
+        if (found.length > 0) {
+          if (playlistId === uploadsId && longFormId !== uploadsId) {
+            log(`INFO: channel "${name}" (${channelId}) has no long-form playlist; using raw uploads (Shorts filtered by duration only).`);
+          }
+          ids = found;
+          break;
+        }
+      } catch {
+        // Long-form playlist may 404 for channels without one — try the next.
+      }
+    }
+
+    if (ids) {
       channelVideoIds.set(channelId, ids);
-    } catch (err) {
-      log(`WARN: channel "${name}" (${channelId}) skipped — playlistItems.list failed: ${err.message}`);
+    } else {
+      log(`WARN: channel "${name}" (${channelId}) skipped — no videos found via playlists ${longFormId}/${uploadsId}.`);
     }
   }
 
@@ -157,7 +177,7 @@ async function main() {
     if (!ids) continue; // already warned above
 
     let kept = 0;
-    const dropped = { notEmbeddable: 0, notPublic: 0, isShort: 0, missing: 0 };
+    const dropped = { notEmbeddable: 0, notPublic: 0, isShort: 0, liveOrUpcoming: 0, missing: 0 };
     const videos = [];
 
     for (const videoId of ids) {
@@ -175,7 +195,15 @@ async function main() {
         continue;
       }
       const durationSeconds = parseIso8601Duration(detail.contentDetails?.duration);
-      if (durationSeconds !== null && durationSeconds <= SHORTS_MAX_SECONDS) {
+      // Live streams and upcoming premieres have no usable duration (P0D).
+      if (
+        !durationSeconds ||
+        (detail.snippet?.liveBroadcastContent && detail.snippet.liveBroadcastContent !== "none")
+      ) {
+        dropped.liveOrUpcoming += 1;
+        continue;
+      }
+      if (durationSeconds <= SHORTS_MAX_SECONDS) {
         dropped.isShort += 1;
         continue;
       }
@@ -197,7 +225,7 @@ async function main() {
     log(
       `Channel "${name}" (${channelId}): kept ${kept}/${ids.length} ` +
         `(dropped: notEmbeddable=${dropped.notEmbeddable}, notPublic=${dropped.notPublic}, ` +
-        `isShort=${dropped.isShort}, missing=${dropped.missing}, ` +
+        `isShort=${dropped.isShort}, liveOrUpcoming=${dropped.liveOrUpcoming}, missing=${dropped.missing}, ` +
         `truncatedByMaxVideos=${Math.max(0, videos.length - maxVideos)})`
     );
 

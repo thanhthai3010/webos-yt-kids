@@ -94,7 +94,28 @@ body {
 /* ---------- Home screen: rows ---------- */
 
 #home-screen {
-  padding: 48px 0 80px;
+  padding: 24px 0 80px;
+}
+
+#home-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 72px;
+  margin-bottom: 24px;
+}
+
+#app-title {
+  font-size: 44px;
+  font-weight: 700;
+  margin: 0;
+  color: #f2f2f5;
+}
+
+#reload-btn {
+  font-size: 28px;
+  padding: 14px 36px;
+  margin: 0;
 }
 
 .row {
@@ -110,9 +131,22 @@ body {
 
 .row-track {
   display: flex;
-  overflow-x: hidden;
+  overflow-x: auto;
   padding: 12px 72px;
   scroll-behavior: smooth;
+}
+
+.row-track::-webkit-scrollbar {
+  height: 8px;
+}
+
+.row-track::-webkit-scrollbar-thumb {
+  background: #3a3f52;
+  border-radius: 4px;
+}
+
+.row-track::-webkit-scrollbar-track {
+  background: transparent;
 }
 
 .card {

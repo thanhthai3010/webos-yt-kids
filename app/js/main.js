@@ -4,6 +4,7 @@
   var el = {};
   var rows = []; // { title, videos, cardEls: [] }
   var focus = { rowIndex: 0, colIndex: 0 };
+  var headerFocused = false; // reload button, above row 0
   var rowColMemory = [];
   var lastFocusedCard = null; // { rowIndex, colIndex } to restore after playback
   var pauseFocusIndex = 0; // 0 = Resume, 1 = Back to menu
@@ -32,6 +33,12 @@
     el.btnBack = qs('btn-back');
 
     Remote.bindPointer(el.retryBtn, { onSelect: loadCache });
+
+    el.reloadBtn = qs('reload-btn');
+    Remote.bindPointer(el.reloadBtn, {
+      onFocus: function () { headerFocused = true; applyHomeFocus(); },
+      onSelect: loadCache
+    });
 
     Remote.bindPointer(el.btnResume, {
       onFocus: function () { pauseFocusIndex = 0; applyPauseFocus(); },
@@ -92,6 +99,7 @@
     rows = [];
     rowColMemory = [];
     focus = { rowIndex: 0, colIndex: 0 };
+    headerFocused = false;
 
     if (data.picks && data.picks.length > 0) {
       addRow('Picks', data.picks);
@@ -114,6 +122,11 @@
 
     var trackEl = document.createElement('div');
     trackEl.className = 'row-track';
+    // Magic Remote wheel / desktop mouse wheel scrolls the row horizontally.
+    trackEl.addEventListener('wheel', function (e) {
+      trackEl.scrollLeft += (e.deltaY || 0) + (e.deltaX || 0);
+      e.preventDefault();
+    });
     rowEl.appendChild(trackEl);
 
     var cardEls = [];
@@ -143,6 +156,7 @@
 
     Remote.bindPointer(card, {
       onFocus: function () {
+        headerFocused = false;
         focus.rowIndex = rowIndex;
         focus.colIndex = colIndex;
         applyHomeFocus();
@@ -161,6 +175,11 @@
       for (var c = 0; c < rows[r].cardEls.length; c++) {
         rows[r].cardEls[c].classList.remove('focused');
       }
+    }
+    el.reloadBtn.classList.toggle('focused', headerFocused);
+    if (headerFocused) {
+      window.scrollTo(0, 0);
+      return;
     }
     var row = rows[focus.rowIndex];
     if (!row) {
@@ -202,6 +221,7 @@
   function homeHandlers() {
     return {
       onLeft: function () {
+        if (headerFocused) { return; }
         var row = rows[focus.rowIndex];
         if (!row) { return; }
         if (focus.colIndex > 0) {
@@ -211,6 +231,7 @@
         }
       },
       onRight: function () {
+        if (headerFocused) { return; }
         var row = rows[focus.rowIndex];
         if (!row) { return; }
         if (focus.colIndex < row.cardEls.length - 1) {
@@ -220,14 +241,23 @@
         }
       },
       onUp: function () {
+        if (headerFocused) { return; }
         if (focus.rowIndex > 0) {
           rowColMemory[focus.rowIndex] = focus.colIndex;
           focus.rowIndex--;
           focus.colIndex = clampCol(focus.rowIndex, rowColMemory[focus.rowIndex] || 0);
           applyHomeFocus();
+        } else {
+          headerFocused = true;
+          applyHomeFocus();
         }
       },
       onDown: function () {
+        if (headerFocused) {
+          headerFocused = false;
+          applyHomeFocus();
+          return;
+        }
         if (focus.rowIndex < rows.length - 1) {
           rowColMemory[focus.rowIndex] = focus.colIndex;
           focus.rowIndex++;
@@ -236,6 +266,10 @@
         }
       },
       onEnter: function () {
+        if (headerFocused) {
+          loadCache();
+          return;
+        }
         selectVideo(focus.rowIndex, focus.colIndex);
       },
       onBack: function () {
@@ -392,6 +426,7 @@
   function goHome() {
     hideToast();
     showScreen('home');
+    headerFocused = false;
     if (lastFocusedCard) {
       focus.rowIndex = lastFocusedCard.rowIndex;
       focus.colIndex = lastFocusedCard.colIndex;
