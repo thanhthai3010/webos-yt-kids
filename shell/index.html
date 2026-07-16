@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Kids Videos</title>
   <style>
     /* Mirrors the app's "Toy Shelf" sky so the redirect gap looks intentional
@@ -68,6 +69,12 @@
       font-size: 26px;
       line-height: 1.5;
       color: #2B2250;
+    }
+    @media (max-width: 640px) {
+      body { padding: 24px; box-sizing: border-box; }
+      h1 { font-size: 30px; }
+      p { font-size: 18px; }
+      #fallback { font-size: 18px; }
     }
   </style>
 </head>
