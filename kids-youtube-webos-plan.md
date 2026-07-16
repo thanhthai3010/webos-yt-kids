@@ -184,10 +184,54 @@ App logic iterates on the **hosted** side — push to GitHub Pages, relaunch app
 
 ---
 
-## Next steps
+## Progress (updated 2026-07-16)
 
-1. ~~Research feasibility~~ ✅ (2026-07-16)
-2. Build: app frontend, refresh pipeline, webOS shell, workflow
-3. Get YouTube Data API key (Google Cloud Console) + create GitHub repo, enable Pages, set `YT_API_KEY` secret
-4. Pick channels for `whitelist.json`
-5. **Step-0 TV test** (hosted embed + Skip-Ad click), then full app test on TV
+### Done ✅
+
+- [x] Feasibility research (embed behavior, quota, webOS SDK)
+- [x] Build: app frontend, refresh pipeline, webOS shell, GitHub Actions workflow
+- [x] Fixes from local testing: silent-failure watchdog, player-ready race, all error codes handled
+- [x] Whitelist: 10+ channels with verified IDs; supports `handle`/URL entries; `individualVideos` accepts pasted YouTube URLs
+- [x] Shorts filtering via `UULF` long-form playlists; live/premiere entries dropped
+- [x] UI: "Toy Shelf" kid theme (Baloo 2, candy row colors), Reload button, lazy-loaded thumbnails (~5 requests at boot vs ~420), laptop scrolling fixed
+- [x] webOS UX: media keys (Play/Pause/Stop/RW/FF), double-Back exit hint, pause-on-background, `cursorStateChange` handoff, splash screen + themed redirect stub
+- [x] YouTube Data API key + `YT_API_KEY` secret, daily cron working (13 channels / 387 videos cached)
+- [x] GitHub Pages live: <https://thanhthai3010.github.io/webos-yt-kids/app/>
+- [x] `shell/index.html` points at the Pages URL
+
+### Remaining — TV side (one-time)
+
+- [ ] Commit + push the shell URL change
+- [ ] On TV: install **Developer Mode** app from LG Content Store, create LG developer account, enable Dev Mode (TV reboots)
+- [ ] On Mac: `npm install -g @webos-tools/cli`, then pair with `ares-setup-device` (passphrase from the Dev Mode app, Key Server on)
+- [ ] Package + install + launch (all three commands run **on the Mac**, from the project root):
+  ```bash
+  ares-package ./shell                      # → .ipk written to current dir
+  ares-install --device <tv> com.family.kidsyoutube_1.0.0_all.ipk
+  ares-launch  --device <tv> com.family.kidsyoutube
+  ```
+
+### Remaining — validate on the real TV
+
+- [ ] Video plays from the hosted page (go/no-go check)
+- [ ] Magic Remote pointer can click **Skip Ad** inside the YouTube iframe
+- [ ] Media keys & Back behave as expected on this model
+- [ ] Long video (30+ min): does the screensaver kick in? (known unsolved risk)
+- [ ] Scroll all rows: any blank thumbnails? (if yes → switch cache to `mqdefault`)
+
+### Remaining — whitelist loose ends
+
+- [ ] "Earth Planet": channel unidentified — need the actual channel URL
+- [ ] Confirm EZ Sử = `@ezsu` (two channels share the name)
+
+### Backlog (build on request)
+
+- Deeper shelves: paginate ~200 videos/channel + per-channel "See all" screen
+- Color-button shortcuts (verify key codes on the TV first)
+- Custom progress bar below the player (always-visible progress)
+
+### Recurring maintenance
+
+- Extend Dev Mode before ~41 days (Developer Mode app → **Extend**), else sideloaded apps are removed
+- Reinstall the `.ipk` after TV firmware updates
+- GitHub disables the cron after 60 days of repo inactivity — one click re-enables (email notice)
