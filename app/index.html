@@ -11,7 +11,7 @@
   <!-- Loading screen -->
   <div id="loading-screen" class="screen">
     <div class="center-message">
-      <div class="spinner"></div>
+      <div class="spinner"><span></span><span></span><span></span></div>
       <p>Loading videos&hellip;</p>
     </div>
   </div>
@@ -19,6 +19,7 @@
   <!-- Error screen -->
   <div id="error-screen" class="screen">
     <div class="center-message">
+      <div class="oops-face"></div>
       <p class="error-title">Oops! We couldn't load the videos.</p>
       <button id="retry-btn" class="big-button focusable">Try Again</button>
     </div>
@@ -27,7 +28,10 @@
   <!-- Home screen -->
   <div id="home-screen" class="screen">
     <div id="home-header">
-      <h1 id="app-title">Kids Tube</h1>
+      <div class="title-wrap">
+        <div class="logo-mark"><span class="smile"></span></div>
+        <h1 id="app-title">Kids <span class="accent">Tube</span></h1>
+      </div>
       <button id="reload-btn" class="big-button focusable">&#8635; Reload</button>
     </div>
     <div id="rows"></div>

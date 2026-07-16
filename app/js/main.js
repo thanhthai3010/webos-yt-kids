@@ -12,6 +12,23 @@
   var toastTimer = null;
   var waitingForUnmuteGesture = false;
 
+  // Load thumbnails only as cards approach the viewport — a full grid is
+  // hundreds of img.youtube.com requests if loaded eagerly. IntersectionObserver
+  // exists on Chromium 51+, i.e. every webOS TV this app targets; the fallback
+  // is the old eager behavior.
+  var lazyObserver = null;
+  if ('IntersectionObserver' in window) {
+    lazyObserver = new IntersectionObserver(function (entries) {
+      for (var i = 0; i < entries.length; i++) {
+        if (entries[i].isIntersecting) {
+          var img = entries[i].target;
+          img.src = img.getAttribute('data-src');
+          lazyObserver.unobserve(img);
+        }
+      }
+    }, { rootMargin: '300px' });
+  }
+
   function qs(id) {
     return document.getElementById(id);
   }
@@ -95,6 +112,9 @@
   /* ---------------- Home screen ---------------- */
 
   function buildHome(data) {
+    if (lazyObserver) {
+      lazyObserver.disconnect();
+    }
     el.rowsContainer.innerHTML = '';
     rows = [];
     rowColMemory = [];
@@ -110,28 +130,39 @@
     }
   }
 
+  // Cycled per row so kids can tell rows apart by color, not just text.
+  var ROW_ACCENTS = ['candy-1', 'candy-2', 'candy-3', 'candy-4', 'candy-5'];
+
   function addRow(title, videos) {
     var rowIndex = rows.length;
+    var accent = ROW_ACCENTS[rowIndex % ROW_ACCENTS.length];
     var rowEl = document.createElement('div');
     rowEl.className = 'row';
 
     var titleEl = document.createElement('h2');
     titleEl.className = 'row-title';
     titleEl.textContent = title;
+    titleEl.style.background = 'var(--' + accent + ')';
     rowEl.appendChild(titleEl);
 
     var trackEl = document.createElement('div');
     trackEl.className = 'row-track';
-    // Magic Remote wheel / desktop mouse wheel scrolls the row horizontally.
+    // The track is a horizontal scroller, so the browser latches vertical
+    // wheel deltas onto it where they die (it can't move vertically) instead
+    // of scrolling the page. Route vertical deltas to the page ourselves;
+    // horizontal ones (trackpad swipe) keep native track scrolling.
     trackEl.addEventListener('wheel', function (e) {
-      trackEl.scrollLeft += (e.deltaY || 0) + (e.deltaX || 0);
+      if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
+        return;
+      }
+      window.scrollBy(0, e.deltaY);
       e.preventDefault();
-    });
+    }, { passive: false });
     rowEl.appendChild(trackEl);
 
     var cardEls = [];
     for (var i = 0; i < videos.length; i++) {
-      cardEls.push(buildCard(videos[i], rowIndex, i, trackEl));
+      cardEls.push(buildCard(videos[i], rowIndex, i, trackEl, accent));
     }
 
     el.rowsContainer.appendChild(rowEl);
@@ -139,14 +170,20 @@
     rowColMemory.push(0);
   }
 
-  function buildCard(video, rowIndex, colIndex, trackEl) {
+  function buildCard(video, rowIndex, colIndex, trackEl, accent) {
     var card = document.createElement('div');
     card.className = 'card';
+    card.style.setProperty('--focus-color', 'var(--' + accent + ')');
 
     var img = document.createElement('img');
     img.className = 'card-thumb';
-    img.src = video.thumbnail;
     img.alt = video.title;
+    if (lazyObserver) {
+      img.setAttribute('data-src', video.thumbnail);
+      lazyObserver.observe(img);
+    } else {
+      img.src = video.thumbnail;
+    }
     card.appendChild(img);
 
     var titleEl = document.createElement('div');
