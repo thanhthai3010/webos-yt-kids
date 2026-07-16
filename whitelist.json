@@ -1,53 +1,73 @@
 {
   "channels": [
     {
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelId": "@NatGeoKids",
       "name": "Nat Geo Kids",
       "maxVideos": 30
     },
     {
-      "channelId": "UCMRzqb0rmcil3OxeVFVRIMw",
+      "channelId": "@nasaspaceplace",
       "name": "NASA Space Place",
       "maxVideos": 30
     },
     {
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "channelId": "@Numberblocks",
       "name": "Numberblocks",
       "maxVideos": 30
     },
     {
-      "channelId": "UCeiYXex_fwgYDonaTcSIk6w",
+      "channelId": "@minuteearth",
       "name": "MinuteEarth",
       "maxVideos": 30
     },
     {
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelId": "@ArtforKidsHub",
       "name": "Art for Kids Hub",
       "maxVideos": 30
     },
     {
-      "channelId": "UCs_Z1HspZ4KzPUMsS6E2mww",
+      "channelId": "@EARTHPLANET",
       "name": "Earth Planet",
       "maxVideos": 30
     },
     {
-      "channelId": "UCpaQwg8wZRAkFJe3mo1VKSA",
+      "channelId": "@ezsu",
       "name": "EZ Sử",
       "maxVideos": 30
     },
     {
-      "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
+      "channelId": "@scishowkids",
       "name": "SciShow Kids",
       "maxVideos": 30
     },
     {
-      "channelId": "UCQ0Rm899RpYkdH3Ssyczt4w",
+      "channelId": "@hocvienbovagau",
       "name": "Học viện Bò và Gấu",
       "maxVideos": 30
     },
     {
-      "channelId": "UCGfA6UdZEmpIwBZ4btAKkgA",
+      "channelId": "@vooks",
       "name": "Vooks",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@PuffinRock",
+      "name": "Puffin Rock",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@OfficialLittleBear",
+      "name": "Little Bear",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@AwniesHouse",
+      "name": "StoryTime at Awnie's House",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@freeschool",
+      "name": "Free School",
       "maxVideos": 30
     }
   ],

@@ -26,7 +26,8 @@ Edit `whitelist.json` at the repo root:
 ```json
 {
   "channels": [
-    { "channelId": "UCxxxxxxxx", "name": "Some Kids Channel", "maxVideos": 30 }
+    { "channelId": "UCxxxxxxxx", "name": "Some Kids Channel", "maxVideos": 30 },
+    { "handle": "@freeschool", "maxVideos": 30 }
   ],
   "individualVideos": [
     { "videoId": "abc123", "title": "One specific approved video" }
@@ -34,13 +35,18 @@ Edit `whitelist.json` at the repo root:
 }
 ```
 
-The sample `whitelist.json` in this repo ships with 3 well-known kids
-channels (Super Simple Songs, Cocomelon, Ms Rachel) and one individual video
-(Baby Shark Dance), based on the assistant's training knowledge.
-**Re-verify every `channelId` and `videoId` before relying on this app** —
-open each channel/video on youtube.com and confirm the ID in the URL matches.
-IDs can also be found by running the refresh script once and checking that
-each channel returns videos (an unresolved channel logs a warning).
+Each channel entry needs either a `channelId` (the `UC…` ID) or a `handle` —
+the easiest option, since it's right in the channel URL. `handle` accepts
+`"@freeschool"`, `"freeschool"`, or a full URL like
+`"https://www.youtube.com/@freeschool"` (a handle/URL pasted into the
+`channelId` field also works). Handles are resolved via the API at refresh
+time (1 quota unit each). `name` is optional for handle entries — the
+channel's real title is used if omitted.
+
+Prefer handles over hand-copied channel IDs: an ID with a typo silently
+resolves to nothing, while a bad handle logs a clear warning. After editing,
+run the refresh script and check its stderr summary — every channel should
+report a kept-videos count; an unresolved channel logs a warning naming it.
 
 ## 3. Run the refresh script locally
 

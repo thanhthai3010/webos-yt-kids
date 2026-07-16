@@ -59,8 +59,42 @@ async function main() {
   }
 
   // --- Step 1: channels.list to resolve uploads playlist IDs ---
-  const channelIds = channels.map((c) => c.channelId).filter(Boolean);
+  // Entries may use "channelId" (UC…) or "handle" (@name, bare name, or a
+  // youtube.com/@name URL). Handles cost one channels.list call each
+  // (forHandle can't be batched); IDs are batched 50 per call.
   const uploadsPlaylistByChannel = new Map();
+
+  for (const c of channels) {
+    // Forgiving input: a handle or channel URL pasted into "channelId" works too.
+    const handle = c.handle ? extractHandle(c.handle, true) : extractHandle(c.channelId, false);
+    if (!handle) continue;
+
+    try {
+      const url = new URL(`${API_BASE}/channels`);
+      url.searchParams.set("part", "contentDetails,snippet");
+      url.searchParams.set("forHandle", handle);
+      url.searchParams.set("key", apiKey);
+
+      const data = await fetchJson(url);
+      quotaUnits += 1;
+
+      const item = (data.items ?? [])[0];
+      if (!item) {
+        log(`WARN: handle "@${handle}" not found — channel "${c.name ?? handle}" will be skipped.`);
+        continue;
+      }
+      c.channelId = item.id;
+      if (!c.name) c.name = item.snippet?.title ?? handle;
+      const uploads = item.contentDetails?.relatedPlaylists?.uploads;
+      if (uploads) uploadsPlaylistByChannel.set(item.id, uploads);
+    } catch (err) {
+      log(`WARN: could not resolve handle "@${handle}": ${err.message}`);
+    }
+  }
+
+  const channelIds = channels
+    .map((c) => c.channelId)
+    .filter((id) => id && /^UC[\w-]{22}$/.test(id) && !uploadsPlaylistByChannel.has(id));
 
   if (channelIds.length > 0) {
     try {
@@ -269,6 +303,18 @@ async function main() {
   await writeFile(CACHE_PATH, JSON.stringify(cache, null, 2) + "\n", "utf8");
   log(`Wrote ${CACHE_PATH}`);
   log(`Estimated quota units used: ${quotaUnits}`);
+}
+
+// Pulls a handle out of "@name", "youtube.com/@name" URLs, or (when allowBare)
+// a bare "name". Returns null for anything that is already a UC… channel ID.
+function extractHandle(value, allowBare) {
+  if (!value || typeof value !== "string") return null;
+  const v = value.trim();
+  const urlMatch = /youtube\.com\/@([\w.\-]+)/i.exec(v);
+  if (urlMatch) return urlMatch[1];
+  if (v.startsWith("@")) return v.slice(1);
+  if (/^UC[\w-]{22}$/.test(v)) return null;
+  return allowBare ? v : null;
 }
 
 function chunk(arr, size) {
