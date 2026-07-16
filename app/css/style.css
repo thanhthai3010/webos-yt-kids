@@ -351,6 +351,141 @@ body {
   color: var(--ink);
 }
 
+/* ---------- Math Corner: learning collections zone ----------
+   Collections are ordered courses, not bins — the zone encodes that for a
+   pre-reader through shape and material: square blocks (vs the round candy
+   pills of entertainment rows), grid notebook paper with a red margin line,
+   and numbered episode blocks joined by a dashed path. Level colors follow
+   the official Numberblocks COURSE palette (yellow = to 20, green = to 50). */
+
+.math-zone {
+  margin: 0 44px 50px;
+  border: 3px solid rgba(46, 155, 230, 0.25);
+  border-radius: 26px;
+  padding: 28px 0 8px;
+  overflow: hidden;
+  background-image:
+    linear-gradient(to right, transparent 60px, #FF8A78 60px, #FF8A78 64px, transparent 64px),
+    repeating-linear-gradient(to right, transparent 0, transparent 31px, rgba(46, 155, 230, 0.13) 31px, rgba(46, 155, 230, 0.13) 32px),
+    repeating-linear-gradient(to bottom, transparent 0, transparent 31px, rgba(46, 155, 230, 0.13) 31px, rgba(46, 155, 230, 0.13) 32px);
+  background-color: #fff;
+}
+
+.zone-head {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 0 44px 18px 96px;
+}
+
+.zone-badge {
+  width: 62px;
+  height: 62px;
+  border-radius: 14px;
+  background: var(--candy-4);
+  border: 4px solid #fff;
+  box-shadow: 0 4px 0 rgba(43, 34, 80, 0.18);
+  transform: rotate(-5deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 26px;
+  color: #fff;
+  flex: 0 0 auto;
+}
+
+.zone-title {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 34px;
+  margin: 0;
+  color: var(--ink);
+}
+
+.zone-hint {
+  margin: 0;
+  align-self: flex-end;
+  padding-bottom: 6px;
+  font-size: 20px;
+  color: var(--ink-soft);
+}
+
+/* Per-course level colors, cycled by main.js */
+.course-yellow { --course-accent: #FFC93C; --course-accent-deep: #F5A623; --course-badge-ink: #2B2250; }
+.course-green { --course-accent: #35B27B; --course-accent-deep: #268A5E; --course-badge-ink: #fff; }
+.course-blue { --course-accent: #2E9BE6; --course-accent-deep: #1F7AB8; --course-badge-ink: #fff; }
+.course-grape { --course-accent: #9B6BFF; --course-accent-deep: #7A4DE0; --course-badge-ink: #fff; }
+
+.row--course {
+  margin-bottom: 24px;
+}
+
+/* Square chip (learning geometry) instead of the round candy pill */
+.row--course .row-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 10px;
+  border-radius: 14px;
+  padding: 8px 26px 8px 10px;
+  background: var(--course-accent);
+  color: var(--course-badge-ink);
+  box-shadow: 0 4px 0 var(--course-accent-deep);
+}
+
+.level-cube {
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  color: var(--ink);
+}
+
+/* Extra top padding gives the overhanging episode blocks room inside the
+   scroll container (negative offsets can't overflow a scrollable track).
+   The dashed path is a repeat-x background tile; attachment:local makes it
+   scroll (and tile) with the cards across the full scrollable width. */
+.row--course .row-track {
+  padding-top: 32px;
+  background-image: repeating-linear-gradient(to right, var(--course-accent) 0, var(--course-accent) 26px, transparent 26px, transparent 46px);
+  background-repeat: repeat-x;
+  background-size: 46px 5px;
+  background-position: 0 144px;
+  background-attachment: local;
+}
+
+.row--course .card {
+  position: relative;
+}
+
+.ep-badge {
+  position: absolute;
+  top: -18px;
+  left: -16px;
+  z-index: 3;
+  min-width: 52px;
+  height: 52px;
+  padding: 0 10px;
+  border-radius: 12px;
+  background: var(--course-accent);
+  border: 5px solid #fff;
+  box-shadow: 0 4px 0 rgba(43, 34, 80, 0.18);
+  transform: rotate(-6deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 26px;
+  color: var(--course-badge-ink);
+}
+
 /* ---------- Player screen ---------- */
 
 #player-screen {

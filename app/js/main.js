@@ -133,11 +133,26 @@
     focus = { rowIndex: 0, colIndex: 0 };
     headerFocused = false;
 
-    // Learning collections come first so the curated rows are what the kid
-    // lands on when the app opens.
+    // Learning collections come first, wrapped in the Math Corner zone, so
+    // the curated rows are what the kid lands on when the app opens.
     var collections = data.collections || [];
-    for (var j = 0; j < collections.length; j++) {
-      addRow(collections[j].name, collections[j].videos);
+    if (collections.length > 0) {
+      var zone = document.createElement('div');
+      zone.className = 'math-zone';
+      var zoneHead = document.createElement('div');
+      zoneHead.className = 'zone-head';
+      zoneHead.innerHTML =
+        '<div class="zone-badge">123</div>' +
+        '<h2 class="zone-title">Math Corner</h2>' +
+        '<p class="zone-hint">watch the episodes in order!</p>';
+      zone.appendChild(zoneHead);
+      el.rowsContainer.appendChild(zone);
+      for (var j = 0; j < collections.length; j++) {
+        addRow(collections[j].name, collections[j].videos, {
+          container: zone,
+          courseClass: COURSE_ACCENTS[j % COURSE_ACCENTS.length]
+        });
+      }
     }
     if (data.picks && data.picks.length > 0) {
       addRow('Picks', data.picks);
@@ -150,17 +165,33 @@
 
   // Cycled per row so kids can tell rows apart by color, not just text.
   var ROW_ACCENTS = ['candy-1', 'candy-2', 'candy-3', 'candy-4', 'candy-5'];
+  // Course level colors, matching the official Numberblocks COURSE palette.
+  var COURSE_ACCENTS = ['course-yellow', 'course-green', 'course-blue', 'course-grape'];
 
-  function addRow(title, videos) {
+  function addRow(title, videos, opts) {
+    opts = opts || {};
     var rowIndex = rows.length;
     var accent = ROW_ACCENTS[rowIndex % ROW_ACCENTS.length];
     var rowEl = document.createElement('div');
-    rowEl.className = 'row';
+    rowEl.className = opts.courseClass ? 'row row--course ' + opts.courseClass : 'row';
 
     var titleEl = document.createElement('h2');
     titleEl.className = 'row-title';
-    titleEl.textContent = title;
-    titleEl.style.background = 'var(--' + accent + ')';
+    if (opts.courseClass) {
+      // Square level chip: a white cube showing the course's number (parsed
+      // from the name, e.g. "Numbers to 20" -> 20) next to the name.
+      var levelNum = (title.match(/\d+/) || [])[0];
+      if (levelNum) {
+        var cube = document.createElement('span');
+        cube.className = 'level-cube';
+        cube.textContent = levelNum;
+        titleEl.appendChild(cube);
+      }
+      titleEl.appendChild(document.createTextNode(title));
+    } else {
+      titleEl.textContent = title;
+      titleEl.style.background = 'var(--' + accent + ')';
+    }
     rowEl.appendChild(titleEl);
 
     var trackEl = document.createElement('div');
@@ -180,18 +211,26 @@
 
     var cardEls = [];
     for (var i = 0; i < videos.length; i++) {
-      cardEls.push(buildCard(videos[i], rowIndex, i, trackEl, accent));
+      cardEls.push(buildCard(videos[i], rowIndex, i, trackEl, accent, opts));
     }
 
-    el.rowsContainer.appendChild(rowEl);
+    (opts.container || el.rowsContainer).appendChild(rowEl);
     rows.push({ title: title, videos: videos, el: rowEl, trackEl: trackEl, cardEls: cardEls });
     rowColMemory.push(0);
   }
 
-  function buildCard(video, rowIndex, colIndex, trackEl, accent) {
+  function buildCard(video, rowIndex, colIndex, trackEl, accent, opts) {
     var card = document.createElement('div');
     card.className = 'card';
-    card.style.setProperty('--focus-color', 'var(--' + accent + ')');
+    if (opts && opts.courseClass) {
+      card.style.setProperty('--focus-color', 'var(--course-accent)');
+      var badge = document.createElement('span');
+      badge.className = 'ep-badge';
+      badge.textContent = String(colIndex + 1);
+      card.appendChild(badge);
+    } else {
+      card.style.setProperty('--focus-color', 'var(--' + accent + ')');
+    }
 
     var img = document.createElement('img');
     img.className = 'card-thumb';
