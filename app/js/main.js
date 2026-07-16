@@ -133,6 +133,12 @@
     focus = { rowIndex: 0, colIndex: 0 };
     headerFocused = false;
 
+    // Learning collections come first so the curated rows are what the kid
+    // lands on when the app opens.
+    var collections = data.collections || [];
+    for (var j = 0; j < collections.length; j++) {
+      addRow(collections[j].name, collections[j].videos);
+    }
     if (data.picks && data.picks.length > 0) {
       addRow('Picks', data.picks);
     }

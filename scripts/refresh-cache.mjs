@@ -64,8 +64,20 @@ async function main() {
     return true;
   });
 
-  if (channels.length === 0 && individualVideos.length === 0) {
-    log("ERROR: whitelist.json has no channels and no individualVideos. Nothing to do.");
+  const collections = (Array.isArray(whitelist.collections) ? whitelist.collections : []).filter((c) => {
+    // Entries may carry a bare playlist ID or a pasted playlist URL
+    // (youtube.com/playlist?list=…) in "playlistId" or "url".
+    const id = extractPlaylistId(c.playlistId || c.url);
+    if (!id) {
+      log(`WARN: collection "${c.name ?? JSON.stringify(c)}" skipped — could not extract a playlist ID.`);
+      return false;
+    }
+    c.playlistId = id;
+    return true;
+  });
+
+  if (channels.length === 0 && individualVideos.length === 0 && collections.length === 0) {
+    log("ERROR: whitelist.json has no channels, collections, or individualVideos. Nothing to do.");
     process.exit(1);
   }
 
@@ -181,9 +193,43 @@ async function main() {
     }
   }
 
-  // --- Step 3: collect all video IDs (channels + individualVideos), batch videos.list ---
+  // --- Step 2b: playlistItems.list per collection (1 page, 50 items) ---
+  // Collections are curated playlists (e.g. Numberblocks COURSE levels); the
+  // playlist position is the intended learning order, so it is preserved
+  // as-is — no publishedAt sort, no maxVideos cap.
+  const collectionVideoIds = new Map(); // playlistId -> [videoId] in playlist order
+
+  for (const col of collections) {
+    const { playlistId, name } = col;
+    try {
+      const url = new URL(`${API_BASE}/playlistItems`);
+      url.searchParams.set("part", "contentDetails");
+      url.searchParams.set("playlistId", playlistId);
+      url.searchParams.set("maxResults", "50");
+      url.searchParams.set("key", apiKey);
+
+      const data = await fetchJson(url);
+      quotaUnits += 1;
+
+      const ids = (data.items ?? [])
+        .map((item) => item?.contentDetails?.videoId)
+        .filter(Boolean);
+      if (ids.length > 0) {
+        collectionVideoIds.set(playlistId, ids);
+      } else {
+        log(`WARN: collection "${name}" (${playlistId}) skipped — playlist is empty.`);
+      }
+    } catch (err) {
+      log(`WARN: collection "${name}" (${playlistId}) skipped — ${err.message}`);
+    }
+  }
+
+  // --- Step 3: collect all video IDs (channels + collections + individualVideos), batch videos.list ---
   const allVideoIds = new Set();
   for (const ids of channelVideoIds.values()) {
+    for (const id of ids) allVideoIds.add(id);
+  }
+  for (const ids of collectionVideoIds.values()) {
     for (const id of ids) allVideoIds.add(id);
   }
   for (const v of individualVideos) {
@@ -221,54 +267,14 @@ async function main() {
     const ids = channelVideoIds.get(channelId);
     if (!ids) continue; // already warned above
 
-    let kept = 0;
-    const dropped = { notEmbeddable: 0, notPublic: 0, isShort: 0, liveOrUpcoming: 0, missing: 0 };
-    const videos = [];
-
-    for (const videoId of ids) {
-      const detail = videoDetails.get(videoId);
-      if (!detail) {
-        dropped.missing += 1;
-        continue;
-      }
-      if (detail.status?.embeddable === false) {
-        dropped.notEmbeddable += 1;
-        continue;
-      }
-      if (detail.status?.privacyStatus !== "public") {
-        dropped.notPublic += 1;
-        continue;
-      }
-      const durationSeconds = parseIso8601Duration(detail.contentDetails?.duration);
-      // Live streams and upcoming premieres have no usable duration (P0D).
-      if (
-        !durationSeconds ||
-        (detail.snippet?.liveBroadcastContent && detail.snippet.liveBroadcastContent !== "none")
-      ) {
-        dropped.liveOrUpcoming += 1;
-        continue;
-      }
-      if (durationSeconds <= SHORTS_MAX_SECONDS) {
-        dropped.isShort += 1;
-        continue;
-      }
-
-      videos.push({
-        videoId,
-        title: detail.snippet?.title ?? "(untitled)",
-        publishedAt: detail.snippet?.publishedAt ?? null,
-        durationSeconds: durationSeconds ?? 0,
-        thumbnail: `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
-      });
-    }
+    const { videos, dropped } = filterVideos(ids, videoDetails);
 
     // Sort newest first, cap at maxVideos.
     videos.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
     const finalVideos = videos.slice(0, maxVideos);
-    kept = finalVideos.length;
 
     log(
-      `Channel "${name}" (${channelId}): kept ${kept}/${ids.length} ` +
+      `Channel "${name}" (${channelId}): kept ${finalVideos.length}/${ids.length} ` +
         `(dropped: notEmbeddable=${dropped.notEmbeddable}, notPublic=${dropped.notPublic}, ` +
         `isShort=${dropped.isShort}, liveOrUpcoming=${dropped.liveOrUpcoming}, missing=${dropped.missing}, ` +
         `truncatedByMaxVideos=${Math.max(0, videos.length - maxVideos)})`
@@ -279,6 +285,27 @@ async function main() {
       name,
       videos: finalVideos,
     });
+  }
+
+  // --- Step 4b: filter + build collections output (playlist order preserved) ---
+  const outputCollections = [];
+
+  for (const col of collections) {
+    const { playlistId, name } = col;
+    const ids = collectionVideoIds.get(playlistId);
+    if (!ids) continue; // already warned above
+
+    const { videos, dropped } = filterVideos(ids, videoDetails);
+
+    log(
+      `Collection "${name}" (${playlistId}): kept ${videos.length}/${ids.length} ` +
+        `(dropped: notEmbeddable=${dropped.notEmbeddable}, notPublic=${dropped.notPublic}, ` +
+        `isShort=${dropped.isShort}, liveOrUpcoming=${dropped.liveOrUpcoming}, missing=${dropped.missing})`
+    );
+
+    if (videos.length > 0) {
+      outputCollections.push({ playlistId, name, videos });
+    }
   }
 
   // --- Step 5: build picks (individualVideos), exempt from Shorts filter ---
@@ -300,13 +327,14 @@ async function main() {
     });
   }
 
-  if (outputChannels.length === 0 && picks.length === 0) {
-    log("ERROR: total failure — no channels or picks produced any usable videos. Cache not written.");
+  if (outputChannels.length === 0 && picks.length === 0 && outputCollections.length === 0) {
+    log("ERROR: total failure — no channels, collections, or picks produced any usable videos. Cache not written.");
     process.exit(1);
   }
 
   const cache = {
     generatedAt: new Date().toISOString(),
+    collections: outputCollections,
     channels: outputChannels,
     picks,
   };
@@ -314,6 +342,62 @@ async function main() {
   await writeFile(CACHE_PATH, JSON.stringify(cache, null, 2) + "\n", "utf8");
   log(`Wrote ${CACHE_PATH}`);
   log(`Estimated quota units used: ${quotaUnits}`);
+}
+
+// Applies the safety filters (embeddable, public, not live, not a Short) to a
+// list of video IDs, keeping the input order. Returns { videos, dropped }.
+function filterVideos(ids, videoDetails) {
+  const dropped = { notEmbeddable: 0, notPublic: 0, isShort: 0, liveOrUpcoming: 0, missing: 0 };
+  const videos = [];
+
+  for (const videoId of ids) {
+    const detail = videoDetails.get(videoId);
+    if (!detail) {
+      dropped.missing += 1;
+      continue;
+    }
+    if (detail.status?.embeddable === false) {
+      dropped.notEmbeddable += 1;
+      continue;
+    }
+    if (detail.status?.privacyStatus !== "public") {
+      dropped.notPublic += 1;
+      continue;
+    }
+    const durationSeconds = parseIso8601Duration(detail.contentDetails?.duration);
+    // Live streams and upcoming premieres have no usable duration (P0D).
+    if (
+      !durationSeconds ||
+      (detail.snippet?.liveBroadcastContent && detail.snippet.liveBroadcastContent !== "none")
+    ) {
+      dropped.liveOrUpcoming += 1;
+      continue;
+    }
+    if (durationSeconds <= SHORTS_MAX_SECONDS) {
+      dropped.isShort += 1;
+      continue;
+    }
+
+    videos.push({
+      videoId,
+      title: detail.snippet?.title ?? "(untitled)",
+      publishedAt: detail.snippet?.publishedAt ?? null,
+      durationSeconds,
+      thumbnail: `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
+    });
+  }
+
+  return { videos, dropped };
+}
+
+// Accepts a bare playlist ID or a pasted playlist URL (…?list=PLxxx) and
+// returns the playlist ID, or null.
+function extractPlaylistId(value) {
+  if (!value || typeof value !== "string") return null;
+  const v = value.trim();
+  const m = /[?&]list=([\w-]+)/.exec(v);
+  if (m) return m[1];
+  return /^[\w-]{13,}$/.test(v) ? v : null;
 }
 
 // Accepts a bare 11-char video ID or any common YouTube URL form and returns

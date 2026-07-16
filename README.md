@@ -29,6 +29,9 @@ Edit `whitelist.json` at the repo root:
     { "channelId": "UCxxxxxxxx", "name": "Some Kids Channel", "maxVideos": 30 },
     { "handle": "@freeschool", "maxVideos": 30 }
   ],
+  "collections": [
+    { "name": "Toán: Số đến 20", "playlistId": "PL9swKX1PviEreEPMSNS5uA52jwQSpaSnc" }
+  ],
   "individualVideos": [
     { "videoId": "abc123", "title": "One specific approved video" },
     { "url": "https://www.youtube.com/watch?v=XqZsoesa55w" }
@@ -36,11 +39,18 @@ Edit `whitelist.json` at the repo root:
 }
 ```
 
+`collections` are curated learning rows shown at the top of the home screen.
+Each entry points at an existing public YouTube playlist (a bare `PL…` ID or a
+pasted `playlist?list=…` URL in `playlistId` or `url`) — e.g. the official
+Numberblocks COURSE level playlists. Playlist order is preserved (it's the
+learning order), with no `maxVideos` cap. Note: you can't build your *own*
+playlist for this — made-for-kids videos have Save-to-playlist disabled — so
+point at the channel's existing playlists instead.
+
 `individualVideos` entries take a bare video ID or any pasted YouTube URL
 (`watch?v=`, `youtu.be/`, `shorts/`) in `videoId` or `url` — easiest workflow
 is Share → Copy Link on your phone and paste it in. `title` is optional (the
-real title is fetched). Note: YouTube playlists can't be used for curation —
-made-for-kids videos have Save-to-playlist disabled.
+real title is fetched).
 
 Each channel entry needs either a `channelId` (the `UC…` ID) or a `handle` —
 the easiest option, since it's right in the channel URL. `handle` accepts

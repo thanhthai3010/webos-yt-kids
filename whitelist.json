@@ -66,6 +66,16 @@
       "maxVideos": 30
     }
   ],
+  "collections": [
+    {
+      "name": "Toán: Số đến 20",
+      "playlistId": "PL9swKX1PviEreEPMSNS5uA52jwQSpaSnc"
+    },
+    {
+      "name": "Toán: Số đến 50",
+      "playlistId": "PL9swKX1PviEpyzkIRlxwSsiYa1VPHyS9K"
+    }
+  ],
   "individualVideos": [
     {
       "videoId": "XqZsoesa55w",
