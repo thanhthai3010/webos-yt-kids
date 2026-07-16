@@ -10,7 +10,9 @@
   var lastProgrammaticActionTime = 0;
   var PAUSE_DEBOUNCE_MS = 500;
   var watchdogTimer = null;
-  var WATCHDOG_MS = 8000;
+  // Generous enough to ride out a long/unskippable pre-roll ad that only
+  // reports a single buffering event and then stays quiet until it ends.
+  var WATCHDOG_MS = 20000;
 
   function loadApiScript() {
     if (document.getElementById('yt-iframe-api')) {
@@ -108,6 +110,9 @@
       // legitimately take longer than the watchdog window - reset it instead
       // of treating this as stuck.
       armWatchdog();
+      if (callbacks.onBuffering) {
+        callbacks.onBuffering();
+      }
     }
   }
 

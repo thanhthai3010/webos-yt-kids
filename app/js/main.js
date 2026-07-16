@@ -44,6 +44,7 @@
     el.playerContainer = qs('player-container');
     el.nowPlayingBar = qs('now-playing-bar');
     el.nowPlayingTitle = qs('now-playing-title');
+    el.bufferIndicator = qs('buffer-indicator');
     el.toast = qs('toast');
     el.pauseTitle = qs('pause-title');
     el.btnResume = qs('btn-resume');
@@ -73,6 +74,7 @@
       onQueueEnd: goHome,
       onError: handlePlayerError,
       onStuck: handlePlayerStuck,
+      onBuffering: handlePlayerBuffering,
       onAutoplayBlocked: function () { waitingForUnmuteGesture = true; }
     });
 
@@ -407,11 +409,25 @@
     el.nowPlayingTitle.textContent = video.title;
     el.playerContainer.style.display = '';
     hideToast();
+    hideBufferIndicator();
     showTitleBar();
   }
 
   function handlePlayerPlaying() {
     el.playerContainer.style.display = '';
+    hideBufferIndicator();
+  }
+
+  function handlePlayerBuffering() {
+    // Only relevant while we're actually trying to show a video.
+    if (!el.player.classList.contains('visible')) {
+      return;
+    }
+    el.bufferIndicator.classList.add('visible');
+  }
+
+  function hideBufferIndicator() {
+    el.bufferIndicator.classList.remove('visible');
   }
 
   function showTitleBar() {
@@ -429,6 +445,7 @@
     if (!el.player.classList.contains('visible')) {
       return;
     }
+    hideBufferIndicator();
     el.pauseTitle.textContent = message;
     pauseFocusIndex = 0;
     showScreen('pause');
@@ -436,6 +453,7 @@
   }
 
   function handlePlayerError() {
+    hideBufferIndicator();
     el.playerContainer.style.display = 'none';
     el.toast.textContent = 'Video unavailable, skipping';
     el.toast.style.display = 'block';
@@ -487,8 +505,8 @@
   /* ---------------- Pause screen ---------------- */
 
   function handlePlayerPaused() {
-    var current = Player.getCurrentVideo();
-    el.pauseTitle.textContent = current ? current.title : '';
+    hideBufferIndicator();
+    el.pauseTitle.textContent = '';
     pauseFocusIndex = 0;
     showScreen('pause');
     applyPauseFocus();
@@ -550,6 +568,7 @@
 
   function goHome() {
     hideToast();
+    hideBufferIndicator();
     showScreen('home');
     headerFocused = false;
     if (lastFocusedCard) {

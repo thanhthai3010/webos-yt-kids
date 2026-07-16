@@ -195,6 +195,13 @@ body {
   text-shadow: 0 2px 14px rgba(0, 0, 0, 0.7);
 }
 
+/* No title text on a normal pause (video is visible behind the overlay
+   already) - only the "stuck" error message uses this element, so collapse
+   the reserved spacing when it's empty. */
+.pause-title:empty {
+  display: none;
+}
+
 .pause-buttons {
   display: flex;
   justify-content: center;
@@ -518,6 +525,30 @@ body {
 #yt-player {
   width: 100%;
   height: 100%;
+}
+
+/* Subtle "still working" cue while a video or ad is buffering, so a long
+   ad load doesn't look like a frozen screen before the pause overlay would
+   ever kick in. */
+#buffer-indicator {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  margin: 0;
+  gap: 14px;
+  pointer-events: none;
+}
+
+#buffer-indicator.visible {
+  display: flex;
+}
+
+#buffer-indicator span {
+  width: 20px;
+  height: 20px;
 }
 
 #now-playing-bar {
