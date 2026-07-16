@@ -180,7 +180,10 @@ body {
    YouTube-style, instead of replacing it with an opaque screen. */
 #pause-screen.screen.visible {
   position: fixed;
-  inset: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   z-index: 5;
   width: 100vw;
   height: 100vh;
