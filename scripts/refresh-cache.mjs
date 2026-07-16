@@ -297,25 +297,6 @@ async function main() {
 
     const { videos, dropped } = filterVideos(ids, videoDetails);
 
-    // Playlists are often ordered newest-added-first, not learning order.
-    // When every title carries a season/episode marker like "(S3 E21)",
-    // that is the real sequence — sort by it. Otherwise keep playlist order.
-    const episodeKeys = videos.map((v) => /\bS(\d+)\s*E(\d+)\b/i.exec(v.title));
-    if (videos.length > 0 && episodeKeys.every(Boolean)) {
-      const keyByVideo = new Map(videos.map((v, i) => [v, [+episodeKeys[i][1], +episodeKeys[i][2]]]));
-      videos.sort((a, b) => {
-        const ka = keyByVideo.get(a);
-        const kb = keyByVideo.get(b);
-        return ka[0] - kb[0] || ka[1] - kb[1];
-      });
-    }
-
-    // "Eleven | Numberblocks COURSE - Level 3…" -> "Eleven": the numbered
-    // badge already carries the order, so keep only the episode name.
-    for (const v of videos) {
-      v.title = v.title.split(" | ")[0];
-    }
-
     log(
       `Collection "${name}" (${playlistId}): kept ${videos.length}/${ids.length} ` +
         `(dropped: notEmbeddable=${dropped.notEmbeddable}, notPublic=${dropped.notPublic}, ` +
