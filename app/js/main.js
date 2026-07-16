@@ -48,6 +48,7 @@
       onVideoChange: handleVideoChange,
       onQueueEnd: goHome,
       onError: handlePlayerError,
+      onStuck: handlePlayerStuck,
       onAutoplayBlocked: function () { waitingForUnmuteGesture = true; }
     });
 
@@ -278,6 +279,17 @@
     titleBarTimer = setTimeout(function () {
       el.nowPlayingBar.classList.add('faded');
     }, 3000);
+  }
+
+  function handlePlayerStuck(message) {
+    // Only relevant while we're trying to show a video.
+    if (!el.player.classList.contains('visible')) {
+      return;
+    }
+    el.pauseTitle.textContent = message;
+    pauseFocusIndex = 0;
+    showScreen('pause');
+    applyPauseFocus();
   }
 
   function handlePlayerError() {

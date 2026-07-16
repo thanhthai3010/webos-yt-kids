@@ -2,13 +2,15 @@
 
 (function () {
   var player = null;
-  var apiReady = false;
+  var playerReady = false;
   var pendingVideoId = null;
   var queue = [];
   var queueIndex = -1;
   var callbacks = {};
   var lastProgrammaticActionTime = 0;
   var PAUSE_DEBOUNCE_MS = 500;
+  var watchdogTimer = null;
+  var WATCHDOG_MS = 8000;
 
   function loadApiScript() {
     if (document.getElementById('yt-iframe-api')) {
@@ -17,13 +19,35 @@
     var tag = document.createElement('script');
     tag.id = 'yt-iframe-api';
     tag.src = 'https://www.youtube.com/iframe_api';
+    tag.onerror = function () {
+      if (callbacks.onStuck) {
+        callbacks.onStuck('Could not load the YouTube player (blocked or no network).');
+      }
+    };
     var firstScript = document.getElementsByTagName('script')[0];
     firstScript.parentNode.insertBefore(tag, firstScript);
   }
 
+  // If a video is requested and playback never starts, surface it instead of
+  // leaving a silent black screen (blocked iframe_api, file:// embed refusal…).
+  function armWatchdog() {
+    clearWatchdog();
+    watchdogTimer = setTimeout(function () {
+      if (callbacks.onStuck) {
+        callbacks.onStuck("Video didn't start. Check the network, an ad blocker, or that the app is served over http(s).");
+      }
+    }, WATCHDOG_MS);
+  }
+
+  function clearWatchdog() {
+    if (watchdogTimer) {
+      clearTimeout(watchdogTimer);
+      watchdogTimer = null;
+    }
+  }
+
   // Called by the YouTube IFrame API script once it has loaded.
   window.onYouTubeIframeAPIReady = function () {
-    apiReady = true;
     createPlayer();
   };
 
@@ -48,6 +72,7 @@
   }
 
   function onPlayerReady() {
+    playerReady = true;
     if (pendingVideoId) {
       var videoId = pendingVideoId;
       pendingVideoId = null;
@@ -62,8 +87,10 @@
   function onStateChange(e) {
     var state = e.data;
     if (state === YT.PlayerState.ENDED) {
+      clearWatchdog();
       advanceQueue();
     } else if (state === YT.PlayerState.PAUSED) {
+      clearWatchdog();
       var sinceProgrammatic = Date.now() - lastProgrammaticActionTime;
       if (sinceProgrammatic < PAUSE_DEBOUNCE_MS) {
         return;
@@ -72,6 +99,7 @@
         callbacks.onPause();
       }
     } else if (state === YT.PlayerState.PLAYING) {
+      clearWatchdog();
       if (callbacks.onPlaying) {
         callbacks.onPlaying();
       }
@@ -79,13 +107,12 @@
   }
 
   function onPlayerError(e) {
-    var code = e.data;
-    if (code === 100 || code === 101 || code === 150) {
-      if (callbacks.onError) {
-        callbacks.onError();
-      }
-      advanceQueue();
+    // 2/5: bad id or HTML5 error; 100: removed/private; 101/150: embedding
+    // disabled. All leave a dead player, so skip ahead in every case.
+    if (callbacks.onError) {
+      callbacks.onError(e.data);
     }
+    advanceQueue();
   }
 
   function onAutoplayBlocked() {
@@ -105,6 +132,7 @@
   function advanceQueue() {
     queueIndex++;
     if (queueIndex >= queue.length) {
+      clearWatchdog();
       if (callbacks.onQueueEnd) {
         callbacks.onQueueEnd();
       }
@@ -112,9 +140,12 @@
     }
     var next = queue[queueIndex];
     lastProgrammaticActionTime = Date.now();
-    if (player && apiReady) {
+    if (playerReady) {
       player.loadVideoById(next.videoId);
+    } else {
+      pendingVideoId = next.videoId;
     }
+    armWatchdog();
     if (callbacks.onVideoChange) {
       callbacks.onVideoChange(next, queueIndex);
     }
@@ -125,11 +156,12 @@
     queueIndex = startIndex;
     var video = queue[queueIndex];
     lastProgrammaticActionTime = Date.now();
-    if (!player || !apiReady) {
-      pendingVideoId = video.videoId;
-    } else {
+    if (playerReady) {
       player.loadVideoById(video.videoId);
+    } else {
+      pendingVideoId = video.videoId;
     }
+    armWatchdog();
     if (callbacks.onVideoChange) {
       callbacks.onVideoChange(video, queueIndex);
     }
@@ -156,6 +188,8 @@
   }
 
   function stop() {
+    clearWatchdog();
+    pendingVideoId = null;
     if (player) {
       try {
         player.stopVideo();
