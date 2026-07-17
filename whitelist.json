@@ -6,18 +6,8 @@
       "maxVideos": 30
     },
     {
-      "channelId": "@nasaspaceplace",
-      "name": "NASA Space Place",
-      "maxVideos": 30
-    },
-    {
       "channelId": "@Numberblocks",
       "name": "Numberblocks",
-      "maxVideos": 30
-    },
-    {
-      "channelId": "@minuteearth",
-      "name": "MinuteEarth",
       "maxVideos": 30
     },
     {
@@ -26,13 +16,8 @@
       "maxVideos": 30
     },
     {
-      "channelId": "@bbcearth",
-      "name": "BBC Earth",
-      "maxVideos": 30
-    },
-    {
-      "channelId": "@ezsu",
-      "name": "EZ Sử",
+      "channelId": "@BBCEarthKids",
+      "name": "BBC Earth Kids",
       "maxVideos": 30
     },
     {
@@ -64,22 +49,89 @@
       "channelId": "@freeschool",
       "name": "Free School",
       "maxVideos": 30
+    },
+    {
+      "channelId": "@WildKratts",
+      "name": "Wild Kratts",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@storylineonline",
+      "name": "Storyline Online",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@officialalphablocks",
+      "name": "Alphablocks",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@Netflixjr",
+      "name": "Netflix Jr.",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@Blippi",
+      "name": "Blippi",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@DannyGo",
+      "name": "Danny Go!",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@maddiemoate",
+      "name": "Maddie Moate",
+      "maxVideos": 30
     }
   ],
   "collections": [
     {
-      "name": "Numbers to 20",
-      "playlistId": "PL9swKX1PviEpa5BugsNZD1omRsTT7rTbm"
+      "name": "Level 2 (Orange)",
+      "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O"
     },
     {
-      "name": "Numbers to 50",
-      "playlistId": "PL9swKX1PviEqiv2RFTd7KVnEToPh5jJwm"
+      "name": "Level 3 (Yellow)",
+      "playlistId": "PL9swKX1PviEpa5BugsNZD1omRsTT7rTbm"
     }
   ],
   "individualVideos": [
     {
       "videoId": "XqZsoesa55w",
       "title": "Baby Shark Dance"
+    },
+    {
+      "videoId": "L0MK7qz13bU",
+      "title": "Idina Menzel - Let It Go (From Frozen/Sing-Along)"
+    },
+    {
+      "videoId": "rDhlGc6OcR8",
+      "title": "How Far I'll Go | Moana Lyric Video | DISNEY SING-ALONGS"
+    },
+    {
+      "videoId": "YRpvIiz9G8A",
+      "title": "Encanto - Cast - We Don't Talk About Bruno (From \"Encanto\"/Sing-Along)"
+    },
+    {
+      "videoId": "r4KTqce-9Z0",
+      "title": "Dwayne Johnson - You're Welcome (From \"Moana\"/Sing-Along)"
+    },
+    {
+      "videoId": "BRS2YwEnY8c",
+      "title": "Under The Sea | Little Mermaid Lyric Video | DISNEY SING-ALONGS"
+    },
+    {
+      "videoId": "c6rP-YP4c5I",
+      "title": "Shakira - Try Everything (Official Video)"
+    },
+    {
+      "videoId": "E2d9XDn1bSg",
+      "title": "Remarkable Time-Lapse: Watch Caterpillars Transform Into Butterflies | National Geographic"
+    },
+    {
+      "videoId": "upCu4h0fsTo",
+      "title": "Introducing the Solar System and Beyond: Kids Edition"
     }
   ]
 }
