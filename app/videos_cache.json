@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T07:47:16.078Z",
+  "generatedAt": "2026-07-18T07:21:46.619Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "btG6YkKXENo",
+          "title": "The Odyssey: Explained by Greeking Out 🌊 | Podcast Compilation | Nat Geo Kids",
+          "publishedAt": "2026-07-17T11:00:30Z",
+          "durationSeconds": 9779,
+          "thumbnail": "https://img.youtube.com/vi/btG6YkKXENo/hqdefault.jpg"
+        },
+        {
           "videoId": "mWdiiVimiVg",
           "title": "Search for a Lost City (Made of Gold!) ✨ | Lost Cities with Albert Lin Full Episode",
           "publishedAt": "2026-07-16T11:00:07Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-06-14T11:00:04Z",
           "durationSeconds": 2646,
           "thumbnail": "https://img.youtube.com/vi/aAHGKja5w5Q/hqdefault.jpg"
-        },
-        {
-          "videoId": "ItuV_-b4ZQU",
-          "title": "The Strangest Creatures in the Ocean... They Look Like Aliens! 🐙 | @natgeokids",
-          "publishedAt": "2026-06-13T15:00:02Z",
-          "durationSeconds": 180,
-          "thumbnail": "https://img.youtube.com/vi/ItuV_-b4ZQU/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "kx9VtfQ0djE",
+          "title": "Choo Choo! All Aboard the Numberblock Express | Learn to Count for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-07-17T10:00:12Z",
+          "durationSeconds": 3780,
+          "thumbnail": "https://img.youtube.com/vi/kx9VtfQ0djE/hqdefault.jpg"
+        },
         {
           "videoId": "_43i3MAHsuo",
           "title": "Let's Get Ready for the Summer Holidays! | Learn to Count for Kids Compilation | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-05-28T10:00:30Z",
           "durationSeconds": 2163,
           "thumbnail": "https://img.youtube.com/vi/rg4BVoaW2iY/hqdefault.jpg"
-        },
-        {
-          "videoId": "BIfz9AmbAwE",
-          "title": "Sunday Teatime Story Time  | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-05-24T10:00:12Z",
-          "durationSeconds": 5378,
-          "thumbnail": "https://img.youtube.com/vi/BIfz9AmbAwE/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "LgocsDWUjaM",
+          "title": "How To Draw A Cute Baby Seahorse",
+          "publishedAt": "2026-07-17T14:00:03Z",
+          "durationSeconds": 353,
+          "thumbnail": "https://img.youtube.com/vi/LgocsDWUjaM/hqdefault.jpg"
+        },
         {
           "videoId": "UZvc12UKMyI",
           "title": "How To Draw Hello Kitty Squishmallow",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-05-29T17:20:45Z",
           "durationSeconds": 389,
           "thumbnail": "https://img.youtube.com/vi/1rDN4AqBoGs/hqdefault.jpg"
-        },
-        {
-          "videoId": "VJy3mHZyy-A",
-          "title": "How To Draw Charly The Floating Otter",
-          "publishedAt": "2026-05-29T03:19:49Z",
-          "durationSeconds": 561,
-          "thumbnail": "https://img.youtube.com/vi/VJy3mHZyy-A/hqdefault.jpg"
         }
       ]
     },
@@ -2941,6 +2941,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "BcbFLkdHjA8",
+          "title": "Books for Kids | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-07-17T11:00:02Z",
+          "durationSeconds": 3675,
+          "thumbnail": "https://img.youtube.com/vi/BcbFLkdHjA8/hqdefault.jpg"
+        },
+        {
           "videoId": "OujRcLlEWoo",
           "title": "Long Vowels AY A_E LONG A | Lesson Twenty Five - Phonics Made Easy | Alphablocks",
           "publishedAt": "2026-07-12T11:00:35Z",
@@ -3142,13 +3149,6 @@
           "publishedAt": "2026-05-09T11:00:00Z",
           "durationSeconds": 2225,
           "thumbnail": "https://img.youtube.com/vi/6Zn5KLpBhj0/hqdefault.jpg"
-        },
-        {
-          "videoId": "4pQtYEvbjsA",
-          "title": "Let's Learn all About the Letter Y | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-05-08T11:00:00Z",
-          "durationSeconds": 1386,
-          "thumbnail": "https://img.youtube.com/vi/4pQtYEvbjsA/hqdefault.jpg"
         }
       ]
     },
@@ -3156,6 +3156,13 @@
       "channelId": "UCAJnyTWJPpKXuwgWQDdNWrQ",
       "name": "Netflix Jr.",
       "videos": [
+        {
+          "videoId": "b7hm1405pLk",
+          "title": "Find the Matching Cards 🐠🔍 Under the Sea with Gabby's Dollhouse, Octonauts & MORE | Netflix Jr",
+          "publishedAt": "2026-07-17T13:00:00Z",
+          "durationSeconds": 727,
+          "thumbnail": "https://img.youtube.com/vi/b7hm1405pLk/hqdefault.jpg"
+        },
         {
           "videoId": "Kbs-7ydELjY",
           "title": "Bruda's Plankton Pie Problem 🥧 Sea of Love | Netflix Jr",
@@ -3358,13 +3365,6 @@
           "publishedAt": "2026-06-06T13:00:00Z",
           "durationSeconds": 257,
           "thumbnail": "https://img.youtube.com/vi/VQRPK2R4psQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "P2_fB5w3-9o",
-          "title": "Let's Play Soccer! ⚽ CoComelon Lane, The Creatures Cases, Dog Days Out + MORE! | Netflix Jr",
-          "publishedAt": "2026-06-05T13:00:00Z",
-          "durationSeconds": 947,
-          "thumbnail": "https://img.youtube.com/vi/P2_fB5w3-9o/hqdefault.jpg"
         }
       ]
     },
