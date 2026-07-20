@@ -11,6 +11,12 @@
   var titleBarTimer = null;
   var toastTimer = null;
   var waitingForUnmuteGesture = false;
+  var titleRevealTimer = null;
+  var pendingTitle = '';
+  // Wait for a stable PLAYING signal before showing the title, so a brief
+  // pre-roll buffering spell doesn't flash the requested video's title over
+  // whatever else is currently on screen.
+  var TITLE_REVEAL_DELAY_MS = 2500;
 
   // Load thumbnails only as cards approach the viewport — a full grid is
   // hundreds of img.youtube.com requests if loaded eagerly. IntersectionObserver
@@ -406,16 +412,18 @@
   /* ---------------- Player screen ---------------- */
 
   function handleVideoChange(video) {
-    el.nowPlayingTitle.textContent = video.title;
+    pendingTitle = video.title;
     el.playerContainer.style.display = '';
     hideToast();
     hideBufferIndicator();
-    showTitleBar();
+    cancelTitleReveal();
+    el.nowPlayingBar.classList.add('faded');
   }
 
   function handlePlayerPlaying() {
     el.playerContainer.style.display = '';
     hideBufferIndicator();
+    scheduleTitleReveal();
   }
 
   function handlePlayerBuffering() {
@@ -424,13 +432,32 @@
       return;
     }
     el.bufferIndicator.classList.add('visible');
+    cancelTitleReveal();
   }
 
   function hideBufferIndicator() {
     el.bufferIndicator.classList.remove('visible');
   }
 
+  function scheduleTitleReveal() {
+    if (titleRevealTimer) {
+      return;
+    }
+    titleRevealTimer = setTimeout(function () {
+      titleRevealTimer = null;
+      showTitleBar();
+    }, TITLE_REVEAL_DELAY_MS);
+  }
+
+  function cancelTitleReveal() {
+    if (titleRevealTimer) {
+      clearTimeout(titleRevealTimer);
+      titleRevealTimer = null;
+    }
+  }
+
   function showTitleBar() {
+    el.nowPlayingTitle.textContent = pendingTitle;
     el.nowPlayingBar.classList.remove('faded');
     if (titleBarTimer) {
       clearTimeout(titleBarTimer);
@@ -446,6 +473,7 @@
       return;
     }
     hideBufferIndicator();
+    cancelTitleReveal();
     el.pauseTitle.textContent = message;
     pauseFocusIndex = 0;
     showScreen('pause');
@@ -454,6 +482,7 @@
 
   function handlePlayerError() {
     hideBufferIndicator();
+    cancelTitleReveal();
     el.playerContainer.style.display = 'none';
     el.toast.textContent = 'Video unavailable, skipping';
     el.toast.style.display = 'block';
@@ -506,6 +535,7 @@
 
   function handlePlayerPaused() {
     hideBufferIndicator();
+    cancelTitleReveal();
     el.pauseTitle.textContent = '';
     pauseFocusIndex = 0;
     showScreen('pause');
@@ -569,6 +599,7 @@
   function goHome() {
     hideToast();
     hideBufferIndicator();
+    cancelTitleReveal();
     showScreen('home');
     headerFocused = false;
     if (lastFocusedCard) {

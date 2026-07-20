@@ -13,6 +13,11 @@
   // Generous enough to ride out a long/unskippable pre-roll ad that only
   // reports a single buffering event and then stays quiet until it ends.
   var WATCHDOG_MS = 20000;
+  // On a slow network a long ad can still be genuinely loading past one
+  // window - allow one more grace window (checking real player state, not
+  // just guessing) before surfacing "stuck" to avoid a false positive.
+  var MAX_WATCHDOG_GRACE_ROUNDS = 1;
+  var watchdogGraceRounds = 0;
 
   function loadApiScript() {
     if (document.getElementById('yt-iframe-api')) {
@@ -34,11 +39,21 @@
   // leaving a silent black screen (blocked iframe_api, file:// embed refusal…).
   function armWatchdog() {
     clearWatchdog();
-    watchdogTimer = setTimeout(function () {
-      if (callbacks.onStuck) {
-        callbacks.onStuck("Video didn't start. Check the network, an ad blocker, or that the app is served over http(s).");
-      }
-    }, WATCHDOG_MS);
+    watchdogGraceRounds = 0;
+    watchdogTimer = setTimeout(checkWatchdog, WATCHDOG_MS);
+  }
+
+  function checkWatchdog() {
+    var state = player && playerReady ? player.getPlayerState() : null;
+    var stillLoading = state === YT.PlayerState.BUFFERING || state === YT.PlayerState.UNSTARTED;
+    if (stillLoading && watchdogGraceRounds < MAX_WATCHDOG_GRACE_ROUNDS) {
+      watchdogGraceRounds++;
+      watchdogTimer = setTimeout(checkWatchdog, WATCHDOG_MS);
+      return;
+    }
+    if (callbacks.onStuck) {
+      callbacks.onStuck("Video didn't start. Check the network, an ad blocker, or that the app is served over http(s).");
+    }
   }
 
   function clearWatchdog() {
