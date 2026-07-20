@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T07:52:40.326Z",
+  "generatedAt": "2026-07-20T08:31:00.721Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "gfuOCuP48SA",
+          "title": "Sharks Controlled by the Moon?! | Shark Side of the Moon: Lunar Legends | SHARKFEST🦈",
+          "publishedAt": "2026-07-19T11:00:07Z",
+          "durationSeconds": 2761,
+          "thumbnail": "https://img.youtube.com/vi/gfuOCuP48SA/hqdefault.jpg"
+        },
+        {
           "videoId": "jxOb3d1pmXY",
           "title": "Wildest Animals of America's National Parks! 🦬 | Nat Geo Kids",
           "publishedAt": "2026-07-18T12:00:20Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-06-18T11:00:12Z",
           "durationSeconds": 2537,
           "thumbnail": "https://img.youtube.com/vi/-iybdMx69aM/hqdefault.jpg"
-        },
-        {
-          "videoId": "thHdP0ooOVI",
-          "title": "Mad Scientists Full Episode Compilation 💡🏍️🤖 | @natgeokids",
-          "publishedAt": "2026-06-15T11:00:01Z",
-          "durationSeconds": 4013,
-          "thumbnail": "https://img.youtube.com/vi/thHdP0ooOVI/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "7S6JFsWFxkw",
+          "title": "Sunday Lunchtime Stories | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-07-19T10:00:25Z",
+          "durationSeconds": 4041,
+          "thumbnail": "https://img.youtube.com/vi/7S6JFsWFxkw/hqdefault.jpg"
+        },
         {
           "videoId": "CMfnaCOIxu8",
           "title": "Saturday Cartoons with the Numberblocks | Learn to Count for Kids Compilation | Number Cartoon",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-05-30T10:00:03Z",
           "durationSeconds": 3773,
           "thumbnail": "https://img.youtube.com/vi/Faw_nA8J86Q/hqdefault.jpg"
-        },
-        {
-          "videoId": "iQYrrOk0ugQ",
-          "title": "Early Math Skills for Kindergarten | 123 Learn to Count for Kids - Compilation | Numberblocks",
-          "publishedAt": "2026-05-29T10:00:25Z",
-          "durationSeconds": 4839,
-          "thumbnail": "https://img.youtube.com/vi/iQYrrOk0ugQ/hqdefault.jpg"
         }
       ]
     },
@@ -1011,6 +1011,13 @@
       "name": "BBC Earth Kids",
       "videos": [
         {
+          "videoId": "LxnvQoHwOxQ",
+          "title": "Looking for The Red Wolf! | Learn With Steve Backshall | BBC Earth Kids",
+          "publishedAt": "2026-07-19T14:00:07Z",
+          "durationSeconds": 375,
+          "thumbnail": "https://img.youtube.com/vi/LxnvQoHwOxQ/hqdefault.jpg"
+        },
+        {
           "videoId": "DPCDpSLha6Q",
           "title": "Learn About Bison! | Learn With Steve Backshall | BBC Earth Kids",
           "publishedAt": "2026-07-12T14:00:39Z",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2025-06-07T13:00:57Z",
           "durationSeconds": 341,
           "thumbnail": "https://img.youtube.com/vi/bh0SAXwHajY/hqdefault.jpg"
-        },
-        {
-          "videoId": "iqSu7lNBT08",
-          "title": "The Search for a Poison Dart Frog | Deadly 60 | BBC Earth Kids",
-          "publishedAt": "2025-05-31T13:01:20Z",
-          "durationSeconds": 171,
-          "thumbnail": "https://img.youtube.com/vi/iqSu7lNBT08/hqdefault.jpg"
         }
       ]
     },
@@ -2948,6 +2948,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "o_S7-g-4IN8",
+          "title": "Long Vowels EA E_E LONG E | Lesson Twenty Six - Phonics Made Easy | Alphablocks",
+          "publishedAt": "2026-07-19T11:00:18Z",
+          "durationSeconds": 661,
+          "thumbnail": "https://img.youtube.com/vi/o_S7-g-4IN8/hqdefault.jpg"
+        },
+        {
           "videoId": "8tksnJWAw84",
           "title": "C and K - Best of Friends | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-07-18T11:00:38Z",
@@ -3149,13 +3156,6 @@
           "publishedAt": "2026-05-15T11:00:00Z",
           "durationSeconds": 2053,
           "thumbnail": "https://img.youtube.com/vi/HpAiBgTAtAI/hqdefault.jpg"
-        },
-        {
-          "videoId": "_pvJk1L1dCA",
-          "title": "Earth Day Roundup with Alphablock O | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-05-10T11:00:00Z",
-          "durationSeconds": 1423,
-          "thumbnail": "https://img.youtube.com/vi/_pvJk1L1dCA/hqdefault.jpg"
         }
       ]
     },
