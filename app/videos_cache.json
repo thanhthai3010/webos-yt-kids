@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T08:31:00.721Z",
+  "generatedAt": "2026-07-21T08:01:42.463Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "Yi9HwoE2Zhs",
+          "title": "Roman to the Rescue Full Episode Compilation 🐶",
+          "publishedAt": "2026-07-20T11:00:37Z",
+          "durationSeconds": 4135,
+          "thumbnail": "https://img.youtube.com/vi/Yi9HwoE2Zhs/hqdefault.jpg"
+        },
+        {
           "videoId": "gfuOCuP48SA",
           "title": "Sharks Controlled by the Moon?! | Shark Side of the Moon: Lunar Legends | SHARKFEST🦈",
           "publishedAt": "2026-07-19T11:00:07Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-06-19T11:00:05Z",
           "durationSeconds": 1076,
           "thumbnail": "https://img.youtube.com/vi/5bFx_72XRAs/hqdefault.jpg"
-        },
-        {
-          "videoId": "-iybdMx69aM",
-          "title": "This Space Mission Made History 😲🪐| Mission Pluto and Beyond Full Episode | 40 Minutes | @natgeokids",
-          "publishedAt": "2026-06-18T11:00:12Z",
-          "durationSeconds": 2537,
-          "thumbnail": "https://img.youtube.com/vi/-iybdMx69aM/hqdefault.jpg"
         }
       ]
     },
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "dt63JVUggaY",
+          "title": "How To Draw Kuromi Squishmallow",
+          "publishedAt": "2026-07-20T14:00:39Z",
+          "durationSeconds": 331,
+          "thumbnail": "https://img.youtube.com/vi/dt63JVUggaY/hqdefault.jpg"
+        },
+        {
           "videoId": "LgocsDWUjaM",
           "title": "How To Draw A Cute Baby Seahorse",
           "publishedAt": "2026-07-17T14:00:03Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-01T14:00:04Z",
           "durationSeconds": 385,
           "thumbnail": "https://img.youtube.com/vi/RebTVCGs95U/hqdefault.jpg"
-        },
-        {
-          "videoId": "1rDN4AqBoGs",
-          "title": "How To Draw Benny The Cheeseburger",
-          "publishedAt": "2026-05-29T17:20:45Z",
-          "durationSeconds": 389,
-          "thumbnail": "https://img.youtube.com/vi/1rDN4AqBoGs/hqdefault.jpg"
         }
       ]
     },
