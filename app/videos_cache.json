@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T08:01:42.463Z",
+  "generatedAt": "2026-07-22T08:01:57.197Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,8 +363,15 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "ujCpX9x79aQ",
+          "title": "Kids React to Hammerhead Sharks! 🦈 | Nat Geo Kids",
+          "publishedAt": "2026-07-21T11:00:19Z",
+          "durationSeconds": 120,
+          "thumbnail": "https://img.youtube.com/vi/ujCpX9x79aQ/hqdefault.jpg"
+        },
+        {
           "videoId": "Yi9HwoE2Zhs",
-          "title": "Roman to the Rescue Full Episode Compilation 🐶",
+          "title": "Roman to the Rescue Full Episode Compilation 🐶 | Nat Geo Kids",
           "publishedAt": "2026-07-20T11:00:37Z",
           "durationSeconds": 4135,
           "thumbnail": "https://img.youtube.com/vi/Yi9HwoE2Zhs/hqdefault.jpg"
@@ -564,13 +571,6 @@
           "publishedAt": "2026-06-19T15:00:32Z",
           "durationSeconds": 103,
           "thumbnail": "https://img.youtube.com/vi/a2cOdPxbpNQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "5bFx_72XRAs",
-          "title": "King Midas is Gonna Be Golden Plus Donkey Ears! | Greeking Out Podcast | S3 E3 FULL EP | @natgeokids",
-          "publishedAt": "2026-06-19T11:00:05Z",
-          "durationSeconds": 1076,
-          "thumbnail": "https://img.youtube.com/vi/5bFx_72XRAs/hqdefault.jpg"
         }
       ]
     },
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "qqY2lJCvQR4",
+          "title": "How To Draw Lilypad From Toy Story 5",
+          "publishedAt": "2026-07-21T14:00:15Z",
+          "durationSeconds": 599,
+          "thumbnail": "https://img.youtube.com/vi/qqY2lJCvQR4/hqdefault.jpg"
+        },
+        {
           "videoId": "dt63JVUggaY",
           "title": "How To Draw Kuromi Squishmallow",
           "publishedAt": "2026-07-20T14:00:39Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-02T14:00:27Z",
           "durationSeconds": 325,
           "thumbnail": "https://img.youtube.com/vi/mFdCiBnoTKk/hqdefault.jpg"
-        },
-        {
-          "videoId": "RebTVCGs95U",
-          "title": "How To Draw Milo The Happy Milk",
-          "publishedAt": "2026-06-01T14:00:04Z",
-          "durationSeconds": 385,
-          "thumbnail": "https://img.youtube.com/vi/RebTVCGs95U/hqdefault.jpg"
         }
       ]
     },
@@ -3381,7 +3381,7 @@
       "videos": [
         {
           "videoId": "9uHFH5l-uTg",
-          "title": "Will It Sink or Float? 🌊Blippi & Meekah's Waterpark Vehicle Challenge!",
+          "title": "Will It Sink or Float? 🌊 Blippi & Meekah's Waterpark Vehicle Challenge!",
           "publishedAt": "2026-07-18T10:00:26Z",
           "durationSeconds": 867,
           "thumbnail": "https://img.youtube.com/vi/9uHFH5l-uTg/hqdefault.jpg"
