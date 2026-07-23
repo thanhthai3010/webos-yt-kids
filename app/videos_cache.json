@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T08:01:57.197Z",
+  "generatedAt": "2026-07-23T08:05:00.578Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -378,7 +378,7 @@
         },
         {
           "videoId": "gfuOCuP48SA",
-          "title": "Sharks Controlled by the Moon?! | Shark Side of the Moon: Lunar Legends | SHARKFEST🦈",
+          "title": "Sharks Controlled by the Moon?! | Shark Side of the Moon: Lunar Legends | SHARKFEST🦈 | Nat Geo Kids",
           "publishedAt": "2026-07-19T11:00:07Z",
           "durationSeconds": 2761,
           "thumbnail": "https://img.youtube.com/vi/gfuOCuP48SA/hqdefault.jpg"
@@ -399,7 +399,7 @@
         },
         {
           "videoId": "mWdiiVimiVg",
-          "title": "Search for a Lost City (Made of Gold!) ✨ | Lost Cities with Albert Lin Full Episode",
+          "title": "Search for a Lost City (Made of Gold!) ✨ | Lost Cities with Albert Lin Full Episode | Nat Geo Kids",
           "publishedAt": "2026-07-16T11:00:07Z",
           "durationSeconds": 2526,
           "thumbnail": "https://img.youtube.com/vi/mWdiiVimiVg/hqdefault.jpg"
@@ -427,7 +427,7 @@
         },
         {
           "videoId": "xzS857HdSxQ",
-          "title": "Kids React to Baby Seahorses, Polar Bears and More!",
+          "title": "Kids React to Baby Seahorses, Polar Bears and More! | Nat Geo Kids",
           "publishedAt": "2026-07-10T13:00:01Z",
           "durationSeconds": 111,
           "thumbnail": "https://img.youtube.com/vi/xzS857HdSxQ/hqdefault.jpg"
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "BqzZvCoaFJM",
+          "title": "How To Draw Smarty Pants From Toy Story 5",
+          "publishedAt": "2026-07-22T14:00:13Z",
+          "durationSeconds": 374,
+          "thumbnail": "https://img.youtube.com/vi/BqzZvCoaFJM/hqdefault.jpg"
+        },
+        {
           "videoId": "qqY2lJCvQR4",
           "title": "How To Draw Lilypad From Toy Story 5",
           "publishedAt": "2026-07-21T14:00:15Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-03T13:52:05Z",
           "durationSeconds": 1159,
           "thumbnail": "https://img.youtube.com/vi/3-45pSoa3dc/hqdefault.jpg"
-        },
-        {
-          "videoId": "mFdCiBnoTKk",
-          "title": "How To Draw Fuzzby The Fuzzy Little Monster",
-          "publishedAt": "2026-06-02T14:00:27Z",
-          "durationSeconds": 325,
-          "thumbnail": "https://img.youtube.com/vi/mFdCiBnoTKk/hqdefault.jpg"
         }
       ]
     },
@@ -3164,6 +3164,13 @@
       "name": "Netflix Jr.",
       "videos": [
         {
+          "videoId": "Mk6hzv5OtP0",
+          "title": "ULTIMATE CatRat Compilation 🐱🎶 Gabby's Dollhouse | Netflix Jr",
+          "publishedAt": "2026-07-22T13:00:00Z",
+          "durationSeconds": 948,
+          "thumbnail": "https://img.youtube.com/vi/Mk6hzv5OtP0/hqdefault.jpg"
+        },
+        {
           "videoId": "Uh8FSA923ow",
           "title": "Runaway Wheel in Hot Wheels City! 🛞 Hot Wheels Let's Race | Netflix Jr",
           "publishedAt": "2026-07-18T13:00:00Z",
@@ -3365,13 +3372,6 @@
           "publishedAt": "2026-06-09T13:00:00Z",
           "durationSeconds": 296,
           "thumbnail": "https://img.youtube.com/vi/XpEobRuUVIc/hqdefault.jpg"
-        },
-        {
-          "videoId": "LEn7-FtD210",
-          "title": "Spin the Sesame Street Mystery Wheel! ❤️ Netflix Jr",
-          "publishedAt": "2026-06-08T13:00:00Z",
-          "durationSeconds": 452,
-          "thumbnail": "https://img.youtube.com/vi/LEn7-FtD210/hqdefault.jpg"
         }
       ]
     },
