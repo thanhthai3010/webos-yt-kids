@@ -36,11 +36,6 @@
       "maxVideos": 30
     },
     {
-      "channelId": "@OfficialLittleBear",
-      "name": "Little Bear",
-      "maxVideos": 30
-    },
-    {
       "channelId": "@AwniesHouse",
       "name": "StoryTime at Awnie's House",
       "maxVideos": 30
@@ -48,11 +43,6 @@
     {
       "channelId": "@@TheFableCottage",
       "name": "The Fable Cottage",
-      "maxVideos": 30
-    },
-    {
-      "channelId": "@WildKratts",
-      "name": "Wild Kratts",
       "maxVideos": 30
     },
     {
@@ -83,6 +73,11 @@
     {
       "channelId": "@maddiemoate",
       "name": "Maddie Moate",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "UCLxaUpKb2qYs6_uKqvaWv-w",
+      "name": "VTV7 KIDS",
       "maxVideos": 30
     }
   ],
