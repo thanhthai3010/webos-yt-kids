@@ -1,6 +1,11 @@
 {
   "channels": [
     {
+      "channelId": "UCLxaUpKb2qYs6_uKqvaWv-w",
+      "name": "VTV7 KIDS",
+      "maxVideos": 30
+    },
+    {
       "channelId": "@NatGeoKids",
       "name": "Nat Geo Kids",
       "maxVideos": 30
@@ -73,11 +78,6 @@
     {
       "channelId": "@maddiemoate",
       "name": "Maddie Moate",
-      "maxVideos": 30
-    },
-    {
-      "channelId": "UCLxaUpKb2qYs6_uKqvaWv-w",
-      "name": "VTV7 KIDS",
       "maxVideos": 30
     }
   ],
