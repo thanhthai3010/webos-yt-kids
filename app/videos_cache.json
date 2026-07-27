@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T08:00:20.246Z",
+  "generatedAt": "2026-07-27T09:00:41.434Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "N_7uBiy3yl8",
+          "title": "Mystery of the Sharks in the Bermuda Triangle 🤔 | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
+          "publishedAt": "2026-07-26T11:00:27Z",
+          "durationSeconds": 2642,
+          "thumbnail": "https://img.youtube.com/vi/N_7uBiy3yl8/hqdefault.jpg"
+        },
+        {
           "videoId": "BLYMwlTFlao",
           "title": "Animal Friendships That Make NO Sense! 🦈🐟 | Nat Geo Kids",
           "publishedAt": "2026-07-25T15:00:00Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-06-22T11:00:00Z",
           "durationSeconds": 4048,
           "thumbnail": "https://img.youtube.com/vi/b8EiJp7rmI0/hqdefault.jpg"
-        },
-        {
-          "videoId": "KvO-K9ok_do",
-          "title": "AD | Toy Story 5 Science & Slime 🧪 | Fun Activities & Facts | @natgeokids",
-          "publishedAt": "2026-06-21T15:00:01Z",
-          "durationSeconds": 130,
-          "thumbnail": "https://img.youtube.com/vi/KvO-K9ok_do/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "NyUgWdMCOUM",
+          "title": "Super Summer Sports Day! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-07-26T10:00:39Z",
+          "durationSeconds": 3782,
+          "thumbnail": "https://img.youtube.com/vi/NyUgWdMCOUM/hqdefault.jpg"
+        },
         {
           "videoId": "Gs7bY-PlQr8",
           "title": "Count Together - Friendship for Kids | Learn to Count Compilation | Number Cartoon | Numberblocks",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-06T11:00:09Z",
           "durationSeconds": 7466,
           "thumbnail": "https://img.youtube.com/vi/pLgAouN3T0c/hqdefault.jpg"
-        },
-        {
-          "videoId": "m8qOqzSk0n0",
-          "title": "Sort it Out! - Ultimate Sorting Compilation | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-06-05T10:00:00Z",
-          "durationSeconds": 5643,
-          "thumbnail": "https://img.youtube.com/vi/m8qOqzSk0n0/hqdefault.jpg"
         }
       ]
     },
@@ -1227,8 +1227,15 @@
       "name": "BBC Earth Kids",
       "videos": [
         {
+          "videoId": "iPXxVqqq330",
+          "title": "Mexican Free-Tailed Bat! | Learn With Steve Backshall | BBC Earth Kids",
+          "publishedAt": "2026-07-26T18:30:06Z",
+          "durationSeconds": 383,
+          "thumbnail": "https://img.youtube.com/vi/iPXxVqqq330/hqdefault.jpg"
+        },
+        {
           "videoId": "-2PSwzLuwb0",
-          "title": "The Fastest, Weirdest & Fiercest Dinosaurs! | BBC Earth Kids",
+          "title": "The Fastest, Weirdest & Fiercest Dinosaurs! | Walking With Dinosaurs | BBC Earth Kids",
           "publishedAt": "2026-07-25T16:30:13Z",
           "durationSeconds": 902,
           "thumbnail": "https://img.youtube.com/vi/-2PSwzLuwb0/hqdefault.jpg"
@@ -1428,13 +1435,6 @@
           "publishedAt": "2025-06-14T13:00:18Z",
           "durationSeconds": 286,
           "thumbnail": "https://img.youtube.com/vi/BbiMXV86-mc/hqdefault.jpg"
-        },
-        {
-          "videoId": "EfJ72npSB80",
-          "title": "Rhino Rescue From The Sky! Steve Backshall In Action | Deadly 60 | BBC Earth Kids",
-          "publishedAt": "2025-06-07T15:00:31Z",
-          "durationSeconds": 317,
-          "thumbnail": "https://img.youtube.com/vi/EfJ72npSB80/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "RVOfgOlLbgc",
+          "title": "Long Vowels IE I_E | Lesson Twenty Seven - Phonics Made Easy | Alphablocks",
+          "publishedAt": "2026-07-26T11:00:26Z",
+          "durationSeconds": 665,
+          "thumbnail": "https://img.youtube.com/vi/RVOfgOlLbgc/hqdefault.jpg"
+        },
+        {
           "videoId": "pn8LEufJ0rM",
           "title": "Summer Reading Challenge | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-07-25T11:00:30Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-22T11:00:00Z",
           "durationSeconds": 1904,
           "thumbnail": "https://img.youtube.com/vi/OnC1Okxg90Q/hqdefault.jpg"
-        },
-        {
-          "videoId": "Vu2hhpg10r4",
-          "title": "Let's Sing the Alphabet Song | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-05-17T11:00:00Z",
-          "durationSeconds": 1443,
-          "thumbnail": "https://img.youtube.com/vi/Vu2hhpg10r4/hqdefault.jpg"
         }
       ]
     },
