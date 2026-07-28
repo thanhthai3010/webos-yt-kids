@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T09:00:41.434Z",
+  "generatedAt": "2026-07-28T08:08:29.390Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "hq3n3J1NmBg",
+          "title": "Weird But True Full Episode | Plants, Plants Everywhere🪴🌱 | Nat Geo Kids",
+          "publishedAt": "2026-07-27T11:00:03Z",
+          "durationSeconds": 2643,
+          "thumbnail": "https://img.youtube.com/vi/hq3n3J1NmBg/hqdefault.jpg"
+        },
+        {
           "videoId": "N_7uBiy3yl8",
           "title": "Mystery of the Sharks in the Bermuda Triangle 🤔 | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
           "publishedAt": "2026-07-26T11:00:27Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-06-23T11:00:27Z",
           "durationSeconds": 923,
           "thumbnail": "https://img.youtube.com/vi/Jwl513SoepM/hqdefault.jpg"
-        },
-        {
-          "videoId": "b8EiJp7rmI0",
-          "title": "How Your Brain is Being TRICKED! 🧠 | Brain Games Full Episode Compilation | 1 Hour | @natgeokids",
-          "publishedAt": "2026-06-22T11:00:00Z",
-          "durationSeconds": 4048,
-          "thumbnail": "https://img.youtube.com/vi/b8EiJp7rmI0/hqdefault.jpg"
         }
       ]
     },
@@ -1011,6 +1011,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "lXSh3i6yOMQ",
+          "title": "How To Draw A Cute Hammerhead Shark",
+          "publishedAt": "2026-07-27T14:00:37Z",
+          "durationSeconds": 332,
+          "thumbnail": "https://img.youtube.com/vi/lXSh3i6yOMQ/hqdefault.jpg"
+        },
+        {
           "videoId": "PweK3cgFA7g",
           "title": "How To Draw A Funny Hermit Crab",
           "publishedAt": "2026-07-24T14:00:30Z",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-09T14:00:04Z",
           "durationSeconds": 605,
           "thumbnail": "https://img.youtube.com/vi/PueR2Wzrr5o/hqdefault.jpg"
-        },
-        {
-          "videoId": "ILy_Ki3Tl4Y",
-          "title": "How To Draw A Puppy Soccer Player",
-          "publishedAt": "2026-06-08T14:00:02Z",
-          "durationSeconds": 594,
-          "thumbnail": "https://img.youtube.com/vi/ILy_Ki3Tl4Y/hqdefault.jpg"
         }
       ]
     },
@@ -1659,6 +1659,13 @@
       "name": "Vooks - Stories for Kids",
       "videos": [
         {
+          "videoId": "ljLJmBSiIYE",
+          "title": "Stories About Anger and Temper for Kids | Read Aloud Kids Books | Vooks Narrated Storybooks",
+          "publishedAt": "2026-07-27T12:00:26Z",
+          "durationSeconds": 3110,
+          "thumbnail": "https://img.youtube.com/vi/ljLJmBSiIYE/hqdefault.jpg"
+        },
+        {
           "videoId": "smLK5dsW_WI",
           "title": "Stories About Bugs and Critters for Kids | Read Aloud Kids Books | Vooks Narrated Storybooks",
           "publishedAt": "2026-07-13T12:00:00Z",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2024-11-25T13:00:12Z",
           "durationSeconds": 451,
           "thumbnail": "https://img.youtube.com/vi/BVhT45lRsW8/hqdefault.jpg"
-        },
-        {
-          "videoId": "2n4j4R7HO88",
-          "title": "Winter + Holiday Stories for Kids! | Read Aloud Kids Books | Vooks Narrated Storybooks",
-          "publishedAt": "2024-11-18T14:09:30Z",
-          "durationSeconds": 7390,
-          "thumbnail": "https://img.youtube.com/vi/2n4j4R7HO88/hqdefault.jpg"
         }
       ]
     },
