@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:08:29.390Z",
+  "generatedAt": "2026-07-29T08:12:26.612Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -1011,6 +1011,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "NwYgv1ghdYQ",
+          "title": "How To Draw Pandy Paws From Gabby's Dollhouse",
+          "publishedAt": "2026-07-28T14:00:38Z",
+          "durationSeconds": 583,
+          "thumbnail": "https://img.youtube.com/vi/NwYgv1ghdYQ/hqdefault.jpg"
+        },
+        {
           "videoId": "lXSh3i6yOMQ",
           "title": "How To Draw A Cute Hammerhead Shark",
           "publishedAt": "2026-07-27T14:00:37Z",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-10T18:25:59Z",
           "durationSeconds": 3898,
           "thumbnail": "https://img.youtube.com/vi/8BgTYiXvu8A/hqdefault.jpg"
-        },
-        {
-          "videoId": "PueR2Wzrr5o",
-          "title": "How To Draw A Cartoon Soccer Ball",
-          "publishedAt": "2026-06-09T14:00:04Z",
-          "durationSeconds": 605,
-          "thumbnail": "https://img.youtube.com/vi/PueR2Wzrr5o/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Netflix Jr.",
       "videos": [
         {
+          "videoId": "gCiIQ-qwkVw",
+          "title": "Sandbox SURPRISE! Dig Up Games from Netflix Playground 🪎 KPop Demon Hunters, PJ Masks + MORE!",
+          "publishedAt": "2026-07-28T16:00:01Z",
+          "durationSeconds": 642,
+          "thumbnail": "https://img.youtube.com/vi/gCiIQ-qwkVw/hqdefault.jpg"
+        },
+        {
           "videoId": "exsg8mNJncw",
           "title": "HOT vs COLD Dance Challenge! 🔥🥶 Danny Go! | Netflix Jr",
           "publishedAt": "2026-07-25T13:00:00Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-13T13:00:00Z",
           "durationSeconds": 65,
           "thumbnail": "https://img.youtube.com/vi/6kRcdQ9VrwE/hqdefault.jpg"
-        },
-        {
-          "videoId": "rOt_wud5L88",
-          "title": "Party Time with Elmo & Friends! 🎉 Sesame Street | Netflix Jr",
-          "publishedAt": "2026-06-12T13:00:00Z",
-          "durationSeconds": 424,
-          "thumbnail": "https://img.youtube.com/vi/rOt_wud5L88/hqdefault.jpg"
         }
       ]
     },
