@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T08:12:26.612Z",
+  "generatedAt": "2026-07-30T08:01:13.610Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -1011,6 +1011,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "gT5UBriKUCs",
+          "title": "How To Draw A Baby White Tiger Drinking A Bottle",
+          "publishedAt": "2026-07-29T15:13:47Z",
+          "durationSeconds": 493,
+          "thumbnail": "https://img.youtube.com/vi/gT5UBriKUCs/hqdefault.jpg"
+        },
+        {
           "videoId": "NwYgv1ghdYQ",
           "title": "How To Draw Pandy Paws From Gabby's Dollhouse",
           "publishedAt": "2026-07-28T14:00:38Z",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-15T14:09:00Z",
           "durationSeconds": 646,
           "thumbnail": "https://img.youtube.com/vi/yNecLHlsY4c/hqdefault.jpg"
-        },
-        {
-          "videoId": "8BgTYiXvu8A",
-          "title": "Let's Draw America! 250 Years Celebration 🇺🇸",
-          "publishedAt": "2026-06-10T18:25:59Z",
-          "durationSeconds": 3898,
-          "thumbnail": "https://img.youtube.com/vi/8BgTYiXvu8A/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Netflix Jr.",
       "videos": [
         {
+          "videoId": "JOOj253Gqbs",
+          "title": "Let's Play Hide and Seek! 🐟 Compilation | Dr. Seuss’s Red Fish, Blue Fish | Netflix Jr",
+          "publishedAt": "2026-07-29T13:00:00Z",
+          "durationSeconds": 431,
+          "thumbnail": "https://img.youtube.com/vi/JOOj253Gqbs/hqdefault.jpg"
+        },
+        {
           "videoId": "gCiIQ-qwkVw",
           "title": "Sandbox SURPRISE! Dig Up Games from Netflix Playground 🪎 KPop Demon Hunters, PJ Masks + MORE!",
           "publishedAt": "2026-07-28T16:00:01Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-15T19:02:00Z",
           "durationSeconds": 387,
           "thumbnail": "https://img.youtube.com/vi/Fmu-61yPuz4/hqdefault.jpg"
-        },
-        {
-          "videoId": "6kRcdQ9VrwE",
-          "title": "Peppa & George Bake a Father's Day Cake 🎂 Peppa Pig | Netflix Jr",
-          "publishedAt": "2026-06-13T13:00:00Z",
-          "durationSeconds": 65,
-          "thumbnail": "https://img.youtube.com/vi/6kRcdQ9VrwE/hqdefault.jpg"
         }
       ]
     },
