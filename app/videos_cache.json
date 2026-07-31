@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T08:01:13.610Z",
+  "generatedAt": "2026-07-31T08:24:55.914Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "lnB4Plxl_ps",
+          "title": "Giant Sharks Rule These Waters! | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
+          "publishedAt": "2026-07-30T11:00:04Z",
+          "durationSeconds": 2472,
+          "thumbnail": "https://img.youtube.com/vi/lnB4Plxl_ps/hqdefault.jpg"
+        },
+        {
           "videoId": "hq3n3J1NmBg",
           "title": "Weird But True Full Episode | Plants, Plants Everywhere🪴🌱 | Nat Geo Kids",
           "publishedAt": "2026-07-27T11:00:03Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-06-25T11:00:23Z",
           "durationSeconds": 2643,
           "thumbnail": "https://img.youtube.com/vi/XGoA36YPAdg/hqdefault.jpg"
-        },
-        {
-          "videoId": "Jwl513SoepM",
-          "title": "Big Words for Little Astronauts Book Read-Along 📚| Planets, Space Rocks, & More! 🧑‍🚀🚀 | @natgeokids",
-          "publishedAt": "2026-06-23T11:00:27Z",
-          "durationSeconds": 923,
-          "thumbnail": "https://img.youtube.com/vi/Jwl513SoepM/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "xJ_mQ8jsZK8",
+          "title": "Numberblocks Academy - Learn Math! | Learn to Count for Kids Compilation |  | Numberblocks",
+          "publishedAt": "2026-07-30T10:00:25Z",
+          "durationSeconds": 3775,
+          "thumbnail": "https://img.youtube.com/vi/xJ_mQ8jsZK8/hqdefault.jpg"
+        },
         {
           "videoId": "NyUgWdMCOUM",
           "title": "Super Summer Sports Day! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-07T10:00:27Z",
           "durationSeconds": 1142,
           "thumbnail": "https://img.youtube.com/vi/4EIB7eIWnwo/hqdefault.jpg"
-        },
-        {
-          "videoId": "pLgAouN3T0c",
-          "title": "The Artiest, Most Craftiest Counting 🎨 | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-06-06T11:00:09Z",
-          "durationSeconds": 7466,
-          "thumbnail": "https://img.youtube.com/vi/pLgAouN3T0c/hqdefault.jpg"
         }
       ]
     },
@@ -1010,6 +1010,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "huSw_oIDyFY",
+          "title": "How To Draw A Funny Blueberry Cheesecake",
+          "publishedAt": "2026-07-30T14:00:16Z",
+          "durationSeconds": 391,
+          "thumbnail": "https://img.youtube.com/vi/huSw_oIDyFY/hqdefault.jpg"
+        },
         {
           "videoId": "gT5UBriKUCs",
           "title": "How To Draw A Baby White Tiger Drinking A Bottle",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-16T16:32:06Z",
           "durationSeconds": 1003,
           "thumbnail": "https://img.youtube.com/vi/mzE5nYM_zSI/hqdefault.jpg"
-        },
-        {
-          "videoId": "yNecLHlsY4c",
-          "title": "How To Draw A Soccer Player Doing A Bicycle Kick",
-          "publishedAt": "2026-06-15T14:09:00Z",
-          "durationSeconds": 646,
-          "thumbnail": "https://img.youtube.com/vi/yNecLHlsY4c/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,20 @@
       "name": "Netflix Jr.",
       "videos": [
         {
+          "videoId": "ZbwdqiomnKU",
+          "title": "Storm on Sesame Street ⛈️ TRAILER | Netflix Jr",
+          "publishedAt": "2026-07-30T14:00:00Z",
+          "durationSeconds": 69,
+          "thumbnail": "https://img.youtube.com/vi/ZbwdqiomnKU/hqdefault.jpg"
+        },
+        {
+          "videoId": "ceh453CIass",
+          "title": "Huntrix VS Saja Boys Sticker Challenge! | KPop Demon Hunters | Netflix Playground",
+          "publishedAt": "2026-07-30T13:00:00Z",
+          "durationSeconds": 221,
+          "thumbnail": "https://img.youtube.com/vi/ceh453CIass/hqdefault.jpg"
+        },
+        {
           "videoId": "JOOj253Gqbs",
           "title": "Let's Play Hide and Seek! 🐟 Compilation | Dr. Seuss’s Red Fish, Blue Fish | Netflix Jr",
           "publishedAt": "2026-07-29T13:00:00Z",
@@ -3149,20 +3163,6 @@
           "publishedAt": "2026-06-17T13:00:00Z",
           "durationSeconds": 507,
           "thumbnail": "https://img.youtube.com/vi/l5QApvbuVvk/hqdefault.jpg"
-        },
-        {
-          "videoId": "2_rh5NMgoZ4",
-          "title": "Elmo Builds a Mini City! 🔨 Sesame Street | Netflix Jr",
-          "publishedAt": "2026-06-16T13:00:00Z",
-          "durationSeconds": 138,
-          "thumbnail": "https://img.youtube.com/vi/2_rh5NMgoZ4/hqdefault.jpg"
-        },
-        {
-          "videoId": "Fmu-61yPuz4",
-          "title": "Peppa Smoothie Slime ASMR 🍓🍌 Playtime with Peppa Pig | Netflix Playground",
-          "publishedAt": "2026-06-15T19:02:00Z",
-          "durationSeconds": 387,
-          "thumbnail": "https://img.youtube.com/vi/Fmu-61yPuz4/hqdefault.jpg"
         }
       ]
     },
@@ -3170,6 +3170,13 @@
       "channelId": "UC5PYHgAzJ1wLEidB58SK6Xw",
       "name": "Blippi",
       "videos": [
+        {
+          "videoId": "KlCosaZNSUo",
+          "title": "Blippi and the BIGGEST Bulldozer Ever! 🚧",
+          "publishedAt": "2026-07-30T10:00:37Z",
+          "durationSeconds": 1490,
+          "thumbnail": "https://img.youtube.com/vi/KlCosaZNSUo/hqdefault.jpg"
+        },
         {
           "videoId": "AnHpzWfE6EE",
           "title": "Blippi's Best Construction Vehicles 🏗️ Top 5 Special 🚜",
@@ -3372,13 +3379,6 @@
           "publishedAt": "2026-04-16T14:00:32Z",
           "durationSeconds": 2246,
           "thumbnail": "https://img.youtube.com/vi/DcMq_LtimIE/hqdefault.jpg"
-        },
-        {
-          "videoId": "MVZfCyd7y00",
-          "title": "Blippi & Meekah's Pawesome Animal Race 🦊",
-          "publishedAt": "2026-04-11T10:00:30Z",
-          "durationSeconds": 707,
-          "thumbnail": "https://img.youtube.com/vi/MVZfCyd7y00/hqdefault.jpg"
         }
       ]
     },
