@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T08:24:55.914Z",
+  "generatedAt": "2026-08-01T07:55:10.600Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "MufdODXKaLo",
+          "title": "Olympians Vs. Titans 💥 | Greeking Out Podcast | S4 E1 FULL EP | ‪Nat Geo Kids",
+          "publishedAt": "2026-07-31T11:00:14Z",
+          "durationSeconds": 1238,
+          "thumbnail": "https://img.youtube.com/vi/MufdODXKaLo/hqdefault.jpg"
+        },
+        {
           "videoId": "lnB4Plxl_ps",
           "title": "Giant Sharks Rule These Waters! | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
           "publishedAt": "2026-07-30T11:00:04Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-06-26T11:00:04Z",
           "durationSeconds": 1856,
           "thumbnail": "https://img.youtube.com/vi/Za1tHzMZgl8/hqdefault.jpg"
-        },
-        {
-          "videoId": "XGoA36YPAdg",
-          "title": "Bugs Rule! 🐛🦋🪲 | Weird But True Full Episode | @natgeokids",
-          "publishedAt": "2026-06-25T11:00:23Z",
-          "durationSeconds": 2643,
-          "thumbnail": "https://img.youtube.com/vi/XGoA36YPAdg/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "EbLA1gsJYEI",
+          "title": "The Kindest Numberblocks | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-07-31T10:00:35Z",
+          "durationSeconds": 3944,
+          "thumbnail": "https://img.youtube.com/vi/EbLA1gsJYEI/hqdefault.jpg"
+        },
         {
           "videoId": "xJ_mQ8jsZK8",
           "title": "Numberblocks Academy - Learn Math! | Learn to Count for Kids Compilation |  | Numberblocks",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-11T10:00:03Z",
           "durationSeconds": 5105,
           "thumbnail": "https://img.youtube.com/vi/m6MXIJsfppc/hqdefault.jpg"
-        },
-        {
-          "videoId": "4EIB7eIWnwo",
-          "title": "Nature Numberblobs Hunt | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-06-07T10:00:27Z",
-          "durationSeconds": 1142,
-          "thumbnail": "https://img.youtube.com/vi/4EIB7eIWnwo/hqdefault.jpg"
         }
       ]
     },
@@ -1010,6 +1010,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "NB_9dHGxnjU",
+          "title": "How To Draw An Ice Cream Cart",
+          "publishedAt": "2026-07-31T14:00:19Z",
+          "durationSeconds": 550,
+          "thumbnail": "https://img.youtube.com/vi/NB_9dHGxnjU/hqdefault.jpg"
+        },
         {
           "videoId": "huSw_oIDyFY",
           "title": "How To Draw A Funny Blueberry Cheesecake",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-18T13:53:45Z",
           "durationSeconds": 392,
           "thumbnail": "https://img.youtube.com/vi/rUMKTka2ZU0/hqdefault.jpg"
-        },
-        {
-          "videoId": "mzE5nYM_zSI",
-          "title": "How To Draw A Soccer Ball Folding Surprise",
-          "publishedAt": "2026-06-16T16:32:06Z",
-          "durationSeconds": 1003,
-          "thumbnail": "https://img.youtube.com/vi/mzE5nYM_zSI/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,20 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "e33JKhyvT-c",
+          "title": "Super Saturday Morning Cartoons | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-01T05:00:27Z",
+          "durationSeconds": 2444,
+          "thumbnail": "https://img.youtube.com/vi/e33JKhyvT-c/hqdefault.jpg"
+        },
+        {
+          "videoId": "JhBk8ntzzv0",
+          "title": "Playtime in Alphaland! | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-07-31T11:00:30Z",
+          "durationSeconds": 3704,
+          "thumbnail": "https://img.youtube.com/vi/JhBk8ntzzv0/hqdefault.jpg"
+        },
+        {
           "videoId": "RVOfgOlLbgc",
           "title": "Long Vowels IE I_E | Lesson Twenty Seven - Phonics Made Easy | Alphablocks",
           "publishedAt": "2026-07-26T11:00:26Z",
@@ -2933,20 +2947,6 @@
           "publishedAt": "2026-05-24T11:00:00Z",
           "durationSeconds": 1495,
           "thumbnail": "https://img.youtube.com/vi/5PPmT9SsKpI/hqdefault.jpg"
-        },
-        {
-          "videoId": "OQ_zWGWpyHM",
-          "title": "Reading Made Fun! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-05-23T11:00:00Z",
-          "durationSeconds": 1778,
-          "thumbnail": "https://img.youtube.com/vi/OQ_zWGWpyHM/hqdefault.jpg"
-        },
-        {
-          "videoId": "OnC1Okxg90Q",
-          "title": "Last Day of School Spelling! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-05-22T11:00:00Z",
-          "durationSeconds": 1904,
-          "thumbnail": "https://img.youtube.com/vi/OnC1Okxg90Q/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UCAJnyTWJPpKXuwgWQDdNWrQ",
       "name": "Netflix Jr.",
       "videos": [
+        {
+          "videoId": "4NRG8E9X9vQ",
+          "title": "Netflix Jr Jams Sing-Along Compilation 🎶 The Creature Cases, Gabby's Dollhouse & MORE! | Netflix Jr",
+          "publishedAt": "2026-07-31T13:00:00Z",
+          "durationSeconds": 782,
+          "thumbnail": "https://img.youtube.com/vi/4NRG8E9X9vQ/hqdefault.jpg"
+        },
         {
           "videoId": "ZbwdqiomnKU",
           "title": "Storm on Sesame Street ⛈️ TRAILER | Netflix Jr",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-18T13:00:00Z",
           "durationSeconds": 526,
           "thumbnail": "https://img.youtube.com/vi/wI0VALKN2zU/hqdefault.jpg"
-        },
-        {
-          "videoId": "l5QApvbuVvk",
-          "title": "Mystery Wheel of Sports Games! ⚽🏀 Sesame Street, Gabby's Dollhouse & More | Netflix Playground",
-          "publishedAt": "2026-06-17T13:00:00Z",
-          "durationSeconds": 507,
-          "thumbnail": "https://img.youtube.com/vi/l5QApvbuVvk/hqdefault.jpg"
         }
       ]
     },
