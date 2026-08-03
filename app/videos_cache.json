@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T07:57:19.624Z",
+  "generatedAt": "2026-08-03T08:53:24.477Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "R0tOs6e-KT4",
+          "title": "Kids React to Animal Superpowers 🦸💥 | Nat Geo Kids",
+          "publishedAt": "2026-08-02T13:00:16Z",
+          "durationSeconds": 103,
+          "thumbnail": "https://img.youtube.com/vi/R0tOs6e-KT4/hqdefault.jpg"
+        },
+        {
+          "videoId": "nmh5ot2F6gM",
+          "title": "Super Strange Animals 😲 | Super Animals Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-08-02T11:00:24Z",
+          "durationSeconds": 1265,
+          "thumbnail": "https://img.youtube.com/vi/nmh5ot2F6gM/hqdefault.jpg"
+        },
+        {
           "videoId": "xlXtt3IRckY",
           "title": "Learn the Secrets of Baby Lions! 🦁✨ Animal Facts for Kids | Nat Geo Kids",
           "publishedAt": "2026-08-01T15:00:14Z",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-06-27T15:00:37Z",
           "durationSeconds": 237,
           "thumbnail": "https://img.youtube.com/vi/4_I_EcTsSg4/hqdefault.jpg"
-        },
-        {
-          "videoId": "qnLPCBLEGMY",
-          "title": "America's Funniest Animal Videos! 🤣 | Eagles, Octopuses, & More! | Full Episode | @natgeokids",
-          "publishedAt": "2026-06-27T11:00:06Z",
-          "durationSeconds": 2641,
-          "thumbnail": "https://img.youtube.com/vi/qnLPCBLEGMY/hqdefault.jpg"
-        },
-        {
-          "videoId": "5wPHwH-rTcA",
-          "title": "Big Words for Little Paleontologists Book Read-Along📚 | Dinosaurs, Fossils, & More!🦖🦴| @natgeokids",
-          "publishedAt": "2026-06-26T13:00:17Z",
-          "durationSeconds": 897,
-          "thumbnail": "https://img.youtube.com/vi/5wPHwH-rTcA/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "L7K8n_uZrWY",
+          "title": "Who is the Hide and Seek Champion? | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-02T10:00:19Z",
+          "durationSeconds": 4047,
+          "thumbnail": "https://img.youtube.com/vi/L7K8n_uZrWY/hqdefault.jpg"
+        },
         {
           "videoId": "vjOauI4OWPc",
           "title": "Summer Vacation Counting! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-13T10:00:11Z",
           "durationSeconds": 3672,
           "thumbnail": "https://img.youtube.com/vi/eAKw7xanpJg/hqdefault.jpg"
-        },
-        {
-          "videoId": "WocJ9MaE9kA",
-          "title": "10's Awesome Adventure | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-06-12T10:00:32Z",
-          "durationSeconds": 4313,
-          "thumbnail": "https://img.youtube.com/vi/WocJ9MaE9kA/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "-1WEie8vWIs",
+          "title": "Phonetic Sounds from A to Z | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-02T11:00:35Z",
+          "durationSeconds": 1935,
+          "thumbnail": "https://img.youtube.com/vi/-1WEie8vWIs/hqdefault.jpg"
+        },
+        {
           "videoId": "e33JKhyvT-c",
           "title": "Super Saturday Morning Cartoons | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-01T05:00:27Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-29T11:00:00Z",
           "durationSeconds": 1623,
           "thumbnail": "https://img.youtube.com/vi/nUqO0kGAJdA/hqdefault.jpg"
-        },
-        {
-          "videoId": "5PPmT9SsKpI",
-          "title": "The Funniest Moments in Alphaland! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-05-24T11:00:00Z",
-          "durationSeconds": 1495,
-          "thumbnail": "https://img.youtube.com/vi/5PPmT9SsKpI/hqdefault.jpg"
         }
       ]
     },
