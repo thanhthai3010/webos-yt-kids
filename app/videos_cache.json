@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T08:53:24.477Z",
+  "generatedAt": "2026-08-04T08:11:58.218Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "2dmaCb5sf9w",
+          "title": "Sharks Found Where?! | Full Episode Compilation | SHARKFEST 🦈 | Nat Geo Kids",
+          "publishedAt": "2026-08-03T11:00:08Z",
+          "durationSeconds": 7873,
+          "thumbnail": "https://img.youtube.com/vi/2dmaCb5sf9w/hqdefault.jpg"
+        },
+        {
           "videoId": "R0tOs6e-KT4",
           "title": "Kids React to Animal Superpowers 🦸💥 | Nat Geo Kids",
           "publishedAt": "2026-08-02T13:00:16Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-06-28T11:00:22Z",
           "durationSeconds": 2637,
           "thumbnail": "https://img.youtube.com/vi/_fCa2cntJ2M/hqdefault.jpg"
-        },
-        {
-          "videoId": "4_I_EcTsSg4",
-          "title": "AD | Toy Story 5: Slime, Science & History of Toys! 📚🧪| @natgeokids",
-          "publishedAt": "2026-06-27T15:00:37Z",
-          "durationSeconds": 237,
-          "thumbnail": "https://img.youtube.com/vi/4_I_EcTsSg4/hqdefault.jpg"
         }
       ]
     },
@@ -1011,6 +1011,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "-ZtZrnxgm3k",
+          "title": "How To Draw Funny Fruit Friends",
+          "publishedAt": "2026-08-03T14:00:15Z",
+          "durationSeconds": 423,
+          "thumbnail": "https://img.youtube.com/vi/-ZtZrnxgm3k/hqdefault.jpg"
+        },
+        {
           "videoId": "NB_9dHGxnjU",
           "title": "How To Draw An Ice Cream Cart",
           "publishedAt": "2026-07-31T14:00:19Z",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-19T16:21:16Z",
           "durationSeconds": 595,
           "thumbnail": "https://img.youtube.com/vi/O9iotlHmt2k/hqdefault.jpg"
-        },
-        {
-          "videoId": "rUMKTka2ZU0",
-          "title": "How To Draw Chompers The Crocodile",
-          "publishedAt": "2026-06-18T13:53:45Z",
-          "durationSeconds": 392,
-          "thumbnail": "https://img.youtube.com/vi/rUMKTka2ZU0/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Netflix Jr.",
       "videos": [
         {
+          "videoId": "l5VofqdCu5Y",
+          "title": "Grouchy Weather Report with Oscar and Cookie Monster | Sesame Street | Netflix Jr",
+          "publishedAt": "2026-08-03T19:00:00Z",
+          "durationSeconds": 145,
+          "thumbnail": "https://img.youtube.com/vi/l5VofqdCu5Y/hqdefault.jpg"
+        },
+        {
           "videoId": "G2iWXTyqZNc",
           "title": "Shark Mode at the Beach! 🦈 Sharkdog | Netflix Jr",
           "publishedAt": "2026-08-01T13:00:00Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-20T13:00:00Z",
           "durationSeconds": 240,
           "thumbnail": "https://img.youtube.com/vi/V_CJMqx77TU/hqdefault.jpg"
-        },
-        {
-          "videoId": "OOPOvoGVQp8",
-          "title": "Summer of Fun Singalong for Kids ☀️🎶 Sesame Street, Ms. Rachel, Danny Go & MORE | Netflix Jr Jams",
-          "publishedAt": "2026-06-19T13:00:00Z",
-          "durationSeconds": 144,
-          "thumbnail": "https://img.youtube.com/vi/OOPOvoGVQp8/hqdefault.jpg"
         }
       ]
     },
