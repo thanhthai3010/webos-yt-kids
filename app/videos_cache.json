@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:11:58.218Z",
+  "generatedAt": "2026-08-05T08:10:14.996Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -1011,6 +1011,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "co3ARKnKJBk",
+          "title": "How To Draw A Funny Cookie Dunking Into Milk",
+          "publishedAt": "2026-08-04T14:00:08Z",
+          "durationSeconds": 517,
+          "thumbnail": "https://img.youtube.com/vi/co3ARKnKJBk/hqdefault.jpg"
+        },
+        {
           "videoId": "-ZtZrnxgm3k",
           "title": "How To Draw Funny Fruit Friends",
           "publishedAt": "2026-08-03T14:00:15Z",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-22T14:18:52Z",
           "durationSeconds": 603,
           "thumbnail": "https://img.youtube.com/vi/ll4qNMUzcr0/hqdefault.jpg"
-        },
-        {
-          "videoId": "O9iotlHmt2k",
-          "title": "How To Draw A Cowgirl and Cowboy Crab",
-          "publishedAt": "2026-06-19T16:21:16Z",
-          "durationSeconds": 595,
-          "thumbnail": "https://img.youtube.com/vi/O9iotlHmt2k/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Netflix Jr.",
       "videos": [
         {
+          "videoId": "0m8VWTFUmPc",
+          "title": "Sing Together Through the Storm! 🎶🌧️ Storm on Sesame Street | Netflix Jr",
+          "publishedAt": "2026-08-04T13:00:00Z",
+          "durationSeconds": 235,
+          "thumbnail": "https://img.youtube.com/vi/0m8VWTFUmPc/hqdefault.jpg"
+        },
+        {
           "videoId": "l5VofqdCu5Y",
           "title": "Grouchy Weather Report with Oscar and Cookie Monster | Sesame Street | Netflix Jr",
           "publishedAt": "2026-08-03T19:00:00Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-22T13:00:01Z",
           "durationSeconds": 143,
           "thumbnail": "https://img.youtube.com/vi/jTntIBDg-g0/hqdefault.jpg"
-        },
-        {
-          "videoId": "V_CJMqx77TU",
-          "title": "HUNTR/X Concert Sticker Challenge ⭐️ KPop Demon Hunters | Netflix Playground",
-          "publishedAt": "2026-06-20T13:00:00Z",
-          "durationSeconds": 240,
-          "thumbnail": "https://img.youtube.com/vi/V_CJMqx77TU/hqdefault.jpg"
         }
       ]
     },
