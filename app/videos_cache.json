@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T08:10:14.996Z",
+  "generatedAt": "2026-08-06T08:09:04.162Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -1011,6 +1011,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "Yrk2QyVTLGw",
+          "title": "How To Draw A Traffic Light",
+          "publishedAt": "2026-08-05T14:00:25Z",
+          "durationSeconds": 360,
+          "thumbnail": "https://img.youtube.com/vi/Yrk2QyVTLGw/hqdefault.jpg"
+        },
+        {
           "videoId": "co3ARKnKJBk",
           "title": "How To Draw A Funny Cookie Dunking Into Milk",
           "publishedAt": "2026-08-04T14:00:08Z",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-23T14:00:23Z",
           "durationSeconds": 453,
           "thumbnail": "https://img.youtube.com/vi/dm958wqxQVg/hqdefault.jpg"
-        },
-        {
-          "videoId": "ll4qNMUzcr0",
-          "title": "How To Draw The World Cup Trophy",
-          "publishedAt": "2026-06-22T14:18:52Z",
-          "durationSeconds": 603,
-          "thumbnail": "https://img.youtube.com/vi/ll4qNMUzcr0/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Netflix Jr.",
       "videos": [
         {
+          "videoId": "CTjhizY_a7Y",
+          "title": "Let's Play Netflix Playground! +30 Mins 🎮 KPop Demon Hunters, Gabby's Dollhouse & MORE!",
+          "publishedAt": "2026-08-05T13:00:00Z",
+          "durationSeconds": 1960,
+          "thumbnail": "https://img.youtube.com/vi/CTjhizY_a7Y/hqdefault.jpg"
+        },
+        {
           "videoId": "0m8VWTFUmPc",
           "title": "Sing Together Through the Storm! 🎶🌧️ Storm on Sesame Street | Netflix Jr",
           "publishedAt": "2026-08-04T13:00:00Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-23T13:00:00Z",
           "durationSeconds": 438,
           "thumbnail": "https://img.youtube.com/vi/xJ2SwSUzCHI/hqdefault.jpg"
-        },
-        {
-          "videoId": "jTntIBDg-g0",
-          "title": "Imagine a Perfect Summer with Cookie Monster! 🍪🌊🏖️ Sesame Street | Netflix Jr",
-          "publishedAt": "2026-06-22T13:00:01Z",
-          "durationSeconds": 143,
-          "thumbnail": "https://img.youtube.com/vi/jTntIBDg-g0/hqdefault.jpg"
         }
       ]
     },
@@ -3170,6 +3170,13 @@
       "channelId": "UC5PYHgAzJ1wLEidB58SK6Xw",
       "name": "Blippi",
       "videos": [
+        {
+          "videoId": "2T2ufNy9Lw0",
+          "title": "Blippi’s Back to School Special! 🏫",
+          "publishedAt": "2026-08-05T10:00:04Z",
+          "durationSeconds": 2356,
+          "thumbnail": "https://img.youtube.com/vi/2T2ufNy9Lw0/hqdefault.jpg"
+        },
         {
           "videoId": "n2KjGU80YEc",
           "title": "Blippi & Meekah's Air Vs. Water Vehicle Challenge ✈️",
@@ -3372,13 +3379,6 @@
           "publishedAt": "2026-04-23T10:00:06Z",
           "durationSeconds": 3388,
           "thumbnail": "https://img.youtube.com/vi/S6PUOZ5I3PM/hqdefault.jpg"
-        },
-        {
-          "videoId": "xcJuH5flDic",
-          "title": "Be Kind to Animals (feat. Aprende Peque) 🎵",
-          "publishedAt": "2026-04-18T10:01:34Z",
-          "durationSeconds": 130,
-          "thumbnail": "https://img.youtube.com/vi/xcJuH5flDic/hqdefault.jpg"
         }
       ]
     },
