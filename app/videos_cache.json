@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T08:09:04.162Z",
+  "generatedAt": "2026-08-07T06:55:29.581Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "KUS_HpTJWzg",
+          "title": "All About Space! 🪐🚀 | Compilation | Nat Geo Kids",
+          "publishedAt": "2026-08-06T11:00:18Z",
+          "durationSeconds": 2851,
+          "thumbnail": "https://img.youtube.com/vi/KUS_HpTJWzg/hqdefault.jpg"
+        },
+        {
           "videoId": "2dmaCb5sf9w",
           "title": "Sharks Found Where?! | Full Episode Compilation | SHARKFEST 🦈 | Nat Geo Kids",
           "publishedAt": "2026-08-03T11:00:08Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-02T11:00:26Z",
           "durationSeconds": 1798,
           "thumbnail": "https://img.youtube.com/vi/QdQqxoPNsCo/hqdefault.jpg"
-        },
-        {
-          "videoId": "_fCa2cntJ2M",
-          "title": "Playing Soccer Can Create Electricity?! ⚽⚡| Positive Energy Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-06-28T11:00:22Z",
-          "durationSeconds": 2637,
-          "thumbnail": "https://img.youtube.com/vi/_fCa2cntJ2M/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "okraTNro0tg",
+          "title": "Every Numberblock 100 Appearance Ever! | Learn to Count for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-08-06T10:00:02Z",
+          "durationSeconds": 2673,
+          "thumbnail": "https://img.youtube.com/vi/okraTNro0tg/hqdefault.jpg"
+        },
         {
           "videoId": "L7K8n_uZrWY",
           "title": "Who is the Hide and Seek Champion? | Learn to Count for Kids | Number Cartoon | Numberblocks",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-14T10:00:12Z",
           "durationSeconds": 3774,
           "thumbnail": "https://img.youtube.com/vi/K6flN_1PJ4A/hqdefault.jpg"
-        },
-        {
-          "videoId": "eAKw7xanpJg",
-          "title": "Oh No! There's Too Many Three's! | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-06-13T10:00:11Z",
-          "durationSeconds": 3672,
-          "thumbnail": "https://img.youtube.com/vi/eAKw7xanpJg/hqdefault.jpg"
         }
       ]
     },
@@ -1010,6 +1010,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "9aCuNd3faBA",
+          "title": "How To Draw Ocho The Octopus",
+          "publishedAt": "2026-08-06T14:00:34Z",
+          "durationSeconds": 413,
+          "thumbnail": "https://img.youtube.com/vi/9aCuNd3faBA/hqdefault.jpg"
+        },
         {
           "videoId": "Yrk2QyVTLGw",
           "title": "How To Draw A Traffic Light",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-24T14:00:04Z",
           "durationSeconds": 376,
           "thumbnail": "https://img.youtube.com/vi/dk4h84TuFPo/hqdefault.jpg"
-        },
-        {
-          "videoId": "dm958wqxQVg",
-          "title": "How To Draw A Sushi Boat With Buddies",
-          "publishedAt": "2026-06-23T14:00:23Z",
-          "durationSeconds": 453,
-          "thumbnail": "https://img.youtube.com/vi/dm958wqxQVg/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "StoryTime at Awnie's House",
       "videos": [
         {
+          "videoId": "2gTe0TkKowM",
+          "title": "FIRST DAY JITTERS 📚 | Kids Book Read Aloud | Back to School Story for Children",
+          "publishedAt": "2026-08-06T11:00:14Z",
+          "durationSeconds": 301,
+          "thumbnail": "https://img.youtube.com/vi/2gTe0TkKowM/hqdefault.jpg"
+        },
+        {
           "videoId": "ToFClyYSaAU",
           "title": "DINOSAURS RUIN RECESS | Kids Book Read Aloud | Story Time About Learning to Cooperate",
           "publishedAt": "2026-07-23T11:00:00Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2025-11-19T13:01:37Z",
           "durationSeconds": 366,
           "thumbnail": "https://img.youtube.com/vi/mAF5iF-_JdM/hqdefault.jpg"
-        },
-        {
-          "videoId": "Gsw9zLIqv7A",
-          "title": "THE TURKEY HANDS 🖐🦃  When Classroom Crafts Come to Life! Kids Book Read Aloud with Awnie",
-          "publishedAt": "2025-11-12T13:00:37Z",
-          "durationSeconds": 336,
-          "thumbnail": "https://img.youtube.com/vi/Gsw9zLIqv7A/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Netflix Jr.",
       "videos": [
         {
+          "videoId": "Ml6-MJKOqSU",
+          "title": "Bella's Pretend Tea Party! 🫖 CoComelon Lane | Netflix Jr",
+          "publishedAt": "2026-08-06T13:00:00Z",
+          "durationSeconds": 104,
+          "thumbnail": "https://img.youtube.com/vi/Ml6-MJKOqSU/hqdefault.jpg"
+        },
+        {
           "videoId": "CTjhizY_a7Y",
           "title": "Let's Play Netflix Playground! +30 Mins 🎮 KPop Demon Hunters, Gabby's Dollhouse & MORE!",
           "publishedAt": "2026-08-05T13:00:00Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-24T13:00:00Z",
           "durationSeconds": 760,
           "thumbnail": "https://img.youtube.com/vi/5MeMwzqjyDk/hqdefault.jpg"
-        },
-        {
-          "videoId": "xJ2SwSUzCHI",
-          "title": "Explore the Jungle with Horton 🌴🎮 Dr. Seuss’s Horton Gameplay | Netflix Playground",
-          "publishedAt": "2026-06-23T13:00:00Z",
-          "durationSeconds": 438,
-          "thumbnail": "https://img.youtube.com/vi/xJ2SwSUzCHI/hqdefault.jpg"
         }
       ]
     },
