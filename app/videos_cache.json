@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T06:55:29.581Z",
+  "generatedAt": "2026-08-08T06:28:08.634Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "oppj_L7L4o0",
+          "title": "Opening Pandora's Jar (NOT Box!) | Greeking Out Podcast | S4 E2 FULL EP | ‪Nat Geo Kids",
+          "publishedAt": "2026-08-07T11:00:23Z",
+          "durationSeconds": 1102,
+          "thumbnail": "https://img.youtube.com/vi/oppj_L7L4o0/hqdefault.jpg"
+        },
+        {
           "videoId": "KUS_HpTJWzg",
           "title": "All About Space! 🪐🚀 | Compilation | Nat Geo Kids",
           "publishedAt": "2026-08-06T11:00:18Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-03T11:00:09Z",
           "durationSeconds": 1619,
           "thumbnail": "https://img.youtube.com/vi/ic1EjdKAdbg/hqdefault.jpg"
-        },
-        {
-          "videoId": "QdQqxoPNsCo",
-          "title": "Big Words for Little Astronauts & Paleontologists!👩🏽‍🚀🦖| Book Read Along Compilation📚| Nat Geo Kids",
-          "publishedAt": "2026-07-02T11:00:26Z",
-          "durationSeconds": 1798,
-          "thumbnail": "https://img.youtube.com/vi/QdQqxoPNsCo/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "X0qR-o5aUFA",
+          "title": "Let's Draw the Numberblocks! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-07T11:00:09Z",
+          "durationSeconds": 1244,
+          "thumbnail": "https://img.youtube.com/vi/X0qR-o5aUFA/hqdefault.jpg"
+        },
         {
           "videoId": "okraTNro0tg",
           "title": "Every Numberblock 100 Appearance Ever! | Learn to Count for Kids Compilation | Numberblocks",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-18T10:00:03Z",
           "durationSeconds": 2135,
           "thumbnail": "https://img.youtube.com/vi/sFCtDYO_QxM/hqdefault.jpg"
-        },
-        {
-          "videoId": "K6flN_1PJ4A",
-          "title": "Learn How to Count in Twos | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-06-14T10:00:12Z",
-          "durationSeconds": 3774,
-          "thumbnail": "https://img.youtube.com/vi/K6flN_1PJ4A/hqdefault.jpg"
         }
       ]
     },
@@ -1010,6 +1010,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "9JrQWVJ9MiY",
+          "title": "How To Draw Kitten Buddies",
+          "publishedAt": "2026-08-07T14:00:03Z",
+          "durationSeconds": 406,
+          "thumbnail": "https://img.youtube.com/vi/9JrQWVJ9MiY/hqdefault.jpg"
+        },
         {
           "videoId": "9aCuNd3faBA",
           "title": "How To Draw Ocho The Octopus",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-25T14:00:04Z",
           "durationSeconds": 491,
           "thumbnail": "https://img.youtube.com/vi/jF0ZwP-DifM/hqdefault.jpg"
-        },
-        {
-          "videoId": "dk4h84TuFPo",
-          "title": "How To Draw A Cotton Candy Machine",
-          "publishedAt": "2026-06-24T14:00:04Z",
-          "durationSeconds": 376,
-          "thumbnail": "https://img.youtube.com/vi/dk4h84TuFPo/hqdefault.jpg"
         }
       ]
     },
@@ -1875,6 +1875,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "4Il4EvMleaY",
+          "title": "Adventures on Puffin Rock ⛰️🎉 | Gentle Compilation",
+          "publishedAt": "2026-08-07T12:00:09Z",
+          "durationSeconds": 174,
+          "thumbnail": "https://img.youtube.com/vi/4Il4EvMleaY/hqdefault.jpg"
+        },
+        {
           "videoId": "C7dirlzNesI",
           "title": "Friendship On Puffin Rock 🫶 | Compilation",
           "publishedAt": "2026-08-01T12:00:04Z",
@@ -2076,13 +2083,6 @@
           "publishedAt": "2025-07-31T13:01:29Z",
           "durationSeconds": 126,
           "thumbnail": "https://img.youtube.com/vi/idcC66n97qQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "N45TmW_14yg",
-          "title": "Silky's Theme | Sleepy Time on Puffin Rock",
-          "publishedAt": "2025-01-22T12:39:55Z",
-          "durationSeconds": 3819,
-          "thumbnail": "https://img.youtube.com/vi/N45TmW_14yg/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "ZtGpEQ-pYVk",
+          "title": "Super Sports Spectacular! | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-07T11:00:14Z",
+          "durationSeconds": 3285,
+          "thumbnail": "https://img.youtube.com/vi/ZtGpEQ-pYVk/hqdefault.jpg"
+        },
+        {
           "videoId": "-1WEie8vWIs",
           "title": "Phonetic Sounds from A to Z | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-02T11:00:35Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-30T11:00:00Z",
           "durationSeconds": 1515,
           "thumbnail": "https://img.youtube.com/vi/pJFb3PagQ-w/hqdefault.jpg"
-        },
-        {
-          "videoId": "nUqO0kGAJdA",
-          "title": "Half Term Homework Helpers! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-05-29T11:00:00Z",
-          "durationSeconds": 1623,
-          "thumbnail": "https://img.youtube.com/vi/nUqO0kGAJdA/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UCAJnyTWJPpKXuwgWQDdNWrQ",
       "name": "Netflix Jr.",
       "videos": [
+        {
+          "videoId": "DKDfeSB5BJk",
+          "title": "Who's Calling? 📞 The Creature Cases, Gabby's Dollhouse, CoComelon Lane & MORE! | Netflix Jr",
+          "publishedAt": "2026-08-07T13:00:00Z",
+          "durationSeconds": 730,
+          "thumbnail": "https://img.youtube.com/vi/DKDfeSB5BJk/hqdefault.jpg"
+        },
         {
           "videoId": "Ml6-MJKOqSU",
           "title": "Bella's Pretend Tea Party! 🫖 CoComelon Lane | Netflix Jr",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-25T13:00:05Z",
           "durationSeconds": 1864,
           "thumbnail": "https://img.youtube.com/vi/W42laLTF8QM/hqdefault.jpg"
-        },
-        {
-          "videoId": "5MeMwzqjyDk",
-          "title": "Kitty Fairy's Most Magical Moments 🧚✨ Compilation | Gabby's Dollhouse | Netflix Jr",
-          "publishedAt": "2026-06-24T13:00:00Z",
-          "durationSeconds": 760,
-          "thumbnail": "https://img.youtube.com/vi/5MeMwzqjyDk/hqdefault.jpg"
         }
       ]
     },
@@ -3170,6 +3170,13 @@
       "channelId": "UC5PYHgAzJ1wLEidB58SK6Xw",
       "name": "Blippi",
       "videos": [
+        {
+          "videoId": "Q35dLHdxhDc",
+          "title": "PAW Patrol & Blippi's Rescue Mission on Dino Island! 🦖",
+          "publishedAt": "2026-08-07T10:00:21Z",
+          "durationSeconds": 679,
+          "thumbnail": "https://img.youtube.com/vi/Q35dLHdxhDc/hqdefault.jpg"
+        },
         {
           "videoId": "2T2ufNy9Lw0",
           "title": "Blippi’s Back to School Special! 🏫",
@@ -3372,13 +3379,6 @@
           "publishedAt": "2026-04-25T10:00:11Z",
           "durationSeconds": 939,
           "thumbnail": "https://img.youtube.com/vi/8Zbniz659CQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "S6PUOZ5I3PM",
-          "title": "Blippi Drives a Real Fire Truck! 🚒",
-          "publishedAt": "2026-04-23T10:00:06Z",
-          "durationSeconds": 3388,
-          "thumbnail": "https://img.youtube.com/vi/S6PUOZ5I3PM/hqdefault.jpg"
         }
       ]
     },
