@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:28:08.634Z",
+  "generatedAt": "2026-08-09T06:33:03.562Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "4krR7Hqbon4",
+          "title": "A Day In The Life Of A Whale Shark 🦈 | Nat Geo Kids",
+          "publishedAt": "2026-08-08T15:00:22Z",
+          "durationSeconds": 150,
+          "thumbnail": "https://img.youtube.com/vi/4krR7Hqbon4/hqdefault.jpg"
+        },
+        {
           "videoId": "oppj_L7L4o0",
           "title": "Opening Pandora's Jar (NOT Box!) | Greeking Out Podcast | S4 E2 FULL EP | ‪Nat Geo Kids",
           "publishedAt": "2026-08-07T11:00:23Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-05T11:00:07Z",
           "durationSeconds": 7926,
           "thumbnail": "https://img.youtube.com/vi/keyhwn_ICEE/hqdefault.jpg"
-        },
-        {
-          "videoId": "ic1EjdKAdbg",
-          "title": "Aphrodite is the Worst Mother-in-Law! | Greeking Out Podcast | S3 E5 FULL EP Part 2 | Nat Geo Kids",
-          "publishedAt": "2026-07-03T11:00:09Z",
-          "durationSeconds": 1619,
-          "thumbnail": "https://img.youtube.com/vi/ic1EjdKAdbg/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "x1hhNFaHAew",
+          "title": "One Hour of Rainbow Math | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-08T10:00:06Z",
+          "durationSeconds": 5612,
+          "thumbnail": "https://img.youtube.com/vi/x1hhNFaHAew/hqdefault.jpg"
+        },
         {
           "videoId": "X0qR-o5aUFA",
           "title": "Let's Draw the Numberblocks! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-19T10:00:04Z",
           "durationSeconds": 5133,
           "thumbnail": "https://img.youtube.com/vi/7RtDLGZqDuo/hqdefault.jpg"
-        },
-        {
-          "videoId": "sFCtDYO_QxM",
-          "title": "Make Your Own Football Shoes | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-06-18T10:00:03Z",
-          "durationSeconds": 2135,
-          "thumbnail": "https://img.youtube.com/vi/sFCtDYO_QxM/hqdefault.jpg"
         }
       ]
     },
@@ -1010,6 +1010,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "EdvzXvi7NOg",
+          "title": "How To Build A Capybara In Minecraft",
+          "publishedAt": "2026-08-08T14:00:08Z",
+          "durationSeconds": 317,
+          "thumbnail": "https://img.youtube.com/vi/EdvzXvi7NOg/hqdefault.jpg"
+        },
         {
           "videoId": "9JrQWVJ9MiY",
           "title": "How To Draw Kitten Buddies",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2026-06-26T14:00:16Z",
           "durationSeconds": 578,
           "thumbnail": "https://img.youtube.com/vi/y3_YFmdY1ts/hqdefault.jpg"
-        },
-        {
-          "videoId": "jF0ZwP-DifM",
-          "title": "How To Draw A Cute Picnic Basket",
-          "publishedAt": "2026-06-25T14:00:04Z",
-          "durationSeconds": 491,
-          "thumbnail": "https://img.youtube.com/vi/jF0ZwP-DifM/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "FqldR5bfh2E",
+          "title": "Let's Spell 'CAT' and Other Animals! | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-08T11:00:06Z",
+          "durationSeconds": 3829,
+          "thumbnail": "https://img.youtube.com/vi/FqldR5bfh2E/hqdefault.jpg"
+        },
+        {
           "videoId": "ZtGpEQ-pYVk",
           "title": "Super Sports Spectacular! | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-07T11:00:14Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-31T11:00:00Z",
           "durationSeconds": 1285,
           "thumbnail": "https://img.youtube.com/vi/5nZtRjLRSm8/hqdefault.jpg"
-        },
-        {
-          "videoId": "pJFb3PagQ-w",
-          "title": "Back to School - Let's Spell Together | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-05-30T11:00:00Z",
-          "durationSeconds": 1515,
-          "thumbnail": "https://img.youtube.com/vi/pJFb3PagQ-w/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UCAJnyTWJPpKXuwgWQDdNWrQ",
       "name": "Netflix Jr.",
       "videos": [
+        {
+          "videoId": "cktQmgR0Lo4",
+          "title": "Bheem's Teething Trouble! 🦷 Mighty Little Bheem | Netflix Jr",
+          "publishedAt": "2026-08-08T13:00:00Z",
+          "durationSeconds": 139,
+          "thumbnail": "https://img.youtube.com/vi/cktQmgR0Lo4/hqdefault.jpg"
+        },
         {
           "videoId": "DKDfeSB5BJk",
           "title": "Who's Calling? 📞 The Creature Cases, Gabby's Dollhouse, CoComelon Lane & MORE! | Netflix Jr",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-26T13:00:00Z",
           "durationSeconds": 379,
           "thumbnail": "https://img.youtube.com/vi/zg7VvwBo0nQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "W42laLTF8QM",
-          "title": "30 Minutes of Oona ADVENTURES with Friends! 🐧💫❄️ | Puffin Rock | Netflix Jr",
-          "publishedAt": "2026-06-25T13:00:05Z",
-          "durationSeconds": 1864,
-          "thumbnail": "https://img.youtube.com/vi/W42laLTF8QM/hqdefault.jpg"
         }
       ]
     },
