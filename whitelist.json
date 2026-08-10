@@ -26,11 +26,6 @@
       "maxVideos": 30
     },
     {
-      "channelId": "@scishowkids",
-      "name": "SciShow Kids",
-      "maxVideos": 30
-    },
-    {
       "channelId": "@VooksStorybooks",
       "name": "Vooks - Stories for Kids",
       "maxVideos": 30
@@ -66,11 +61,6 @@
       "maxVideos": 30
     },
     {
-      "channelId": "@Blippi",
-      "name": "Blippi",
-      "maxVideos": 30
-    },
-    {
       "channelId": "@DannyGo",
       "name": "Danny Go!",
       "maxVideos": 30
@@ -78,6 +68,16 @@
     {
       "channelId": "@maddiemoate",
       "name": "Maddie Moate",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@Peekaboo_Kidz",
+      "name": "Peekaboo Kidz",
+      "maxVideos": 30
+    },
+    {
+      "channelId": "@SheriffLabradorVN",
+      "name": "Sheriff Labrador Vietnam",
       "maxVideos": 30
     }
   ],
