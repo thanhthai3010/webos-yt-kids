@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:33:03.562Z",
+  "generatedAt": "2026-08-10T07:01:06.542Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "JgZ1JRbitU8",
+          "title": "These Sharks are Closer Than You Think 😱 | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
+          "publishedAt": "2026-08-09T11:00:16Z",
+          "durationSeconds": 2771,
+          "thumbnail": "https://img.youtube.com/vi/JgZ1JRbitU8/hqdefault.jpg"
+        },
+        {
           "videoId": "4krR7Hqbon4",
           "title": "A Day In The Life Of A Whale Shark 🦈 | Nat Geo Kids",
           "publishedAt": "2026-08-08T15:00:22Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-05T13:00:35Z",
           "durationSeconds": 91,
           "thumbnail": "https://img.youtube.com/vi/1WBcKryn_B8/hqdefault.jpg"
-        },
-        {
-          "videoId": "keyhwn_ICEE",
-          "title": "Relax with Super Chill Sharks💤 | 2 Hours | Compilation | SHARKFEST 🦈 | Nat Geo Kids",
-          "publishedAt": "2026-07-05T11:00:07Z",
-          "durationSeconds": 7926,
-          "thumbnail": "https://img.youtube.com/vi/keyhwn_ICEE/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "40c-tHt3aww",
+          "title": "Learn to Be Kind with the Numberblocks | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-09T10:00:03Z",
+          "durationSeconds": 3484,
+          "thumbnail": "https://img.youtube.com/vi/40c-tHt3aww/hqdefault.jpg"
+        },
         {
           "videoId": "x1hhNFaHAew",
           "title": "One Hour of Rainbow Math | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-20T10:00:14Z",
           "durationSeconds": 4037,
           "thumbnail": "https://img.youtube.com/vi/gnroIldajLo/hqdefault.jpg"
-        },
-        {
-          "videoId": "7RtDLGZqDuo",
-          "title": "1 to 10 for Tots | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-06-19T10:00:04Z",
-          "durationSeconds": 5133,
-          "thumbnail": "https://img.youtube.com/vi/7RtDLGZqDuo/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "6j8_kct3gLw",
+          "title": "Rainbow Spelling for Tiny Tots | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-09T11:00:12Z",
+          "durationSeconds": 2455,
+          "thumbnail": "https://img.youtube.com/vi/6j8_kct3gLw/hqdefault.jpg"
+        },
+        {
           "videoId": "FqldR5bfh2E",
           "title": "Let's Spell 'CAT' and Other Animals! | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-08T11:00:06Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-06-05T11:00:08Z",
           "durationSeconds": 4223,
           "thumbnail": "https://img.youtube.com/vi/XKL37Swop88/hqdefault.jpg"
-        },
-        {
-          "videoId": "5nZtRjLRSm8",
-          "title": "Classroom Chaos with the Alphablocks! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-05-31T11:00:00Z",
-          "durationSeconds": 1285,
-          "thumbnail": "https://img.youtube.com/vi/5nZtRjLRSm8/hqdefault.jpg"
         }
       ]
     },
