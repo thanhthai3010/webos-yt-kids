@@ -36,23 +36,13 @@
       "maxVideos": 30
     },
     {
-      "channelId": "@@TheFableCottage",
+      "channelId": "@TheFableCottage",
       "name": "The Fable Cottage",
-      "maxVideos": 30
-    },
-    {
-      "channelId": "@storylineonline",
-      "name": "Storyline Online",
       "maxVideos": 30
     },
     {
       "channelId": "@officialalphablocks",
       "name": "Alphablocks",
-      "maxVideos": 30
-    },
-    {
-      "channelId": "@Netflixjr",
-      "name": "Netflix Jr.",
       "maxVideos": 30
     },
     {
@@ -88,8 +78,48 @@
   ],
   "individualVideos": [
     {
-      "videoId": "XqZsoesa55w",
-      "title": "Baby Shark Dance"
+      "videoId": "4krR7Hqbon4",
+      "title": "A Day In The Life Of A Whale Shark | Nat Geo Kids"
+    },
+    {
+      "videoId": "KUS_HpTJWzg",
+      "title": "All About Space! | Compilation | Nat Geo Kids"
+    },
+    {
+      "videoId": "4Il4EvMleaY",
+      "title": "Adventures on Puffin Rock | Gentle Compilation"
+    },
+    {
+      "videoId": "p4NFktDA0Jo",
+      "title": "Learn About Farm Friends! | Animal Facts | BBC Earth Kids"
+    },
+    {
+      "videoId": "2gTe0TkKowM",
+      "title": "First Day Jitters | Back to School Read Aloud | Awnie's House"
+    },
+    {
+      "videoId": "9JrQWVJ9MiY",
+      "title": "How To Draw Kitten Buddies | Art for Kids Hub"
+    },
+    {
+      "videoId": "-1WEie8vWIs",
+      "title": "Phonetic Sounds from A to Z | Alphablocks"
+    },
+    {
+      "videoId": "7teaXlR8VVw",
+      "title": "Tom Holland Reads Superworm | CBeebies Bedtime Story"
+    },
+    {
+      "videoId": "zXQSLdqbj9Q",
+      "title": "An toàn khi vui chơi | Kỹ năng an toàn | Nhạc thiếu nhi"
+    },
+    {
+      "videoId": "23ZgofVpGpQ",
+      "title": "How is it made? Paint, Cardboard and Glass! | Maddie Moate"
+    },
+    {
+      "videoId": "ljLJmBSiIYE",
+      "title": "Stories About Anger and Temper for Kids | Vooks"
     },
     {
       "videoId": "L0MK7qz13bU",
