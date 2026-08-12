@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T06:40:44.217Z",
+  "generatedAt": "2026-08-12T07:01:31.935Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "stsRpkfRhxs",
+          "title": "How To Draw Bingo From Bluey",
+          "publishedAt": "2026-08-11T14:00:32Z",
+          "durationSeconds": 787,
+          "thumbnail": "https://img.youtube.com/vi/stsRpkfRhxs/hqdefault.jpg"
+        },
+        {
           "videoId": "EQIMxHf7QRE",
           "title": "How To Draw Eevee Squishmallow",
           "publishedAt": "2026-08-10T14:00:15Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-06-30T14:25:14Z",
           "durationSeconds": 624,
           "thumbnail": "https://img.youtube.com/vi/VIFKgX4RSAY/hqdefault.jpg"
-        },
-        {
-          "videoId": "22FnaUaSVsY",
-          "title": "How To Draw A Happy Birthday Cake For America 250 Years!",
-          "publishedAt": "2026-06-29T14:00:27Z",
-          "durationSeconds": 637,
-          "thumbnail": "https://img.youtube.com/vi/22FnaUaSVsY/hqdefault.jpg"
         }
       ]
     },
@@ -1227,6 +1227,13 @@
       "name": "Vooks - Stories for Kids",
       "videos": [
         {
+          "videoId": "wFB5xm-FuRc",
+          "title": "Your Great Big Adventure Starts Here! | Read Aloud Kids Book | Vooks Narrated Storybooks",
+          "publishedAt": "2026-08-11T12:00:11Z",
+          "durationSeconds": 338,
+          "thumbnail": "https://img.youtube.com/vi/wFB5xm-FuRc/hqdefault.jpg"
+        },
+        {
           "videoId": "ljLJmBSiIYE",
           "title": "Stories About Anger and Temper for Kids | Read Aloud Kids Books | Vooks Narrated Storybooks",
           "publishedAt": "2026-07-27T12:00:26Z",
@@ -1428,13 +1435,6 @@
           "publishedAt": "2024-12-18T14:26:00Z",
           "durationSeconds": 10087,
           "thumbnail": "https://img.youtube.com/vi/G9iBn6_9308/hqdefault.jpg"
-        },
-        {
-          "videoId": "BVhT45lRsW8",
-          "title": "Hiku the Penguin! | Penguin Winter Read Aloud Kids Book | Vooks Narrated Storybooks",
-          "publishedAt": "2024-11-25T13:00:12Z",
-          "durationSeconds": 451,
-          "thumbnail": "https://img.youtube.com/vi/BVhT45lRsW8/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "y10_d9yA8AA",
+          "title": "What if You Landed on Kepler-22b? | Exploring a Mysterious Alien Planet | The Dr. Binocs Show",
+          "publishedAt": "2026-08-11T12:30:24Z",
+          "durationSeconds": 345,
+          "thumbnail": "https://img.youtube.com/vi/y10_d9yA8AA/hqdefault.jpg"
+        },
+        {
           "videoId": "EWfCBmkQc7I",
           "title": "What Are Thyroid Disorders? | Why Is the Thyroid So Important? | Hypothyroidism vs Hyperthyroidism",
           "publishedAt": "2026-08-07T12:30:37Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-01T12:31:02Z",
           "durationSeconds": 367,
           "thumbnail": "https://img.youtube.com/vi/g5LDk65xbis/hqdefault.jpg"
-        },
-        {
-          "videoId": "INCaLXDbCpk",
-          "title": "Can We Be Superheroes?🦸 What if Humans Had Superpowers? | Flying, Invisible and More",
-          "publishedAt": "2026-04-28T12:30:31Z",
-          "durationSeconds": 2066,
-          "thumbnail": "https://img.youtube.com/vi/INCaLXDbCpk/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "SYMK9kTCxok",
+          "title": "🐑 Dobie chăm sóc các bạn thú cưng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-08-11T11:15:02Z",
+          "durationSeconds": 2050,
+          "thumbnail": "https://img.youtube.com/vi/SYMK9kTCxok/hqdefault.jpg"
+        },
         {
           "videoId": "PF6eoZcL_H4",
           "title": "🛳️ Bữa tiệc hóa trang trên du thuyền | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-05T09:35:18Z",
           "durationSeconds": 770,
           "thumbnail": "https://img.youtube.com/vi/5hFbrink-tY/hqdefault.jpg"
-        },
-        {
-          "videoId": "yh7PCdCYrtY",
-          "title": "Tháng máy yêu quái | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-02T11:06:57Z",
-          "durationSeconds": 2641,
-          "thumbnail": "https://img.youtube.com/vi/yh7PCdCYrtY/hqdefault.jpg"
         }
       ]
     }
