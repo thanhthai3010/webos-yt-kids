@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:01:31.935Z",
+  "generatedAt": "2026-08-13T07:05:02.857Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "SYI_hnqyH_8",
+          "title": "How To Draw A Baby Elephant",
+          "publishedAt": "2026-08-12T14:00:05Z",
+          "durationSeconds": 504,
+          "thumbnail": "https://img.youtube.com/vi/SYI_hnqyH_8/hqdefault.jpg"
+        },
+        {
           "videoId": "stsRpkfRhxs",
           "title": "How To Draw Bingo From Bluey",
           "publishedAt": "2026-08-11T14:00:32Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-01T15:26:05Z",
           "durationSeconds": 650,
           "thumbnail": "https://img.youtube.com/vi/tfFuJV4ADpA/hqdefault.jpg"
-        },
-        {
-          "videoId": "VIFKgX4RSAY",
-          "title": "How To Draw A Rocket Pop For The 4th Of July",
-          "publishedAt": "2026-06-30T14:25:14Z",
-          "durationSeconds": 624,
-          "thumbnail": "https://img.youtube.com/vi/VIFKgX4RSAY/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "UJL2N40VdAM",
+          "title": "🛸Drone bay mất kiểm soát | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮Cảnh sát trưởng Labrador Vietnam🚔",
+          "publishedAt": "2026-08-12T11:38:08Z",
+          "durationSeconds": 413,
+          "thumbnail": "https://img.youtube.com/vi/UJL2N40VdAM/hqdefault.jpg"
+        },
+        {
           "videoId": "SYMK9kTCxok",
           "title": "🐑 Dobie chăm sóc các bạn thú cưng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-08-11T11:15:02Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-06T02:00:05Z",
           "durationSeconds": 608,
           "thumbnail": "https://img.youtube.com/vi/1iz-xiClCN4/hqdefault.jpg"
-        },
-        {
-          "videoId": "5hFbrink-tY",
-          "title": "🐶 Thú cưng Sunny của Labrador | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-05T09:35:18Z",
-          "durationSeconds": 770,
-          "thumbnail": "https://img.youtube.com/vi/5hFbrink-tY/hqdefault.jpg"
         }
       ]
     }
