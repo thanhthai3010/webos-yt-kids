@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:16:45.071Z",
+  "generatedAt": "2026-08-17T06:24:38.377Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "kZOnY-2y0AE",
+          "title": "Baby Penguin Hatches + Tiger's New Home! 🐧🐯 | Secrets of the Zoo: Tampa Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-08-16T11:00:29Z",
+          "durationSeconds": 2640,
+          "thumbnail": "https://img.youtube.com/vi/kZOnY-2y0AE/hqdefault.jpg"
+        },
+        {
           "videoId": "sKVVFaobouM",
           "title": "Discover the Real-Life Dragons of our Planet! 🌍🐊 Animal Facts for Kids | Nat Geo Kids",
           "publishedAt": "2026-08-15T15:00:06Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-10T13:00:01Z",
           "durationSeconds": 111,
           "thumbnail": "https://img.youtube.com/vi/xzS857HdSxQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "Xo2KgHjfdb4",
-          "title": "All Greeking Out S3 Full Episodes⚡| Season Compilation | Nat Geo Kids",
-          "publishedAt": "2026-07-10T11:00:16Z",
-          "durationSeconds": 8037,
-          "thumbnail": "https://img.youtube.com/vi/Xo2KgHjfdb4/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "_pjA7_SY21E",
+          "title": "Land of the Giants! - Big Numbers for Big kids | Learn to Count | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-16T10:00:09Z",
+          "durationSeconds": 6172,
+          "thumbnail": "https://img.youtube.com/vi/_pjA7_SY21E/hqdefault.jpg"
+        },
         {
           "videoId": "bWSI5S2LYmk",
           "title": "Whose House is this? - Numberblocks Homes | Learn to Count for Kids Compilation | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-06-28T10:00:31Z",
           "durationSeconds": 5382,
           "thumbnail": "https://img.youtube.com/vi/2LETo5op5uo/hqdefault.jpg"
-        },
-        {
-          "videoId": "m_aZj2_8RgU",
-          "title": "Number Exploration with the Numberblocks | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-06-26T10:00:07Z",
-          "durationSeconds": 3770,
-          "thumbnail": "https://img.youtube.com/vi/m_aZj2_8RgU/hqdefault.jpg"
         }
       ]
     },
@@ -1011,6 +1011,13 @@
       "name": "BBC Earth Kids",
       "videos": [
         {
+          "videoId": "yt2RczYsiAs",
+          "title": "Playful Pups Go On An Adventure! | Wonderful World Of Puppies | BBC Earth Kids",
+          "publishedAt": "2026-08-16T15:00:12Z",
+          "durationSeconds": 621,
+          "thumbnail": "https://img.youtube.com/vi/yt2RczYsiAs/hqdefault.jpg"
+        },
+        {
           "videoId": "p4NFktDA0Jo",
           "title": "Learn About Farm Friends! | Animal Facts | BBC Earth Kids",
           "publishedAt": "2026-08-01T14:00:28Z",
@@ -1040,7 +1047,7 @@
         },
         {
           "videoId": "DPCDpSLha6Q",
-          "title": "Learn About Bison! | Learn With Steve Backshall | BBC Earth Kids",
+          "title": "Bison! | Learn With Steve Backshall | BBC Earth Kids",
           "publishedAt": "2026-07-12T14:00:39Z",
           "durationSeconds": 371,
           "thumbnail": "https://img.youtube.com/vi/DPCDpSLha6Q/hqdefault.jpg"
@@ -1212,13 +1219,6 @@
           "publishedAt": "2025-06-21T13:00:49Z",
           "durationSeconds": 706,
           "thumbnail": "https://img.youtube.com/vi/OPmr4Isx9iY/hqdefault.jpg"
-        },
-        {
-          "videoId": "qY45ATnG8vg",
-          "title": "Which Dinosaur Was The Weirdest? | Walking with Dinosaurs | BBC Earth Kids",
-          "publishedAt": "2025-06-14T17:00:57Z",
-          "durationSeconds": 343,
-          "thumbnail": "https://img.youtube.com/vi/qY45ATnG8vg/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "NH5QoW7e864",
+          "title": "Whacky Words! | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-16T11:00:08Z",
+          "durationSeconds": 2436,
+          "thumbnail": "https://img.youtube.com/vi/NH5QoW7e864/hqdefault.jpg"
+        },
+        {
           "videoId": "DK_hkUOi-08",
           "title": "The Art of Spelling | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-15T11:00:37Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-06-12T11:00:09Z",
           "durationSeconds": 1246,
           "thumbnail": "https://img.youtube.com/vi/JwGAZc3-oOc/hqdefault.jpg"
-        },
-        {
-          "videoId": "Oo_lGdKJ6-Y",
-          "title": "Let's Have the Best Day Ever! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-06-07T11:00:00Z",
-          "durationSeconds": 2022,
-          "thumbnail": "https://img.youtube.com/vi/Oo_lGdKJ6-Y/hqdefault.jpg"
         }
       ]
     },
