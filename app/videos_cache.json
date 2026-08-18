@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T06:24:38.377Z",
+  "generatedAt": "2026-08-18T06:19:13.957Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "J1cm8yKC4GI",
+          "title": "Enchanting Creatures of the Mountains and Waters ✨ | Full Episode Compilation | Nat Geo Kids",
+          "publishedAt": "2026-08-17T11:00:36Z",
+          "durationSeconds": 7640,
+          "thumbnail": "https://img.youtube.com/vi/J1cm8yKC4GI/hqdefault.jpg"
+        },
+        {
           "videoId": "kZOnY-2y0AE",
           "title": "Baby Penguin Hatches + Tiger's New Home! 🐧🐯 | Secrets of the Zoo: Tampa Full Episode | Nat Geo Kids",
           "publishedAt": "2026-08-16T11:00:29Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-11T17:42:22Z",
           "durationSeconds": 235,
           "thumbnail": "https://img.youtube.com/vi/DqbpVejaqO8/hqdefault.jpg"
-        },
-        {
-          "videoId": "xzS857HdSxQ",
-          "title": "Kids React to Baby Seahorses, Polar Bears and More! | Nat Geo Kids",
-          "publishedAt": "2026-07-10T13:00:01Z",
-          "durationSeconds": 111,
-          "thumbnail": "https://img.youtube.com/vi/xzS857HdSxQ/hqdefault.jpg"
         }
       ]
     },
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "SzzwCBn08tE",
+          "title": "How To Draw Rex From Toy Story",
+          "publishedAt": "2026-08-17T14:00:17Z",
+          "durationSeconds": 718,
+          "thumbnail": "https://img.youtube.com/vi/SzzwCBn08tE/hqdefault.jpg"
+        },
+        {
           "videoId": "SPZTd6e3rsQ",
           "title": "How To Draw Super Bean Capybara",
           "publishedAt": "2026-08-14T14:00:35Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-07T14:00:15Z",
           "durationSeconds": 779,
           "thumbnail": "https://img.youtube.com/vi/7LihscA4B9Q/hqdefault.jpg"
-        },
-        {
-          "videoId": "nzH4i-B7MJE",
-          "title": "How To Draw A Star Folding Surprise For America 250 Years!",
-          "publishedAt": "2026-07-03T22:02:16Z",
-          "durationSeconds": 671,
-          "thumbnail": "https://img.youtube.com/vi/nzH4i-B7MJE/hqdefault.jpg"
         }
       ]
     },
