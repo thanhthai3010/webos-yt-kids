@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:19:13.957Z",
+  "generatedAt": "2026-08-19T06:19:57.181Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Numberblocks",
       "videos": [
         {
+          "videoId": "Vz9kT3Ntbw0",
+          "title": "Thank You for 15 Million Subscribers!!! 🥳🎉 | Maths for Kids | 15 million compilation | Numberblocks",
+          "publishedAt": "2026-08-18T10:31:08Z",
+          "durationSeconds": 6152,
+          "thumbnail": "https://img.youtube.com/vi/Vz9kT3Ntbw0/hqdefault.jpg"
+        },
+        {
           "videoId": "_pjA7_SY21E",
           "title": "Land of the Giants! - Big Numbers for Big kids | Learn to Count | Number Cartoon | Numberblocks",
           "publishedAt": "2026-08-16T10:00:09Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-02T10:00:22Z",
           "durationSeconds": 4325,
           "thumbnail": "https://img.youtube.com/vi/6hgq8SdgDGs/hqdefault.jpg"
-        },
-        {
-          "videoId": "2LETo5op5uo",
-          "title": "How to Be a Mathematician | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-06-28T10:00:31Z",
-          "durationSeconds": 5382,
-          "thumbnail": "https://img.youtube.com/vi/2LETo5op5uo/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "-vQ2_umdFRw",
+          "title": "How To Draw Back To School Pickle The Axolotl",
+          "publishedAt": "2026-08-18T16:39:21Z",
+          "durationSeconds": 521,
+          "thumbnail": "https://img.youtube.com/vi/-vQ2_umdFRw/hqdefault.jpg"
+        },
         {
           "videoId": "SzzwCBn08tE",
           "title": "How To Draw Rex From Toy Story",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-08T16:59:23Z",
           "durationSeconds": 301,
           "thumbnail": "https://img.youtube.com/vi/ucJIxgr7pkg/hqdefault.jpg"
-        },
-        {
-          "videoId": "7LihscA4B9Q",
-          "title": "How To Draw A Baby Dragon Egg Folding Surprise",
-          "publishedAt": "2026-07-07T14:00:15Z",
-          "durationSeconds": 779,
-          "thumbnail": "https://img.youtube.com/vi/7LihscA4B9Q/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "kSCl9P_Jhz0",
+          "title": "Regeneration Superpower | What If Humans Could Regenerate Limbs? 🦎 | Limb Regeneration Explained",
+          "publishedAt": "2026-08-18T12:28:27Z",
+          "durationSeconds": 365,
+          "thumbnail": "https://img.youtube.com/vi/kSCl9P_Jhz0/hqdefault.jpg"
+        },
+        {
           "videoId": "PBHumV9IWEk",
           "title": "The Story of The Wizard of Oz | Magical Journey | Dorothy, Scarecrow, Tinman, Lion Story | Dr Binocs",
           "publishedAt": "2026-08-14T12:30:08Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-08T12:53:57Z",
           "durationSeconds": 372,
           "thumbnail": "https://img.youtube.com/vi/SgM9M0JxHME/hqdefault.jpg"
-        },
-        {
-          "videoId": "5iq5I_H8F7U",
-          "title": "What if we Stopped Speaking? 🗣️ Is it Better to Stay Silent or Speak Up? | Benefits & Consequences",
-          "publishedAt": "2026-05-05T12:30:07Z",
-          "durationSeconds": 381,
-          "thumbnail": "https://img.youtube.com/vi/5iq5I_H8F7U/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "pFoOc-Kw8Qw",
+          "title": "🚙 Điểm đến tiếp theo! Làng Xoài! | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-08-18T12:45:08Z",
+          "durationSeconds": 2432,
+          "thumbnail": "https://img.youtube.com/vi/pFoOc-Kw8Qw/hqdefault.jpg"
+        },
         {
           "videoId": "tMUWwb367sA",
           "title": "Dodo và 3 chú Labrador | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-10T10:19:55Z",
           "durationSeconds": 618,
           "thumbnail": "https://img.youtube.com/vi/Ptb4igGKeCg/hqdefault.jpg"
-        },
-        {
-          "videoId": "wvGBEtui_RM",
-          "title": "🚗 Trải nghiệm khu vui chơi xe hơi | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-09T12:00:11Z",
-          "durationSeconds": 2074,
-          "thumbnail": "https://img.youtube.com/vi/wvGBEtui_RM/hqdefault.jpg"
         }
       ]
     }
