@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:21:09.421Z",
+  "generatedAt": "2026-08-21T06:21:12.436Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "pgV8RMnLIAM",
+          "title": "Animal Royal Rumble 👑 | Funny Animal Video | You're Called What?! | Nat Geo Kids",
+          "publishedAt": "2026-08-20T11:00:19Z",
+          "durationSeconds": 1526,
+          "thumbnail": "https://img.youtube.com/vi/pgV8RMnLIAM/hqdefault.jpg"
+        },
+        {
           "videoId": "Qu5guyUncB8",
           "title": "Otters vs. Whales vs. Walruses: Marine Animal Showdown 🌊 | Whoa Factor | Nat Geo Kids",
           "publishedAt": "2026-08-19T11:00:11Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-13T11:00:18Z",
           "durationSeconds": 3961,
           "thumbnail": "https://img.youtube.com/vi/oidb4LU77EQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "msim2WydY3k",
-          "title": "Mega Green Machine 🔌🔋 | World's Toughest Fixes Full Episode | 40 Minutes | Nat Geo Kids",
-          "publishedAt": "2026-07-12T11:00:36Z",
-          "durationSeconds": 2643,
-          "thumbnail": "https://img.youtube.com/vi/msim2WydY3k/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "ucLv2D0o3eQ",
+          "title": "I Can't Sleep! - Counting Sheep | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-20T10:00:31Z",
+          "durationSeconds": 3499,
+          "thumbnail": "https://img.youtube.com/vi/ucLv2D0o3eQ/hqdefault.jpg"
+        },
         {
           "videoId": "Vz9kT3Ntbw0",
           "title": "Thank You for 15 Million Subscribers!!! 🥳🎉 | Maths for Kids | 15 million compilation | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-03T10:00:31Z",
           "durationSeconds": 3776,
           "thumbnail": "https://img.youtube.com/vi/HUlvIfGHIu0/hqdefault.jpg"
-        },
-        {
-          "videoId": "6hgq8SdgDGs",
-          "title": "Double Trouble with Numberblock 2 | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-02T10:00:22Z",
-          "durationSeconds": 4325,
-          "thumbnail": "https://img.youtube.com/vi/6hgq8SdgDGs/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "nRfEYbCfQQs",
+          "title": "How To Draw A Monster Truck School Bus",
+          "publishedAt": "2026-08-20T14:00:39Z",
+          "durationSeconds": 619,
+          "thumbnail": "https://img.youtube.com/vi/nRfEYbCfQQs/hqdefault.jpg"
+        },
         {
           "videoId": "911cUwXlKXM",
           "title": "How To Draw Rhubarb From Paw Patrol The Dino Movie",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-13T14:00:05Z",
           "durationSeconds": 518,
           "thumbnail": "https://img.youtube.com/vi/sbHzJMbTo64/hqdefault.jpg"
-        },
-        {
-          "videoId": "6X2LUMqbo8U",
-          "title": "How To Draw A Funny Summer Gnome",
-          "publishedAt": "2026-07-10T17:09:44Z",
-          "durationSeconds": 324,
-          "thumbnail": "https://img.youtube.com/vi/6X2LUMqbo8U/hqdefault.jpg"
         }
       ]
     },
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "dICQdJb2qcw",
+          "title": "Baba & Spiky Compilation | Puffin Rock",
+          "publishedAt": "2026-08-20T12:00:13Z",
+          "durationSeconds": 90,
+          "thumbnail": "https://img.youtube.com/vi/dICQdJb2qcw/hqdefault.jpg"
+        },
+        {
           "videoId": "4Il4EvMleaY",
           "title": "Adventures on Puffin Rock ⛰️🎉 | Gentle Compilation",
           "publishedAt": "2026-08-07T12:00:09Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2025-08-23T12:01:24Z",
           "durationSeconds": 150,
           "thumbnail": "https://img.youtube.com/vi/myFgpiVIUa8/hqdefault.jpg"
-        },
-        {
-          "videoId": "idcC66n97qQ",
-          "title": "Isabelle's Song | Puffin Rock and the New Friends",
-          "publishedAt": "2025-07-31T13:01:29Z",
-          "durationSeconds": 126,
-          "thumbnail": "https://img.youtube.com/vi/idcC66n97qQ/hqdefault.jpg"
         }
       ]
     },
@@ -1658,6 +1658,13 @@
       "channelId": "UCbqmj1hzxuAXsjk08k-KP6w",
       "name": "StoryTime at Awnie's House",
       "videos": [
+        {
+          "videoId": "KvL39aolRDc",
+          "title": "STELLALUNA 🦇 Kids Book Read Aloud | A Sweet Story About Bats, Friendship, Family & Being Yourself",
+          "publishedAt": "2026-08-20T11:00:04Z",
+          "durationSeconds": 676,
+          "thumbnail": "https://img.youtube.com/vi/KvL39aolRDc/hqdefault.jpg"
+        },
         {
           "videoId": "NyLQwkcpjsM",
           "title": "CHRYSANTHEMUM 🏵️ Kids Book Read Aloud | A Sweet Back-to-School Story",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2025-12-04T13:01:09Z",
           "durationSeconds": 750,
           "thumbnail": "https://img.youtube.com/vi/VpYBgW5wlLY/hqdefault.jpg"
-        },
-        {
-          "videoId": "2Qgiw_vZWuA",
-          "title": "WHEN LEAF LET GO 🍁 A Story About Courage & Change | Kids Book Read Aloud",
-          "publishedAt": "2025-11-25T23:32:25Z",
-          "durationSeconds": 335,
-          "thumbnail": "https://img.youtube.com/vi/2Qgiw_vZWuA/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "PgzFOLZAWDQ",
+          "title": "Cầu trượt tóc phồng | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-08-20T09:00:38Z",
+          "durationSeconds": 633,
+          "thumbnail": "https://img.youtube.com/vi/PgzFOLZAWDQ/hqdefault.jpg"
+        },
+        {
           "videoId": "pFoOc-Kw8Qw",
           "title": "🚙 Điểm đến tiếp theo! Làng Xoài! | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-08-18T12:45:08Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-12T11:17:50Z",
           "durationSeconds": 786,
           "thumbnail": "https://img.youtube.com/vi/vZwXaAWae08/hqdefault.jpg"
-        },
-        {
-          "videoId": "Ptb4igGKeCg",
-          "title": "🐛 Đến Công Viên Sâu Đói Bụng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-10T10:19:55Z",
-          "durationSeconds": 618,
-          "thumbnail": "https://img.youtube.com/vi/Ptb4igGKeCg/hqdefault.jpg"
         }
       ]
     }
