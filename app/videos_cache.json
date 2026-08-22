@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:21:12.436Z",
+  "generatedAt": "2026-08-22T06:16:10.323Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "httS5N9FuHs",
+          "title": "How to Defeat a Monster ft. Perseus & Pegasus | Greeking Out Podcast | S4 E4 FULL EP | Nat Geo Kids",
+          "publishedAt": "2026-08-21T11:00:30Z",
+          "durationSeconds": 1431,
+          "thumbnail": "https://img.youtube.com/vi/httS5N9FuHs/hqdefault.jpg"
+        },
+        {
           "videoId": "pgV8RMnLIAM",
           "title": "Animal Royal Rumble 👑 | Funny Animal Video | You're Called What?! | Nat Geo Kids",
           "publishedAt": "2026-08-20T11:00:19Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-16T11:00:07Z",
           "durationSeconds": 2526,
           "thumbnail": "https://img.youtube.com/vi/mWdiiVimiVg/hqdefault.jpg"
-        },
-        {
-          "videoId": "oidb4LU77EQ",
-          "title": "Race Cars, Rollercoasters & Planes! | Weird But True Full Episode Compilation | Nat Geo Kids",
-          "publishedAt": "2026-07-13T11:00:18Z",
-          "durationSeconds": 3961,
-          "thumbnail": "https://img.youtube.com/vi/oidb4LU77EQ/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "d1sP28GSQX4",
+          "title": "Multiplication - Back to School Homeschooling | Learn to Count for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-08-21T10:00:35Z",
+          "durationSeconds": 3679,
+          "thumbnail": "https://img.youtube.com/vi/d1sP28GSQX4/hqdefault.jpg"
+        },
         {
           "videoId": "ucLv2D0o3eQ",
           "title": "I Can't Sleep! - Counting Sheep | Learn to Count for Kids | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-04T10:00:00Z",
           "durationSeconds": 369,
           "thumbnail": "https://img.youtube.com/vi/jOvfTvSIF9k/hqdefault.jpg"
-        },
-        {
-          "videoId": "HUlvIfGHIu0",
-          "title": "Numberblocks Bowling Bonanza | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-03T10:00:31Z",
-          "durationSeconds": 3776,
-          "thumbnail": "https://img.youtube.com/vi/HUlvIfGHIu0/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "4IMV_Awj0YU",
+          "title": "Discover the Secret Vowel Sound with Y | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-21T11:00:26Z",
+          "durationSeconds": 2084,
+          "thumbnail": "https://img.youtube.com/vi/4IMV_Awj0YU/hqdefault.jpg"
+        },
+        {
           "videoId": "NH5QoW7e864",
           "title": "Whacky Words! | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-16T11:00:08Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-06-13T11:00:17Z",
           "durationSeconds": 2531,
           "thumbnail": "https://img.youtube.com/vi/Y9vIY2Okowc/hqdefault.jpg"
-        },
-        {
-          "videoId": "JwGAZc3-oOc",
-          "title": "Let's Make Our Own Pirate Story Book | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-06-12T11:00:09Z",
-          "durationSeconds": 1246,
-          "thumbnail": "https://img.youtube.com/vi/JwGAZc3-oOc/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "bf7FVEechEg",
+          "title": "Can We Create Rain? ⛈️ What is Cloud Seeding and How Does it Work? | Artificial Rain | Dr. Binocs",
+          "publishedAt": "2026-08-21T12:52:41Z",
+          "durationSeconds": 356,
+          "thumbnail": "https://img.youtube.com/vi/bf7FVEechEg/hqdefault.jpg"
+        },
+        {
           "videoId": "kSCl9P_Jhz0",
           "title": "Regeneration Superpower | What If Humans Could Regenerate Limbs? 🦎 | Limb Regeneration Explained",
           "publishedAt": "2026-08-18T12:28:27Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-12T12:34:29Z",
           "durationSeconds": 389,
           "thumbnail": "https://img.youtube.com/vi/x1sx4ReIDJM/hqdefault.jpg"
-        },
-        {
-          "videoId": "SgM9M0JxHME",
-          "title": "How Stitches Work? | Stitches Healing Stages | Sutures and Its Types | The Dr. Binocs Show",
-          "publishedAt": "2026-05-08T12:53:57Z",
-          "durationSeconds": 372,
-          "thumbnail": "https://img.youtube.com/vi/SgM9M0JxHME/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "yruZYC24yeE",
+          "title": "⚽ Linh Dương bé dịu dàng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-08-21T11:47:40Z",
+          "durationSeconds": 600,
+          "thumbnail": "https://img.youtube.com/vi/yruZYC24yeE/hqdefault.jpg"
+        },
         {
           "videoId": "PgzFOLZAWDQ",
           "title": "Cầu trượt tóc phồng | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-16T10:34:43Z",
           "durationSeconds": 2306,
           "thumbnail": "https://img.youtube.com/vi/8wzXsM-NgfI/hqdefault.jpg"
-        },
-        {
-          "videoId": "vZwXaAWae08",
-          "title": "🍨 Kem kỳ lạ | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-12T11:17:50Z",
-          "durationSeconds": 786,
-          "thumbnail": "https://img.youtube.com/vi/vZwXaAWae08/hqdefault.jpg"
         }
       ]
     }
