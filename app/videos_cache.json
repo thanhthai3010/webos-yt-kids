@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:16:10.323Z",
+  "generatedAt": "2026-08-23T06:17:43.212Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "cc96CHTSMNM",
+          "title": "What You Didn’t Know Elephants Could Do With Their Trunks! 🐘 | Nat Geo Kids",
+          "publishedAt": "2026-08-22T15:00:28Z",
+          "durationSeconds": 179,
+          "thumbnail": "https://img.youtube.com/vi/cc96CHTSMNM/hqdefault.jpg"
+        },
+        {
           "videoId": "httS5N9FuHs",
           "title": "How to Defeat a Monster ft. Perseus & Pegasus | Greeking Out Podcast | S4 E4 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-08-21T11:00:30Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-17T11:00:30Z",
           "durationSeconds": 9779,
           "thumbnail": "https://img.youtube.com/vi/btG6YkKXENo/hqdefault.jpg"
-        },
-        {
-          "videoId": "mWdiiVimiVg",
-          "title": "Search for a Lost City (Made of Gold!) ✨ | Lost Cities with Albert Lin Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-07-16T11:00:07Z",
-          "durationSeconds": 2526,
-          "thumbnail": "https://img.youtube.com/vi/mWdiiVimiVg/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "i7D6fuRTTow",
+          "title": "Exciting Counting Songs 4 Back to School! | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-22T10:00:29Z",
+          "durationSeconds": 7242,
+          "thumbnail": "https://img.youtube.com/vi/i7D6fuRTTow/hqdefault.jpg"
+        },
         {
           "videoId": "d1sP28GSQX4",
           "title": "Multiplication - Back to School Homeschooling | Learn to Count for Kids Compilation | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-04T10:00:06Z",
           "durationSeconds": 2701,
           "thumbnail": "https://img.youtube.com/vi/MBEIxIxZ-zY/hqdefault.jpg"
-        },
-        {
-          "videoId": "jOvfTvSIF9k",
-          "title": "The Great Outdoors Fraction Picnic | Camp YouTube | Learn to Count - Kids Compilation | Numberblocks",
-          "publishedAt": "2026-07-04T10:00:00Z",
-          "durationSeconds": 369,
-          "thumbnail": "https://img.youtube.com/vi/jOvfTvSIF9k/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "FPJJ2UPPJks",
+          "title": "Reading Day! - 2 Hours of Alphablocks | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-22T11:00:04Z",
+          "durationSeconds": 7360,
+          "thumbnail": "https://img.youtube.com/vi/FPJJ2UPPJks/hqdefault.jpg"
+        },
+        {
           "videoId": "4IMV_Awj0YU",
           "title": "Discover the Secret Vowel Sound with Y | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-21T11:00:26Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-06-14T11:00:00Z",
           "durationSeconds": 1101,
           "thumbnail": "https://img.youtube.com/vi/1axqK1fdYdI/hqdefault.jpg"
-        },
-        {
-          "videoId": "Y9vIY2Okowc",
-          "title": "My First ABC's | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-06-13T11:00:17Z",
-          "durationSeconds": 2531,
-          "thumbnail": "https://img.youtube.com/vi/Y9vIY2Okowc/hqdefault.jpg"
         }
       ]
     },
