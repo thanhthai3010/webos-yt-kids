@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:17:43.212Z",
+  "generatedAt": "2026-08-24T06:29:28.575Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "IFvInaD41dY",
+          "title": "Kids React to Baby Lions 🦁 | Nat Geo Kids",
+          "publishedAt": "2026-08-23T13:00:20Z",
+          "durationSeconds": 97,
+          "thumbnail": "https://img.youtube.com/vi/IFvInaD41dY/hqdefault.jpg"
+        },
+        {
+          "videoId": "qhKtncXKy8o",
+          "title": "Boost Your Brain this School Year! 🧠💪 | Brain Games Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-08-23T11:00:23Z",
+          "durationSeconds": 1317,
+          "thumbnail": "https://img.youtube.com/vi/qhKtncXKy8o/hqdefault.jpg"
+        },
+        {
           "videoId": "cc96CHTSMNM",
           "title": "What You Didn’t Know Elephants Could Do With Their Trunks! 🐘 | Nat Geo Kids",
           "publishedAt": "2026-08-22T15:00:28Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-07-19T11:00:07Z",
           "durationSeconds": 2761,
           "thumbnail": "https://img.youtube.com/vi/gfuOCuP48SA/hqdefault.jpg"
-        },
-        {
-          "videoId": "jxOb3d1pmXY",
-          "title": "Wildest Animals of America's National Parks! 🦬 | Nat Geo Kids",
-          "publishedAt": "2026-07-18T12:00:20Z",
-          "durationSeconds": 178,
-          "thumbnail": "https://img.youtube.com/vi/jxOb3d1pmXY/hqdefault.jpg"
-        },
-        {
-          "videoId": "btG6YkKXENo",
-          "title": "The Odyssey: Explained by Greeking Out 🌊 | Podcast Compilation | Nat Geo Kids",
-          "publishedAt": "2026-07-17T11:00:30Z",
-          "durationSeconds": 9779,
-          "thumbnail": "https://img.youtube.com/vi/btG6YkKXENo/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "MbgkPRXyCXI",
+          "title": "Back to School Sports Special! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-23T10:00:32Z",
+          "durationSeconds": 4562,
+          "thumbnail": "https://img.youtube.com/vi/MbgkPRXyCXI/hqdefault.jpg"
+        },
         {
           "videoId": "i7D6fuRTTow",
           "title": "Exciting Counting Songs 4 Back to School! | Learn to Count for Kids | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-05T10:00:17Z",
           "durationSeconds": 3793,
           "thumbnail": "https://img.youtube.com/vi/R_0p2it7NYw/hqdefault.jpg"
-        },
-        {
-          "videoId": "MBEIxIxZ-zY",
-          "title": "Every Times Table Song Ever! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-04T10:00:06Z",
-          "durationSeconds": 2701,
-          "thumbnail": "https://img.youtube.com/vi/MBEIxIxZ-zY/hqdefault.jpg"
         }
       ]
     },
@@ -1011,6 +1011,13 @@
       "name": "BBC Earth Kids",
       "videos": [
         {
+          "videoId": "h0Dq7Sx0QNA",
+          "title": "Hungry Pups Want More Food! | ﻿Wonderful World Of Puppies | BBC Earth Kids",
+          "publishedAt": "2026-08-23T15:00:30Z",
+          "durationSeconds": 584,
+          "thumbnail": "https://img.youtube.com/vi/h0Dq7Sx0QNA/hqdefault.jpg"
+        },
+        {
           "videoId": "yt2RczYsiAs",
           "title": "Playful Pups Go On An Adventure! | Wonderful World Of Puppies | BBC Earth Kids",
           "publishedAt": "2026-08-16T15:00:12Z",
@@ -1212,13 +1219,6 @@
           "publishedAt": "2025-06-28T13:01:24Z",
           "durationSeconds": 302,
           "thumbnail": "https://img.youtube.com/vi/lj19YFs_0T0/hqdefault.jpg"
-        },
-        {
-          "videoId": "OPmr4Isx9iY",
-          "title": "Beavers Are Living Under This City?! 🦫  | Coexistence | BBC Earth Kids",
-          "publishedAt": "2025-06-21T13:00:49Z",
-          "durationSeconds": 706,
-          "thumbnail": "https://img.youtube.com/vi/OPmr4Isx9iY/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "IpNgiP2lANk",
+          "title": "Alphablocks - Level 2 Phonics Next Steps | Learn to Read and Spell for Kids Compilation",
+          "publishedAt": "2026-08-23T11:00:13Z",
+          "durationSeconds": 1765,
+          "thumbnail": "https://img.youtube.com/vi/IpNgiP2lANk/hqdefault.jpg"
+        },
+        {
           "videoId": "FPJJ2UPPJks",
           "title": "Reading Day! - 2 Hours of Alphablocks | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-22T11:00:04Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-06-19T11:00:00Z",
           "durationSeconds": 3795,
           "thumbnail": "https://img.youtube.com/vi/5I3Rl4_UW7A/hqdefault.jpg"
-        },
-        {
-          "videoId": "1axqK1fdYdI",
-          "title": "Letter Blends FL FR | Lesson Twenty - Phonics Made Easy Compilation | Alphablocks",
-          "publishedAt": "2026-06-14T11:00:00Z",
-          "durationSeconds": 1101,
-          "thumbnail": "https://img.youtube.com/vi/1axqK1fdYdI/hqdefault.jpg"
         }
       ]
     },
