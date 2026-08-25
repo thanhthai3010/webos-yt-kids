@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:29:28.575Z",
+  "generatedAt": "2026-08-25T06:21:05.638Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -285,18 +285,18 @@
           "thumbnail": "https://img.youtube.com/vi/UFjyMNsJCfI/hqdefault.jpg"
         },
         {
-          "videoId": "x2IFAUPzj3M",
-          "title": "@Numberblocks- #BacktoSchool | Level Three | All the Best Eleven Moments | FULL EPISODES",
-          "publishedAt": "2020-07-29T08:30:04Z",
-          "durationSeconds": 829,
-          "thumbnail": "https://img.youtube.com/vi/x2IFAUPzj3M/hqdefault.jpg"
-        },
-        {
           "videoId": "f7XV2Pimwjk",
           "title": "Learn to count & read | 1 hour of Alphablocks & Numberblocks Crossover - Level 3",
           "publishedAt": "2023-11-25T11:00:38Z",
           "durationSeconds": 3792,
           "thumbnail": "https://img.youtube.com/vi/f7XV2Pimwjk/hqdefault.jpg"
+        },
+        {
+          "videoId": "x2IFAUPzj3M",
+          "title": "@Numberblocks- #BacktoSchool | Level Three | All the Best Eleven Moments | FULL EPISODES",
+          "publishedAt": "2020-07-29T08:30:04Z",
+          "durationSeconds": 829,
+          "thumbnail": "https://img.youtube.com/vi/x2IFAUPzj3M/hqdefault.jpg"
         },
         {
           "videoId": "MR6hs1am8vU",
@@ -362,6 +362,13 @@
       "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
       "name": "Nat Geo Kids",
       "videos": [
+        {
+          "videoId": "lxrzT61_WU0",
+          "title": "How to Live in Lava + More Extreme Adaptations 😱 | America's National Parks | Nat Geo Kids",
+          "publishedAt": "2026-08-24T11:00:31Z",
+          "durationSeconds": 2654,
+          "thumbnail": "https://img.youtube.com/vi/lxrzT61_WU0/hqdefault.jpg"
+        },
         {
           "videoId": "IFvInaD41dY",
           "title": "Kids React to Baby Lions 🦁 | Nat Geo Kids",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-20T11:00:37Z",
           "durationSeconds": 4135,
           "thumbnail": "https://img.youtube.com/vi/Yi9HwoE2Zhs/hqdefault.jpg"
-        },
-        {
-          "videoId": "gfuOCuP48SA",
-          "title": "Sharks Controlled by the Moon?! | Shark Side of the Moon: Lunar Legends | SHARKFEST🦈 | Nat Geo Kids",
-          "publishedAt": "2026-07-19T11:00:07Z",
-          "durationSeconds": 2761,
-          "thumbnail": "https://img.youtube.com/vi/gfuOCuP48SA/hqdefault.jpg"
         }
       ]
     },
