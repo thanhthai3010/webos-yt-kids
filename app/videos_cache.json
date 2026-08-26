@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:21:05.638Z",
+  "generatedAt": "2026-08-26T06:23:16.493Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "tcgM0Et68R4",
+          "title": "Deadliest Sea Creatures on Earth | Most Dangerous Ocean Animals | Stonefish, Piranha, Shark and more",
+          "publishedAt": "2026-08-25T12:30:26Z",
+          "durationSeconds": 2031,
+          "thumbnail": "https://img.youtube.com/vi/tcgM0Et68R4/hqdefault.jpg"
+        },
+        {
           "videoId": "bf7FVEechEg",
           "title": "Can We Create Rain? ⛈️ What is Cloud Seeding and How Does it Work? | Artificial Rain | Dr. Binocs",
           "publishedAt": "2026-08-21T12:52:41Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-15T12:30:06Z",
           "durationSeconds": 385,
           "thumbnail": "https://img.youtube.com/vi/8NbIQoNK8pk/hqdefault.jpg"
-        },
-        {
-          "videoId": "x1sx4ReIDJM",
-          "title": "The Tree of Death | What Happens if You Touch Manchineel Tree? | Most Dangerous Trees | Dr. Binocs",
-          "publishedAt": "2026-05-12T12:34:29Z",
-          "durationSeconds": 389,
-          "thumbnail": "https://img.youtube.com/vi/x1sx4ReIDJM/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "AmgjjNOwAZ4",
+          "title": "💈Thợ làm tóc tài ba | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-08-25T11:39:36Z",
+          "durationSeconds": 3370,
+          "thumbnail": "https://img.youtube.com/vi/AmgjjNOwAZ4/hqdefault.jpg"
+        },
         {
           "videoId": "yruZYC24yeE",
           "title": "⚽ Linh Dương bé dịu dàng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-17T10:11:35Z",
           "durationSeconds": 735,
           "thumbnail": "https://img.youtube.com/vi/7rqFdXvbbsQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "8wzXsM-NgfI",
-          "title": "🚗 Thử thách đi công viên xe hơi | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-16T10:34:43Z",
-          "durationSeconds": 2306,
-          "thumbnail": "https://img.youtube.com/vi/8wzXsM-NgfI/hqdefault.jpg"
         }
       ]
     }
