@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T16:52:33.284Z",
+  "generatedAt": "2026-08-28T17:44:24.502Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "RErZdXRK5xw",
+          "title": "Did Artemis doom Orion and Kallisto?! | Greeking Out Podcast | S4 E5 FULL EP | Nat Geo Kids",
+          "publishedAt": "2026-08-28T11:00:17Z",
+          "durationSeconds": 1181,
+          "thumbnail": "https://img.youtube.com/vi/RErZdXRK5xw/hqdefault.jpg"
+        },
+        {
           "videoId": "vujna6ae3WE",
           "title": "What Happens When a Bridge Breaks? 😰 | World's Toughest Fixes | Nat Geo Kids",
           "publishedAt": "2026-08-27T11:00:03Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-24T11:00:01Z",
           "durationSeconds": 2034,
           "thumbnail": "https://img.youtube.com/vi/9M97tWj-c5M/hqdefault.jpg"
-        },
-        {
-          "videoId": "UAqbU6fooxU",
-          "title": "Is Time Even Real?! ⏰ | Brain Games Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-07-23T11:00:39Z",
-          "durationSeconds": 1350,
-          "thumbnail": "https://img.youtube.com/vi/UAqbU6fooxU/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "3EHA2IZ7QkM",
+          "title": "Back to School Patterns and Sequences | Learn to Count for Kids - Compilation | Numberblocks",
+          "publishedAt": "2026-08-28T10:00:20Z",
+          "durationSeconds": 3775,
+          "thumbnail": "https://img.youtube.com/vi/3EHA2IZ7QkM/hqdefault.jpg"
+        },
         {
           "videoId": "2pVOCKRPDpg",
           "title": "DIY Sticker Fun | Learn to Count | @Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-11T10:00:00Z",
           "durationSeconds": 4314,
           "thumbnail": "https://img.youtube.com/vi/sR7T0MqJQS4/hqdefault.jpg"
-        },
-        {
-          "videoId": "sB4hgBdPSfk",
-          "title": "Numberblock 1 Counts Summer Smoothies | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-10T10:00:21Z",
-          "durationSeconds": 2432,
-          "thumbnail": "https://img.youtube.com/vi/sB4hgBdPSfk/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "depxT2CPYjA",
+          "title": "How To Draw A Funny Box Of Crayons",
+          "publishedAt": "2026-08-28T14:28:29Z",
+          "durationSeconds": 380,
+          "thumbnail": "https://img.youtube.com/vi/depxT2CPYjA/hqdefault.jpg"
+        },
         {
           "videoId": "pUywCc6URlI",
           "title": "How To Draw A Funny School Locker",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-16T14:00:12Z",
           "durationSeconds": 253,
           "thumbnail": "https://img.youtube.com/vi/UZvc12UKMyI/hqdefault.jpg"
-        },
-        {
-          "videoId": "pYKskGwQOx4",
-          "title": "How To Draw A Funny Summer Hotdog",
-          "publishedAt": "2026-07-15T14:00:00Z",
-          "durationSeconds": 418,
-          "thumbnail": "https://img.youtube.com/vi/pYKskGwQOx4/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "v1ZomIEGw1A",
+          "title": "Tricky Words to Learn Before School | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-28T11:00:33Z",
+          "durationSeconds": 3371,
+          "thumbnail": "https://img.youtube.com/vi/v1ZomIEGw1A/hqdefault.jpg"
+        },
+        {
           "videoId": "IpNgiP2lANk",
           "title": "Alphablocks - Level 2 Phonics Next Steps | Learn to Read and Spell for Kids Compilation",
           "publishedAt": "2026-08-23T11:00:13Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-06-20T11:00:00Z",
           "durationSeconds": 1785,
           "thumbnail": "https://img.youtube.com/vi/coF0mWt9fmU/hqdefault.jpg"
-        },
-        {
-          "videoId": "5I3Rl4_UW7A",
-          "title": "Alphablock P's Pretty Painting | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-06-19T11:00:00Z",
-          "durationSeconds": 3795,
-          "thumbnail": "https://img.youtube.com/vi/5I3Rl4_UW7A/hqdefault.jpg"
         }
       ]
     },
@@ -2523,8 +2523,15 @@
       "name": "Maddie Moate",
       "videos": [
         {
+          "videoId": "bb9HxkRGOXc",
+          "title": "Summer Adventures with Maddie | Pineapples, Cork Trees and Goats Cheese! | Compilation for Kids",
+          "publishedAt": "2026-08-28T11:36:01Z",
+          "durationSeconds": 1799,
+          "thumbnail": "https://img.youtube.com/vi/bb9HxkRGOXc/hqdefault.jpg"
+        },
+        {
           "videoId": "23ZgofVpGpQ",
-          "title": "How is it made? | Paint, Cardboard and Glass! | Compilation for Kids",
+          "title": "How is it made? with Maddie | Paint, Cardboard and Glass! | Compilation for Kids",
           "publishedAt": "2026-07-24T09:23:24Z",
           "durationSeconds": 1857,
           "thumbnail": "https://img.youtube.com/vi/23ZgofVpGpQ/hqdefault.jpg"
@@ -2724,13 +2731,6 @@
           "publishedAt": "2024-09-15T09:00:11Z",
           "durationSeconds": 423,
           "thumbnail": "https://img.youtube.com/vi/3luAKTnBbMo/hqdefault.jpg"
-        },
-        {
-          "videoId": "w-EarsT6rRE",
-          "title": "Maddie climbs Mount Kilimanjaro (1 hour special!)",
-          "publishedAt": "2024-08-31T15:00:07Z",
-          "durationSeconds": 3148,
-          "thumbnail": "https://img.youtube.com/vi/w-EarsT6rRE/hqdefault.jpg"
         }
       ]
     },
@@ -2738,6 +2738,13 @@
       "channelId": "UCxlJ45KjG4XVcQ_hd8j227A",
       "name": "Peekaboo Kidz",
       "videos": [
+        {
+          "videoId": "GLCUztzlxAs",
+          "title": "What Are White Blood Cells? 🩸 | The Body’s Tiny Defenders Explained | Learn with Dr. Binocs",
+          "publishedAt": "2026-08-28T12:30:24Z",
+          "durationSeconds": 342,
+          "thumbnail": "https://img.youtube.com/vi/GLCUztzlxAs/hqdefault.jpg"
+        },
         {
           "videoId": "tcgM0Et68R4",
           "title": "Deadliest Fish | Most Dangerous Ocean Animals | Stonefish, Piranha, Shark, Stingrays and more",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-19T12:30:26Z",
           "durationSeconds": 362,
           "thumbnail": "https://img.youtube.com/vi/242ADhlRDjA/hqdefault.jpg"
-        },
-        {
-          "videoId": "8NbIQoNK8pk",
-          "title": "The Black Sea Devil | Life of Deep Sea Devil Anglerfish | Creepiest Fish in The Ocean | Dr. Binocs",
-          "publishedAt": "2026-05-15T12:30:06Z",
-          "durationSeconds": 385,
-          "thumbnail": "https://img.youtube.com/vi/8NbIQoNK8pk/hqdefault.jpg"
         }
       ]
     },
