@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T17:44:24.502Z",
+  "generatedAt": "2026-08-29T11:48:34.981Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Numberblocks",
       "videos": [
         {
+          "videoId": "LAVt0sA36sc",
+          "title": "Adventures in the Forest of Tens | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-29T10:00:21Z",
+          "durationSeconds": 3770,
+          "thumbnail": "https://img.youtube.com/vi/LAVt0sA36sc/hqdefault.jpg"
+        },
+        {
           "videoId": "3EHA2IZ7QkM",
           "title": "Back to School Patterns and Sequences | Learn to Count for Kids - Compilation | Numberblocks",
           "publishedAt": "2026-08-28T10:00:20Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-12T10:00:36Z",
           "durationSeconds": 3770,
           "thumbnail": "https://img.youtube.com/vi/DPSySGxomQw/hqdefault.jpg"
-        },
-        {
-          "videoId": "sR7T0MqJQS4",
-          "title": "Rainbow Counting for Kids and More! | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-11T10:00:00Z",
-          "durationSeconds": 4314,
-          "thumbnail": "https://img.youtube.com/vi/sR7T0MqJQS4/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "lVr24d7S9uQ",
+          "title": "Back to School Bedtime Stories | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-29T11:00:38Z",
+          "durationSeconds": 1815,
+          "thumbnail": "https://img.youtube.com/vi/lVr24d7S9uQ/hqdefault.jpg"
+        },
+        {
           "videoId": "v1ZomIEGw1A",
           "title": "Tricky Words to Learn Before School | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-28T11:00:33Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-06-21T11:00:00Z",
           "durationSeconds": 1193,
           "thumbnail": "https://img.youtube.com/vi/Az8HjUlqUro/hqdefault.jpg"
-        },
-        {
-          "videoId": "coF0mWt9fmU",
-          "title": "Letter Blends CL CR DR PL  | Lesson Twenty One - Phonics Made Easy Compilation | Alphablocks",
-          "publishedAt": "2026-06-20T11:00:00Z",
-          "durationSeconds": 1785,
-          "thumbnail": "https://img.youtube.com/vi/coF0mWt9fmU/hqdefault.jpg"
         }
       ]
     },
