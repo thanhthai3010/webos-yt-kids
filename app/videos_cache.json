@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:48:34.981Z",
+  "generatedAt": "2026-08-30T10:45:13.875Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "zvACxEx9AZM",
+          "title": "Surprising Creatures of the Night! 🦉🌖 Animal Facts for Kids I Nat Geo Kids",
+          "publishedAt": "2026-08-29T15:00:24Z",
+          "durationSeconds": 199,
+          "thumbnail": "https://img.youtube.com/vi/zvACxEx9AZM/hqdefault.jpg"
+        },
+        {
           "videoId": "RErZdXRK5xw",
           "title": "Did Artemis doom Orion and Kallisto?! | Greeking Out Podcast | S4 E5 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-08-28T11:00:17Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-25T15:00:00Z",
           "durationSeconds": 153,
           "thumbnail": "https://img.youtube.com/vi/BLYMwlTFlao/hqdefault.jpg"
-        },
-        {
-          "videoId": "9M97tWj-c5M",
-          "title": "Tom Hiddleston is the Oracle of Pompeii🌋| Greeking Out Podcast | SPECIAL EDITION EP | ‪Nat Geo Kids",
-          "publishedAt": "2026-07-24T11:00:01Z",
-          "durationSeconds": 2034,
-          "thumbnail": "https://img.youtube.com/vi/9M97tWj-c5M/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "oIFNyMAXvyc",
+          "title": "Fractions are a Piece of Cake! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-08-30T10:00:21Z",
+          "durationSeconds": 4289,
+          "thumbnail": "https://img.youtube.com/vi/oIFNyMAXvyc/hqdefault.jpg"
+        },
         {
           "videoId": "LAVt0sA36sc",
           "title": "Adventures in the Forest of Tens | Learn to Count for Kids | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-16T10:00:12Z",
           "durationSeconds": 5385,
           "thumbnail": "https://img.youtube.com/vi/_43i3MAHsuo/hqdefault.jpg"
-        },
-        {
-          "videoId": "DPSySGxomQw",
-          "title": "'I'm Four' - Math Songs with Numberblock 4 | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-07-12T10:00:36Z",
-          "durationSeconds": 3770,
-          "thumbnail": "https://img.youtube.com/vi/DPSySGxomQw/hqdefault.jpg"
         }
       ]
     },
