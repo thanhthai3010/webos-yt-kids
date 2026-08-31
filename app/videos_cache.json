@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T10:45:13.875Z",
+  "generatedAt": "2026-08-31T11:54:27.781Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "5tK4DnpqYkA",
+          "title": "World's Coolest Jobs | Explorer Academy Compilation | Nat Geo Kids",
+          "publishedAt": "2026-08-31T11:00:11Z",
+          "durationSeconds": 1742,
+          "thumbnail": "https://img.youtube.com/vi/5tK4DnpqYkA/hqdefault.jpg"
+        },
+        {
+          "videoId": "JbtV2c46v8A",
+          "title": "Unlikely Animal Friends Full Episode | Cat Best Friends 😻 | Nat Geo Kids",
+          "publishedAt": "2026-08-30T11:00:02Z",
+          "durationSeconds": 2653,
+          "thumbnail": "https://img.youtube.com/vi/JbtV2c46v8A/hqdefault.jpg"
+        },
+        {
           "videoId": "zvACxEx9AZM",
           "title": "Surprising Creatures of the Night! 🦉🌖 Animal Facts for Kids I Nat Geo Kids",
           "publishedAt": "2026-08-29T15:00:24Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-07-27T11:00:03Z",
           "durationSeconds": 2643,
           "thumbnail": "https://img.youtube.com/vi/hq3n3J1NmBg/hqdefault.jpg"
-        },
-        {
-          "videoId": "N_7uBiy3yl8",
-          "title": "Mystery of the Sharks in the Bermuda Triangle 🤔 | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
-          "publishedAt": "2026-07-26T11:00:27Z",
-          "durationSeconds": 2642,
-          "thumbnail": "https://img.youtube.com/vi/N_7uBiy3yl8/hqdefault.jpg"
-        },
-        {
-          "videoId": "BLYMwlTFlao",
-          "title": "Animal Friendships That Make NO Sense! 🦈🐟 | Nat Geo Kids",
-          "publishedAt": "2026-07-25T15:00:00Z",
-          "durationSeconds": 153,
-          "thumbnail": "https://img.youtube.com/vi/BLYMwlTFlao/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "Bee-BDdivVY",
+          "title": "Let's Get the Bus to School! | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-08-30T11:00:37Z",
+          "durationSeconds": 1634,
+          "thumbnail": "https://img.youtube.com/vi/Bee-BDdivVY/hqdefault.jpg"
+        },
+        {
           "videoId": "lVr24d7S9uQ",
           "title": "Back to School Bedtime Stories | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-29T11:00:38Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-06-26T11:00:39Z",
           "durationSeconds": 1667,
           "thumbnail": "https://img.youtube.com/vi/ncsnkal_tJY/hqdefault.jpg"
-        },
-        {
-          "videoId": "Az8HjUlqUro",
-          "title": "Sunday Teatime with T | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-06-21T11:00:00Z",
-          "durationSeconds": 1193,
-          "thumbnail": "https://img.youtube.com/vi/Az8HjUlqUro/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "m-a61HzTRnU",
+          "title": "🚢 Hãy xếp hàng | Đi du thuyền nào | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-08-30T13:17:37Z",
+          "durationSeconds": 636,
+          "thumbnail": "https://img.youtube.com/vi/m-a61HzTRnU/hqdefault.jpg"
+        },
+        {
           "videoId": "iccGz1PuCQc",
           "title": "🛸 Dodo khám phá vũ trụ | Nghề nghiệp | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-08-26T09:36:32Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-23T10:31:06Z",
           "durationSeconds": 2431,
           "thumbnail": "https://img.youtube.com/vi/dIsHOGMuH5c/hqdefault.jpg"
-        },
-        {
-          "videoId": "jZc9ZiWgRK0",
-          "title": "🐟 Mưa cá | Biệt đội cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-20T05:05:58Z",
-          "durationSeconds": 377,
-          "thumbnail": "https://img.youtube.com/vi/jZc9ZiWgRK0/hqdefault.jpg"
         }
       ]
     }
