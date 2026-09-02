@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:33:57.267Z",
+  "generatedAt": "2026-09-02T09:59:44.641Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "Hh438OyVVXk",
+          "title": "How To Draw A Classroom Pet Hamster",
+          "publishedAt": "2026-09-01T14:00:17Z",
+          "durationSeconds": 552,
+          "thumbnail": "https://img.youtube.com/vi/Hh438OyVVXk/hqdefault.jpg"
+        },
+        {
           "videoId": "1mSoi4N2J4U",
           "title": "How To Draw Back-To-School Capybara Bean",
           "publishedAt": "2026-08-31T14:00:38Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-20T14:00:39Z",
           "durationSeconds": 331,
           "thumbnail": "https://img.youtube.com/vi/dt63JVUggaY/hqdefault.jpg"
-        },
-        {
-          "videoId": "LgocsDWUjaM",
-          "title": "How To Draw A Cute Baby Seahorse",
-          "publishedAt": "2026-07-17T14:00:03Z",
-          "durationSeconds": 353,
-          "thumbnail": "https://img.youtube.com/vi/LgocsDWUjaM/hqdefault.jpg"
         }
       ]
     },
@@ -2594,7 +2594,7 @@
         },
         {
           "videoId": "d3VTyrRBDX8",
-          "title": "Inside England's ONLY tea factory! | How is it made? with Maddie Moate",
+          "title": "How is tea made... in England!? (From field to cup) | Maddie Moate",
           "publishedAt": "2026-02-06T16:00:06Z",
           "durationSeconds": 749,
           "thumbnail": "https://img.youtube.com/vi/d3VTyrRBDX8/hqdefault.jpg"
@@ -2629,7 +2629,7 @@
         },
         {
           "videoId": "Mklgs8T2714",
-          "title": "How is Sea Salt made? | Maddie Moate",
+          "title": "How is Sea SALT made? | Maddie Moate",
           "publishedAt": "2025-11-15T15:28:09Z",
           "durationSeconds": 567,
           "thumbnail": "https://img.youtube.com/vi/Mklgs8T2714/hqdefault.jpg"
@@ -2738,6 +2738,13 @@
       "channelId": "UCxlJ45KjG4XVcQ_hd8j227A",
       "name": "Peekaboo Kidz",
       "videos": [
+        {
+          "videoId": "d5IxqpGDJQQ",
+          "title": "Deadliest Insects | What if a Flea Bites You? | How To Treat Flea Bites? | The Dr. Binocs Show",
+          "publishedAt": "2026-09-01T12:30:34Z",
+          "durationSeconds": 341,
+          "thumbnail": "https://img.youtube.com/vi/d5IxqpGDJQQ/hqdefault.jpg"
+        },
         {
           "videoId": "GLCUztzlxAs",
           "title": "What Are White Blood Cells? 🩸 | The Body’s Tiny Defenders Explained | Learn with Dr. Binocs",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-22T12:30:35Z",
           "durationSeconds": 381,
           "thumbnail": "https://img.youtube.com/vi/wxxEV19sgjQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "242ADhlRDjA",
-          "title": "Dangerous Encounters | What if a Snapping Turtle Bites You? | Alligator Snapping Turtle Bite Force",
-          "publishedAt": "2026-05-19T12:30:26Z",
-          "durationSeconds": 362,
-          "thumbnail": "https://img.youtube.com/vi/242ADhlRDjA/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,20 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "B2qWfVdyYRs",
+          "title": "🏖️Đội tuần tra bờ biển | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-02T09:00:18Z",
+          "durationSeconds": 736,
+          "thumbnail": "https://img.youtube.com/vi/B2qWfVdyYRs/hqdefault.jpg"
+        },
+        {
+          "videoId": "S_eocSaoXgg",
+          "title": "🚢 Ngày khởi hành | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-01T11:24:34Z",
+          "durationSeconds": 2297,
+          "thumbnail": "https://img.youtube.com/vi/S_eocSaoXgg/hqdefault.jpg"
+        },
         {
           "videoId": "m-a61HzTRnU",
           "title": "🚢 Hãy xếp hàng | Đi du thuyền nào | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3149,20 +3163,6 @@
           "publishedAt": "2026-06-27T02:00:28Z",
           "durationSeconds": 642,
           "thumbnail": "https://img.youtube.com/vi/Mec2YaPjUmU/hqdefault.jpg"
-        },
-        {
-          "videoId": "A0WDkIiyn9Y",
-          "title": "🌻 Bù nhìn | Biệt đội cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-24T10:23:07Z",
-          "durationSeconds": 727,
-          "thumbnail": "https://img.youtube.com/vi/A0WDkIiyn9Y/hqdefault.jpg"
-        },
-        {
-          "videoId": "dIsHOGMuH5c",
-          "title": "🤝 Đôi bạn bé Labrador và bé Dobie | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-23T10:31:06Z",
-          "durationSeconds": 2431,
-          "thumbnail": "https://img.youtube.com/vi/dIsHOGMuH5c/hqdefault.jpg"
         }
       ]
     }
