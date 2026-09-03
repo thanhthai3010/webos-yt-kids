@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T09:59:44.641Z",
+  "generatedAt": "2026-09-03T10:10:10.536Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "DrtV9bCD0uc",
+          "title": "Penguin vs. Penguin: Battle of the Coolest! | Whoa Factor | Nat Geo Kids",
+          "publishedAt": "2026-09-02T11:00:05Z",
+          "durationSeconds": 283,
+          "thumbnail": "https://img.youtube.com/vi/DrtV9bCD0uc/hqdefault.jpg"
+        },
+        {
           "videoId": "5tK4DnpqYkA",
           "title": "World's Coolest Jobs | Explorer Academy Compilation | Nat Geo Kids",
           "publishedAt": "2026-08-31T11:00:11Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-30T11:00:04Z",
           "durationSeconds": 2472,
           "thumbnail": "https://img.youtube.com/vi/lnB4Plxl_ps/hqdefault.jpg"
-        },
-        {
-          "videoId": "hq3n3J1NmBg",
-          "title": "Weird But True Full Episode | Plants, Plants Everywhere🪴🌱 | Nat Geo Kids",
-          "publishedAt": "2026-07-27T11:00:03Z",
-          "durationSeconds": 2643,
-          "thumbnail": "https://img.youtube.com/vi/hq3n3J1NmBg/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "8Zg6LdErx74",
+          "title": "Let's Do Some Rainbow Counting with Numberblock 7 | Learn to Count | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-09-03T10:00:20Z",
+          "durationSeconds": 3432,
+          "thumbnail": "https://img.youtube.com/vi/8Zg6LdErx74/hqdefault.jpg"
+        },
         {
           "videoId": "oIFNyMAXvyc",
           "title": "Fractions are a Piece of Cake! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-17T10:00:12Z",
           "durationSeconds": 3780,
           "thumbnail": "https://img.youtube.com/vi/kx9VtfQ0djE/hqdefault.jpg"
-        },
-        {
-          "videoId": "_43i3MAHsuo",
-          "title": "Let's Get Ready for the Summer Holidays! | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-07-16T10:00:12Z",
-          "durationSeconds": 5385,
-          "thumbnail": "https://img.youtube.com/vi/_43i3MAHsuo/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "nWZDqKeoxy4",
+          "title": "How To Draw A Cement Truck",
+          "publishedAt": "2026-09-02T14:00:06Z",
+          "durationSeconds": 589,
+          "thumbnail": "https://img.youtube.com/vi/nWZDqKeoxy4/hqdefault.jpg"
+        },
         {
           "videoId": "Hh438OyVVXk",
           "title": "How To Draw A Classroom Pet Hamster",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-21T14:00:15Z",
           "durationSeconds": 599,
           "thumbnail": "https://img.youtube.com/vi/qqY2lJCvQR4/hqdefault.jpg"
-        },
-        {
-          "videoId": "dt63JVUggaY",
-          "title": "How To Draw Kuromi Squishmallow",
-          "publishedAt": "2026-07-20T14:00:39Z",
-          "durationSeconds": 331,
-          "thumbnail": "https://img.youtube.com/vi/dt63JVUggaY/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "VF26MOuZbDQ",
+          "title": "Time to Read! - Go All In 📖🌟 | Alphablocks Phonics Song for Kids | Alphablocks",
+          "publishedAt": "2026-09-02T11:00:17Z",
+          "durationSeconds": 192,
+          "thumbnail": "https://img.youtube.com/vi/VF26MOuZbDQ/hqdefault.jpg"
+        },
+        {
           "videoId": "Bee-BDdivVY",
           "title": "Let's Get the Bus to School! | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-08-30T11:00:37Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-06-27T11:00:00Z",
           "durationSeconds": 1553,
           "thumbnail": "https://img.youtube.com/vi/Ojk4-i-hoO8/hqdefault.jpg"
-        },
-        {
-          "videoId": "ncsnkal_tJY",
-          "title": "Get Ready for School with the Alphablocks | Learn to Read & Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-06-26T11:00:39Z",
-          "durationSeconds": 1667,
-          "thumbnail": "https://img.youtube.com/vi/ncsnkal_tJY/hqdefault.jpg"
         }
       ]
     },
