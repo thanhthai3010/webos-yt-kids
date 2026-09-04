@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:10:10.536Z",
+  "generatedAt": "2026-09-04T10:00:18.457Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "1-XzGMIQss4",
+          "title": "Super Awesome Pets | Super Animals Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-09-03T11:00:03Z",
+          "durationSeconds": 1272,
+          "thumbnail": "https://img.youtube.com/vi/1-XzGMIQss4/hqdefault.jpg"
+        },
+        {
           "videoId": "DrtV9bCD0uc",
           "title": "Penguin vs. Penguin: Battle of the Coolest! | Whoa Factor | Nat Geo Kids",
           "publishedAt": "2026-09-02T11:00:05Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-07-31T11:00:14Z",
           "durationSeconds": 1238,
           "thumbnail": "https://img.youtube.com/vi/MufdODXKaLo/hqdefault.jpg"
-        },
-        {
-          "videoId": "lnB4Plxl_ps",
-          "title": "Giant Sharks Rule These Waters! | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
-          "publishedAt": "2026-07-30T11:00:04Z",
-          "durationSeconds": 2472,
-          "thumbnail": "https://img.youtube.com/vi/lnB4Plxl_ps/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "D28BHwgKi5Q",
+          "title": "I’m a Super Sorter | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-04T08:55:13Z",
+          "durationSeconds": 239,
+          "thumbnail": "https://img.youtube.com/vi/D28BHwgKi5Q/hqdefault.jpg"
+        },
         {
           "videoId": "8Zg6LdErx74",
           "title": "Let's Do Some Rainbow Counting with Numberblock 7 | Learn to Count | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-18T10:00:34Z",
           "durationSeconds": 3683,
           "thumbnail": "https://img.youtube.com/vi/CMfnaCOIxu8/hqdefault.jpg"
-        },
-        {
-          "videoId": "kx9VtfQ0djE",
-          "title": "Choo Choo! All Aboard the Numberblock Express | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-07-17T10:00:12Z",
-          "durationSeconds": 3780,
-          "thumbnail": "https://img.youtube.com/vi/kx9VtfQ0djE/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "2CiVR8ZOwbM",
+          "title": "How To Draw The Frog Life Cycle",
+          "publishedAt": "2026-09-03T14:00:15Z",
+          "durationSeconds": 533,
+          "thumbnail": "https://img.youtube.com/vi/2CiVR8ZOwbM/hqdefault.jpg"
+        },
         {
           "videoId": "nWZDqKeoxy4",
           "title": "How To Draw A Cement Truck",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-22T14:00:13Z",
           "durationSeconds": 374,
           "thumbnail": "https://img.youtube.com/vi/BqzZvCoaFJM/hqdefault.jpg"
-        },
-        {
-          "videoId": "qqY2lJCvQR4",
-          "title": "How To Draw Lilypad From Toy Story 5",
-          "publishedAt": "2026-07-21T14:00:15Z",
-          "durationSeconds": 599,
-          "thumbnail": "https://img.youtube.com/vi/qqY2lJCvQR4/hqdefault.jpg"
         }
       ]
     },
