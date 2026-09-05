@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:00:18.457Z",
+  "generatedAt": "2026-09-05T09:29:55.442Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "nrpF_O269s4",
+          "title": "Will Gilgamesh Find the Key to Eternal Life?! | Greeking Out Podcast | S4 E6 FULL EP | Nat Geo Kids",
+          "publishedAt": "2026-09-04T11:00:13Z",
+          "durationSeconds": 1628,
+          "thumbnail": "https://img.youtube.com/vi/nrpF_O269s4/hqdefault.jpg"
+        },
+        {
           "videoId": "1-XzGMIQss4",
           "title": "Super Awesome Pets | Super Animals Full Episode | Nat Geo Kids",
           "publishedAt": "2026-09-03T11:00:03Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-01T15:00:14Z",
           "durationSeconds": 152,
           "thumbnail": "https://img.youtube.com/vi/xlXtt3IRckY/hqdefault.jpg"
-        },
-        {
-          "videoId": "MufdODXKaLo",
-          "title": "Olympians Vs. Titans 💥 | Greeking Out Podcast | S4 E1 FULL EP | ‪Nat Geo Kids",
-          "publishedAt": "2026-07-31T11:00:14Z",
-          "durationSeconds": 1238,
-          "thumbnail": "https://img.youtube.com/vi/MufdODXKaLo/hqdefault.jpg"
         }
       ]
     },
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "Y133m0xtC-I",
+          "title": "How To Draw A Cool Plane",
+          "publishedAt": "2026-09-04T14:00:29Z",
+          "durationSeconds": 398,
+          "thumbnail": "https://img.youtube.com/vi/Y133m0xtC-I/hqdefault.jpg"
+        },
+        {
           "videoId": "2CiVR8ZOwbM",
           "title": "How To Draw The Frog Life Cycle",
           "publishedAt": "2026-09-03T14:00:15Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-23T14:00:33Z",
           "durationSeconds": 886,
           "thumbnail": "https://img.youtube.com/vi/mDDwm0KSyc0/hqdefault.jpg"
-        },
-        {
-          "videoId": "BqzZvCoaFJM",
-          "title": "How To Draw Smarty Pants From Toy Story 5",
-          "publishedAt": "2026-07-22T14:00:13Z",
-          "durationSeconds": 374,
-          "thumbnail": "https://img.youtube.com/vi/BqzZvCoaFJM/hqdefault.jpg"
         }
       ]
     },
@@ -1659,6 +1659,13 @@
       "name": "StoryTime at Awnie's House",
       "videos": [
         {
+          "videoId": "9DiJIklsYtw",
+          "title": "THE COUCH POTATO 🥔 | A Funny Kids Read Aloud About Getting Outside",
+          "publishedAt": "2026-09-04T11:00:09Z",
+          "durationSeconds": 570,
+          "thumbnail": "https://img.youtube.com/vi/9DiJIklsYtw/hqdefault.jpg"
+        },
+        {
           "videoId": "UK3L350OM6U",
           "title": "GOOD NIGHT WORLD, I LOVE YOU SO 🌙 Calming Bedtime Story Read Aloud for Kids",
           "publishedAt": "2026-08-27T11:00:03Z",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2025-12-18T13:00:02Z",
           "durationSeconds": 623,
           "thumbnail": "https://img.youtube.com/vi/-kwLESg-R-k/hqdefault.jpg"
-        },
-        {
-          "videoId": "0Fbp2lYKUEk",
-          "title": "SANTA LOVES SNOW CONES ❄️ A Sweet Holiday Kids Book Read Aloud by Awnie",
-          "publishedAt": "2025-12-11T13:00:02Z",
-          "durationSeconds": 373,
-          "thumbnail": "https://img.youtube.com/vi/0Fbp2lYKUEk/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "QOihCOo897g",
+          "title": "Letter Names and Their Sounds | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-09-04T10:00:38Z",
+          "durationSeconds": 2862,
+          "thumbnail": "https://img.youtube.com/vi/QOihCOo897g/hqdefault.jpg"
+        },
+        {
           "videoId": "VF26MOuZbDQ",
           "title": "Time to Read! - Go All In 📖🌟 | Alphablocks Phonics Song for Kids | Alphablocks",
           "publishedAt": "2026-09-02T11:00:17Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-06-28T11:00:00Z",
           "durationSeconds": 652,
           "thumbnail": "https://img.youtube.com/vi/8lxGl1ZGvDg/hqdefault.jpg"
-        },
-        {
-          "videoId": "Ojk4-i-hoO8",
-          "title": "The Longest Words in Alphaland | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-06-27T11:00:00Z",
-          "durationSeconds": 1553,
-          "thumbnail": "https://img.youtube.com/vi/Ojk4-i-hoO8/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "ubLe26x_2pI",
+          "title": "Why Do Leaves Change Colors in Fall? 🍂 The Science Behind Autumn | Fall Season | Dr. Binocs Show",
+          "publishedAt": "2026-09-04T12:30:11Z",
+          "durationSeconds": 349,
+          "thumbnail": "https://img.youtube.com/vi/ubLe26x_2pI/hqdefault.jpg"
+        },
+        {
           "videoId": "d5IxqpGDJQQ",
           "title": "Deadliest Insects | What if a Flea Bites You? | How To Treat Flea Bites? | The Dr. Binocs Show",
           "publishedAt": "2026-09-01T12:30:34Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-05-26T12:30:17Z",
           "durationSeconds": 1647,
           "thumbnail": "https://img.youtube.com/vi/Gjogqf64oKU/hqdefault.jpg"
-        },
-        {
-          "videoId": "wxxEV19sgjQ",
-          "title": "World's First Car | Who invented the Car? | History of the Automobile Invention | Dr. Binocs Show",
-          "publishedAt": "2026-05-22T12:30:35Z",
-          "durationSeconds": 381,
-          "thumbnail": "https://img.youtube.com/vi/wxxEV19sgjQ/hqdefault.jpg"
         }
       ]
     },
