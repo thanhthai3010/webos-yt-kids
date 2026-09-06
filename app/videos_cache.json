@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:29:55.442Z",
+  "generatedAt": "2026-09-06T09:43:48.717Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "JVLSZd27mo4",
+          "title": "Which Wild Cat LOVES Water? 💦 🐆 Animal Facts for Kids I Nat Geo Kids",
+          "publishedAt": "2026-09-05T15:00:01Z",
+          "durationSeconds": 219,
+          "thumbnail": "https://img.youtube.com/vi/JVLSZd27mo4/hqdefault.jpg"
+        },
+        {
           "videoId": "nrpF_O269s4",
           "title": "Will Gilgamesh Find the Key to Eternal Life?! | Greeking Out Podcast | S4 E6 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-09-04T11:00:13Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-02T11:00:24Z",
           "durationSeconds": 1265,
           "thumbnail": "https://img.youtube.com/vi/nmh5ot2F6gM/hqdefault.jpg"
-        },
-        {
-          "videoId": "xlXtt3IRckY",
-          "title": "Learn the Secrets of Baby Lions! 🦁✨ Animal Facts for Kids | Nat Geo Kids",
-          "publishedAt": "2026-08-01T15:00:14Z",
-          "durationSeconds": 152,
-          "thumbnail": "https://img.youtube.com/vi/xlXtt3IRckY/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "hidvKz9eUqo",
+          "title": "50, 60, 70 - Big Numbers and Beyond! | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-09-05T10:00:13Z",
+          "durationSeconds": 4539,
+          "thumbnail": "https://img.youtube.com/vi/hidvKz9eUqo/hqdefault.jpg"
+        },
         {
           "videoId": "D28BHwgKi5Q",
           "title": "I’m a Super Sorter | Learn to Count | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-19T10:00:25Z",
           "durationSeconds": 4041,
           "thumbnail": "https://img.youtube.com/vi/7S6JFsWFxkw/hqdefault.jpg"
-        },
-        {
-          "videoId": "CMfnaCOIxu8",
-          "title": "Saturday Cartoons with the Numberblocks | Learn to Count for Kids Compilation | Number Cartoon",
-          "publishedAt": "2026-07-18T10:00:34Z",
-          "durationSeconds": 3683,
-          "thumbnail": "https://img.youtube.com/vi/CMfnaCOIxu8/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "V40xAHWUcCM",
+          "title": "Learn All About Vowels  | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-09-05T11:00:35Z",
+          "durationSeconds": 2534,
+          "thumbnail": "https://img.youtube.com/vi/V40xAHWUcCM/hqdefault.jpg"
+        },
+        {
           "videoId": "QOihCOo897g",
           "title": "Letter Names and Their Sounds | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-09-04T10:00:38Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-07-03T11:00:02Z",
           "durationSeconds": 4065,
           "thumbnail": "https://img.youtube.com/vi/uSdRT7tc2eI/hqdefault.jpg"
-        },
-        {
-          "videoId": "8lxGl1ZGvDg",
-          "title": "Letter Blends with S | Lesson Twenty Two - Phonics Made Easy Compilation | Alphablocks",
-          "publishedAt": "2026-06-28T11:00:00Z",
-          "durationSeconds": 652,
-          "thumbnail": "https://img.youtube.com/vi/8lxGl1ZGvDg/hqdefault.jpg"
         }
       ]
     },
