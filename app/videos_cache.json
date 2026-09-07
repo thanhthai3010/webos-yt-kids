@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:43:48.717Z",
+  "generatedAt": "2026-09-07T10:47:16.503Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "BjwsFEAAvQU",
+          "title": "Roman to the Rescue Full Episode 🐶 | Layla | Nat Geo Kids",
+          "publishedAt": "2026-09-06T11:00:19Z",
+          "durationSeconds": 1353,
+          "thumbnail": "https://img.youtube.com/vi/BjwsFEAAvQU/hqdefault.jpg"
+        },
+        {
           "videoId": "JVLSZd27mo4",
           "title": "Which Wild Cat LOVES Water? 💦 🐆 Animal Facts for Kids I Nat Geo Kids",
           "publishedAt": "2026-09-05T15:00:01Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-02T13:00:16Z",
           "durationSeconds": 103,
           "thumbnail": "https://img.youtube.com/vi/R0tOs6e-KT4/hqdefault.jpg"
-        },
-        {
-          "videoId": "nmh5ot2F6gM",
-          "title": "Super Strange Animals 😲 | Super Animals Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-08-02T11:00:24Z",
-          "durationSeconds": 1265,
-          "thumbnail": "https://img.youtube.com/vi/nmh5ot2F6gM/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "vpA5wuraL4Y",
+          "title": "The Numberblock 100 Special | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-09-06T10:00:11Z",
+          "durationSeconds": 2406,
+          "thumbnail": "https://img.youtube.com/vi/vpA5wuraL4Y/hqdefault.jpg"
+        },
         {
           "videoId": "hidvKz9eUqo",
           "title": "50, 60, 70 - Big Numbers and Beyond! | Learn to Count for Kids | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-23T10:00:09Z",
           "durationSeconds": 4625,
           "thumbnail": "https://img.youtube.com/vi/nNJ2x3QvHY8/hqdefault.jpg"
-        },
-        {
-          "videoId": "7S6JFsWFxkw",
-          "title": "Sunday Lunchtime Stories | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-19T10:00:25Z",
-          "durationSeconds": 4041,
-          "thumbnail": "https://img.youtube.com/vi/7S6JFsWFxkw/hqdefault.jpg"
         }
       ]
     },
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "MLPMl6chv4I",
+          "title": "Wind Down at the Puffin Rock Pond 🐸🌿 | Calming",
+          "publishedAt": "2026-09-06T11:30:24Z",
+          "durationSeconds": 94,
+          "thumbnail": "https://img.youtube.com/vi/MLPMl6chv4I/hqdefault.jpg"
+        },
+        {
           "videoId": "iX6ZwmEkniE",
           "title": "Friendship On Puffin Rock Part 2 🎉 | Compilation",
           "publishedAt": "2026-08-27T12:00:17Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2025-11-21T13:01:48Z",
           "durationSeconds": 76,
           "thumbnail": "https://img.youtube.com/vi/mwJf_aOGfY4/hqdefault.jpg"
-        },
-        {
-          "videoId": "Y8O3khgMYUw",
-          "title": "Mossy’s Best Bits from Puffin Rock!",
-          "publishedAt": "2025-11-12T12:22:22Z",
-          "durationSeconds": 114,
-          "thumbnail": "https://img.youtube.com/vi/Y8O3khgMYUw/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,20 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "0G7aJPzZKAI",
+          "title": "Long Vowels OE O_E LONG O | Lesson Twenty Eight - Phonics Made Easy | Alphablocks",
+          "publishedAt": "2026-09-06T11:00:05Z",
+          "durationSeconds": 995,
+          "thumbnail": "https://img.youtube.com/vi/0G7aJPzZKAI/hqdefault.jpg"
+        },
+        {
+          "videoId": "tBbptgHwOXo",
+          "title": "Nursery Rhyme Stories for Kids | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-09-06T10:00:38Z",
+          "durationSeconds": 3675,
+          "thumbnail": "https://img.youtube.com/vi/tBbptgHwOXo/hqdefault.jpg"
+        },
+        {
           "videoId": "V40xAHWUcCM",
           "title": "Learn All About Vowels  | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-09-05T11:00:35Z",
@@ -2285,20 +2299,6 @@
           "publishedAt": "2026-07-05T11:00:14Z",
           "durationSeconds": 787,
           "thumbnail": "https://img.youtube.com/vi/LVwlbtF7UXU/hqdefault.jpg"
-        },
-        {
-          "videoId": "nHLcQl1MWV4",
-          "title": "Make Your Own The Gingerbread Man Book | Camp YouTube | Learn to Read and Spell for Kids Compilation",
-          "publishedAt": "2026-07-04T11:00:23Z",
-          "durationSeconds": 533,
-          "thumbnail": "https://img.youtube.com/vi/nHLcQl1MWV4/hqdefault.jpg"
-        },
-        {
-          "videoId": "uSdRT7tc2eI",
-          "title": "Phonics Next Steps - Level 2 Literacy | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-07-03T11:00:02Z",
-          "durationSeconds": 4065,
-          "thumbnail": "https://img.youtube.com/vi/uSdRT7tc2eI/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "sJuqk3bJsd0",
+          "title": "📚Nhiệm vụ bảo vệ Dodo | Trở lại trường |  | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-06T12:20:16Z",
+          "durationSeconds": 694,
+          "thumbnail": "https://img.youtube.com/vi/sJuqk3bJsd0/hqdefault.jpg"
+        },
+        {
           "videoId": "B2qWfVdyYRs",
           "title": "🏖️Đội tuần tra bờ biển | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-09-02T09:00:18Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-06-30T09:43:28Z",
           "durationSeconds": 2473,
           "thumbnail": "https://img.youtube.com/vi/j3CR4a-7wZY/hqdefault.jpg"
-        },
-        {
-          "videoId": "Mec2YaPjUmU",
-          "title": "🍚 Nghỉ ngơi sau khi ăn | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-06-27T02:00:28Z",
-          "durationSeconds": 642,
-          "thumbnail": "https://img.youtube.com/vi/Mec2YaPjUmU/hqdefault.jpg"
         }
       ]
     }
