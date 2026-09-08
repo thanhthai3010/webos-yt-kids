@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:47:16.503Z",
+  "generatedAt": "2026-09-08T10:07:50.721Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "zwNXQ6fNnno",
+          "title": "Your Brain's Hidden Secrets 🧠 | Brain Games Full Episode Compilation | Nat Geo Kids",
+          "publishedAt": "2026-09-07T11:00:19Z",
+          "durationSeconds": 7983,
+          "thumbnail": "https://img.youtube.com/vi/zwNXQ6fNnno/hqdefault.jpg"
+        },
+        {
           "videoId": "BjwsFEAAvQU",
           "title": "Roman to the Rescue Full Episode 🐶 | Layla | Nat Geo Kids",
           "publishedAt": "2026-09-06T11:00:19Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-03T11:00:08Z",
           "durationSeconds": 7873,
           "thumbnail": "https://img.youtube.com/vi/2dmaCb5sf9w/hqdefault.jpg"
-        },
-        {
-          "videoId": "R0tOs6e-KT4",
-          "title": "Kids React to Animal Superpowers 🦸💥 | Nat Geo Kids",
-          "publishedAt": "2026-08-02T13:00:16Z",
-          "durationSeconds": 103,
-          "thumbnail": "https://img.youtube.com/vi/R0tOs6e-KT4/hqdefault.jpg"
         }
       ]
     },
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "LNAH9vztxmg",
+          "title": "How To Draw A Forklift",
+          "publishedAt": "2026-09-07T14:00:35Z",
+          "durationSeconds": 490,
+          "thumbnail": "https://img.youtube.com/vi/LNAH9vztxmg/hqdefault.jpg"
+        },
+        {
           "videoId": "Y133m0xtC-I",
           "title": "How To Draw A Cool Plane",
           "publishedAt": "2026-09-04T14:00:29Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-24T14:00:30Z",
           "durationSeconds": 531,
           "thumbnail": "https://img.youtube.com/vi/PweK3cgFA7g/hqdefault.jpg"
-        },
-        {
-          "videoId": "mDDwm0KSyc0",
-          "title": "How To Draw An Ice Cream Sundae Tower Folding Surprise",
-          "publishedAt": "2026-07-23T14:00:33Z",
-          "durationSeconds": 886,
-          "thumbnail": "https://img.youtube.com/vi/mDDwm0KSyc0/hqdefault.jpg"
         }
       ]
     },
@@ -2538,7 +2538,7 @@
         },
         {
           "videoId": "XZvdHPMUgug",
-          "title": "Why Cork is the World's BEST material! | Maddie Moate",
+          "title": "Why Cork Is The World's BEST Material! | Maddie Moate",
           "publishedAt": "2026-06-24T12:06:05Z",
           "durationSeconds": 443,
           "thumbnail": "https://img.youtube.com/vi/XZvdHPMUgug/hqdefault.jpg"
