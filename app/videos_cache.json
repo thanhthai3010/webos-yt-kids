@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:09:57.920Z",
+  "generatedAt": "2026-09-10T10:05:38.365Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "7IVHtph87pw",
+          "title": "Lion vs. Giraffe vs. Zebra! | Whoa Factor | Nat Geo Kids",
+          "publishedAt": "2026-09-09T11:00:11Z",
+          "durationSeconds": 323,
+          "thumbnail": "https://img.youtube.com/vi/7IVHtph87pw/hqdefault.jpg"
+        },
+        {
           "videoId": "yzdwLWbD_E0",
           "title": "Kids React to Lion vs. Buffalo 🦁🐃 | Nat Geo Kids",
           "publishedAt": "2026-09-08T11:00:37Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-07T11:00:23Z",
           "durationSeconds": 1102,
           "thumbnail": "https://img.youtube.com/vi/oppj_L7L4o0/hqdefault.jpg"
-        },
-        {
-          "videoId": "KUS_HpTJWzg",
-          "title": "All About Space! 🪐🚀 | Compilation | Nat Geo Kids",
-          "publishedAt": "2026-08-06T11:00:18Z",
-          "durationSeconds": 2851,
-          "thumbnail": "https://img.youtube.com/vi/KUS_HpTJWzg/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "sB1cDtHoKSs",
+          "title": "Random Numbers! Silly Math Galore | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-09-10T10:00:11Z",
+          "durationSeconds": 3779,
+          "thumbnail": "https://img.youtube.com/vi/sB1cDtHoKSs/hqdefault.jpg"
+        },
         {
           "videoId": "vpA5wuraL4Y",
           "title": "The Numberblock 100 Special | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-24T10:00:35Z",
           "durationSeconds": 1299,
           "thumbnail": "https://img.youtube.com/vi/mHtRK2ZgzfY/hqdefault.jpg"
-        },
-        {
-          "videoId": "nNJ2x3QvHY8",
-          "title": "Calm Counting - Easy Maths for Kids | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-07-23T10:00:09Z",
-          "durationSeconds": 4625,
-          "thumbnail": "https://img.youtube.com/vi/nNJ2x3QvHY8/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "p1lqjlmwfL4",
+          "title": "How To Draw A Starship From SpaceX",
+          "publishedAt": "2026-09-09T14:00:17Z",
+          "durationSeconds": 555,
+          "thumbnail": "https://img.youtube.com/vi/p1lqjlmwfL4/hqdefault.jpg"
+        },
         {
           "videoId": "1dsLJNDn45I",
           "title": "How To Draw School Lunch",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-28T14:00:38Z",
           "durationSeconds": 583,
           "thumbnail": "https://img.youtube.com/vi/NwYgv1ghdYQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "lXSh3i6yOMQ",
-          "title": "How To Draw A Cute Hammerhead Shark",
-          "publishedAt": "2026-07-27T14:00:37Z",
-          "durationSeconds": 332,
-          "thumbnail": "https://img.youtube.com/vi/lXSh3i6yOMQ/hqdefault.jpg"
         }
       ]
     },
@@ -2307,6 +2307,13 @@
       "name": "Danny Go!",
       "videos": [
         {
+          "videoId": "ebBH6umnDPE",
+          "title": "“Burning ENERGY!” ⚡️ Don’t-Stop-Moving Challenge | Danny Go! Dance Songs for Kids",
+          "publishedAt": "2026-09-09T12:00:31Z",
+          "durationSeconds": 264,
+          "thumbnail": "https://img.youtube.com/vi/ebBH6umnDPE/hqdefault.jpg"
+        },
+        {
           "videoId": "vM834FZYNro",
           "title": "Robots, Magnets, Planets + MORE! 🤖🧲💎 | STEM Dance Compilation | Danny Go! Songs for Kids",
           "publishedAt": "2026-05-29T12:00:32Z",
@@ -2508,13 +2515,6 @@
           "publishedAt": "2024-07-22T13:02:20Z",
           "durationSeconds": 3327,
           "thumbnail": "https://img.youtube.com/vi/i9QAVURLtJo/hqdefault.jpg"
-        },
-        {
-          "videoId": "oxdGXfwKE0k",
-          "title": "\"The Slip and Slide Dance!\" 💥 Exercise Brain Break | Danny Go! Songs for Kids",
-          "publishedAt": "2024-06-24T12:00:47Z",
-          "durationSeconds": 192,
-          "thumbnail": "https://img.youtube.com/vi/oxdGXfwKE0k/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "6GZJpvlkCfI",
+          "title": "🫧 Bùng nổ bong bóng bốc mùi | Đi Tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-09T10:13:34Z",
+          "durationSeconds": 883,
+          "thumbnail": "https://img.youtube.com/vi/6GZJpvlkCfI/hqdefault.jpg"
+        },
+        {
           "videoId": "nwkuuyKbVZc",
           "title": "🍹Đường ống nước trái cây bị tắc | Đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-09-08T12:28:15Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-07-04T11:26:51Z",
           "durationSeconds": 684,
           "thumbnail": "https://img.youtube.com/vi/Kwo8Y2BlRis/hqdefault.jpg"
-        },
-        {
-          "videoId": "5cvZPH1fGA4",
-          "title": "🐑 Dobie chăm sóc thú cưng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-07-01T11:19:58Z",
-          "durationSeconds": 668,
-          "thumbnail": "https://img.youtube.com/vi/5cvZPH1fGA4/hqdefault.jpg"
         }
       ]
     }
