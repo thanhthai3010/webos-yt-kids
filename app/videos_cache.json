@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:05:38.365Z",
+  "generatedAt": "2026-09-11T10:03:00.890Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "OE7-gYFnCEs",
+          "title": "Exploring a Hidden Ghost City! 👻 | Lost Cities with Albert Lin | Nat Geo Kids",
+          "publishedAt": "2026-09-10T11:00:14Z",
+          "durationSeconds": 2583,
+          "thumbnail": "https://img.youtube.com/vi/OE7-gYFnCEs/hqdefault.jpg"
+        },
+        {
           "videoId": "7IVHtph87pw",
           "title": "Lion vs. Giraffe vs. Zebra! | Whoa Factor | Nat Geo Kids",
           "publishedAt": "2026-09-09T11:00:11Z",
@@ -434,7 +441,7 @@
         },
         {
           "videoId": "zvACxEx9AZM",
-          "title": "Surprising Creatures of the Night! 🦉🌖 Animal Facts for Kids I Nat Geo Kids",
+          "title": "Hedgehogs, Bats & Hyenas! 🦉🌖 Night Animals | Nat Geo Kids",
           "publishedAt": "2026-08-29T15:00:24Z",
           "durationSeconds": 199,
           "thumbnail": "https://img.youtube.com/vi/zvACxEx9AZM/hqdefault.jpg"
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-08T15:00:22Z",
           "durationSeconds": 150,
           "thumbnail": "https://img.youtube.com/vi/4krR7Hqbon4/hqdefault.jpg"
-        },
-        {
-          "videoId": "oppj_L7L4o0",
-          "title": "Opening Pandora's Jar (NOT Box!) | Greeking Out Podcast | S4 E2 FULL EP | ‪Nat Geo Kids",
-          "publishedAt": "2026-08-07T11:00:23Z",
-          "durationSeconds": 1102,
-          "thumbnail": "https://img.youtube.com/vi/oppj_L7L4o0/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "swrZN0Q5jXE",
+          "title": "I know my four times table | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-11T10:00:07Z",
+          "durationSeconds": 142,
+          "thumbnail": "https://img.youtube.com/vi/swrZN0Q5jXE/hqdefault.jpg"
+        },
         {
           "videoId": "sB1cDtHoKSs",
           "title": "Random Numbers! Silly Math Galore | Learn to Count for Kids | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-25T10:00:01Z",
           "durationSeconds": 2968,
           "thumbnail": "https://img.youtube.com/vi/Gs7bY-PlQr8/hqdefault.jpg"
-        },
-        {
-          "videoId": "mHtRK2ZgzfY",
-          "title": "Are You Smarter than Mom and Dad? | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-24T10:00:35Z",
-          "durationSeconds": 1299,
-          "thumbnail": "https://img.youtube.com/vi/mHtRK2ZgzfY/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "p-dHw804GIo",
+          "title": "How To Draw A Cartoon Ankylosaurus",
+          "publishedAt": "2026-09-10T14:00:27Z",
+          "durationSeconds": 431,
+          "thumbnail": "https://img.youtube.com/vi/p-dHw804GIo/hqdefault.jpg"
+        },
         {
           "videoId": "p1lqjlmwfL4",
           "title": "How To Draw A Starship From SpaceX",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-29T15:13:47Z",
           "durationSeconds": 493,
           "thumbnail": "https://img.youtube.com/vi/gT5UBriKUCs/hqdefault.jpg"
-        },
-        {
-          "videoId": "NwYgv1ghdYQ",
-          "title": "How To Draw Pandy Paws From Gabby's Dollhouse",
-          "publishedAt": "2026-07-28T14:00:38Z",
-          "durationSeconds": 583,
-          "thumbnail": "https://img.youtube.com/vi/NwYgv1ghdYQ/hqdefault.jpg"
         }
       ]
     },
