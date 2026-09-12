@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:03:00.890Z",
+  "generatedAt": "2026-09-12T09:38:59.797Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "OYPovmiOlBg",
+          "title": "Seeing the Future Can Get You Into Trouble 🔮 | Greeking Out Podcast | S4 E7 FULL EP | ‪Nat Geo Kids",
+          "publishedAt": "2026-09-11T11:00:31Z",
+          "durationSeconds": 1068,
+          "thumbnail": "https://img.youtube.com/vi/OYPovmiOlBg/hqdefault.jpg"
+        },
+        {
           "videoId": "OE7-gYFnCEs",
           "title": "Exploring a Hidden Ghost City! 👻 | Lost Cities with Albert Lin | Nat Geo Kids",
           "publishedAt": "2026-09-10T11:00:14Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-09T11:00:16Z",
           "durationSeconds": 2771,
           "thumbnail": "https://img.youtube.com/vi/JgZ1JRbitU8/hqdefault.jpg"
-        },
-        {
-          "videoId": "4krR7Hqbon4",
-          "title": "A Day In The Life Of A Whale Shark 🦈 | Nat Geo Kids",
-          "publishedAt": "2026-08-08T15:00:22Z",
-          "durationSeconds": 150,
-          "thumbnail": "https://img.youtube.com/vi/4krR7Hqbon4/hqdefault.jpg"
         }
       ]
     },
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "QPcSceXFric",
+          "title": "How To Draw A Bean Sprout Folding Surprise",
+          "publishedAt": "2026-09-11T16:18:16Z",
+          "durationSeconds": 713,
+          "thumbnail": "https://img.youtube.com/vi/QPcSceXFric/hqdefault.jpg"
+        },
+        {
           "videoId": "p-dHw804GIo",
           "title": "How To Draw A Cartoon Ankylosaurus",
           "publishedAt": "2026-09-10T14:00:27Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-30T14:00:16Z",
           "durationSeconds": 391,
           "thumbnail": "https://img.youtube.com/vi/huSw_oIDyFY/hqdefault.jpg"
-        },
-        {
-          "videoId": "gT5UBriKUCs",
-          "title": "How To Draw A Baby White Tiger Drinking A Bottle",
-          "publishedAt": "2026-07-29T15:13:47Z",
-          "durationSeconds": 493,
-          "thumbnail": "https://img.youtube.com/vi/gT5UBriKUCs/hqdefault.jpg"
         }
       ]
     },
@@ -1659,6 +1659,13 @@
       "name": "StoryTime at Awnie's House",
       "videos": [
         {
+          "videoId": "V09XdK0kdgk",
+          "title": "THE BAD SEED, THE GOOD EGG & THE SOUR GRAPE 📚 3 Funny Food Group Books Read Aloud",
+          "publishedAt": "2026-09-11T11:00:28Z",
+          "durationSeconds": 1535,
+          "thumbnail": "https://img.youtube.com/vi/V09XdK0kdgk/hqdefault.jpg"
+        },
+        {
           "videoId": "9DiJIklsYtw",
           "title": "THE COUCH POTATO 🥔 | A Funny Kids Read Aloud About Getting Outside",
           "publishedAt": "2026-09-04T11:00:09Z",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2026-01-05T12:00:03Z",
           "durationSeconds": 2721,
           "thumbnail": "https://img.youtube.com/vi/18_7wcl4BWA/hqdefault.jpg"
-        },
-        {
-          "videoId": "-kwLESg-R-k",
-          "title": "🛷 LITTLE RED SLEIGH🎄Christmas Read Aloud for Kids | A Heartwarming Holiday Story",
-          "publishedAt": "2025-12-18T13:00:02Z",
-          "durationSeconds": 623,
-          "thumbnail": "https://img.youtube.com/vi/-kwLESg-R-k/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "hWh59GPbt3A",
+          "title": "The Best Reading Songs from The Band!  | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-09-11T11:00:36Z",
+          "durationSeconds": 2835,
+          "thumbnail": "https://img.youtube.com/vi/hWh59GPbt3A/hqdefault.jpg"
+        },
+        {
           "videoId": "5a5QLfcFTeA",
           "title": "Time to Read! - Go All In 📖🌟 | Alphablocks Phonics Song for Kids | Alphablocks",
           "publishedAt": "2026-09-08T16:15:09Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-07-10T11:00:00Z",
           "durationSeconds": 2325,
           "thumbnail": "https://img.youtube.com/vi/KNXmFy9ajP4/hqdefault.jpg"
-        },
-        {
-          "videoId": "LVwlbtF7UXU",
-          "title": "Letter Blends WH PH | Lesson Twenty Four - Phonics Made Easy | Alphablocks",
-          "publishedAt": "2026-07-05T11:00:14Z",
-          "durationSeconds": 787,
-          "thumbnail": "https://img.youtube.com/vi/LVwlbtF7UXU/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "225aWflNUz8",
+          "title": "Deadliest Viruses | What Causes Swine Flu? | How Does Swine Flu Spread? | Learn with Dr. Binocs",
+          "publishedAt": "2026-09-11T12:40:52Z",
+          "durationSeconds": 408,
+          "thumbnail": "https://img.youtube.com/vi/225aWflNUz8/hqdefault.jpg"
+        },
+        {
           "videoId": "7DbdhJOF-dk",
           "title": "Eating Too Much Chocolate? 🍫 What Happens When You Eat Too Much Chocolate? | The Dr. Binocs Show",
           "publishedAt": "2026-09-08T12:30:08Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-06-02T12:59:06Z",
           "durationSeconds": 393,
           "thumbnail": "https://img.youtube.com/vi/AiOyLAZsRfc/hqdefault.jpg"
-        },
-        {
-          "videoId": "49DUB86jfaI",
-          "title": "What is Nuclear Fusion? | Fusion Power Explained | Nuclear Fusion Reaction in Sun | Dr. Binocs Show",
-          "publishedAt": "2026-05-29T12:30:26Z",
-          "durationSeconds": 379,
-          "thumbnail": "https://img.youtube.com/vi/49DUB86jfaI/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "a0sck8R72j4",
+          "title": "🪂 Cảnh sát trưởng từ trên trời rơi xuống | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-12T02:15:06Z",
+          "durationSeconds": 921,
+          "thumbnail": "https://img.youtube.com/vi/a0sck8R72j4/hqdefault.jpg"
+        },
         {
           "videoId": "6GZJpvlkCfI",
           "title": "🫧 Bùng nổ bong bóng bốc mùi | Đi Tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-07-10T02:00:17Z",
           "durationSeconds": 3017,
           "thumbnail": "https://img.youtube.com/vi/7sZCBddrqbs/hqdefault.jpg"
-        },
-        {
-          "videoId": "Kwo8Y2BlRis",
-          "title": "🌊 Cuộc phiêu lưu thần kỳ của Dodo | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-07-04T11:26:51Z",
-          "durationSeconds": 684,
-          "thumbnail": "https://img.youtube.com/vi/Kwo8Y2BlRis/hqdefault.jpg"
         }
       ]
     }
