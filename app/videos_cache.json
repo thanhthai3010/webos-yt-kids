@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:38:59.797Z",
+  "generatedAt": "2026-09-13T10:40:15.230Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "5mctnApeNDw",
+          "title": "Wildest Animal Superpowers! | Compilation | Nat Geo Kids",
+          "publishedAt": "2026-09-12T15:00:22Z",
+          "durationSeconds": 563,
+          "thumbnail": "https://img.youtube.com/vi/5mctnApeNDw/hqdefault.jpg"
+        },
+        {
           "videoId": "OYPovmiOlBg",
           "title": "Seeing the Future Can Get You Into Trouble 🔮 | Greeking Out Podcast | S4 E7 FULL EP | ‪Nat Geo Kids",
           "publishedAt": "2026-09-11T11:00:31Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-10T11:00:29Z",
           "durationSeconds": 7917,
           "thumbnail": "https://img.youtube.com/vi/BFjV99KJRaE/hqdefault.jpg"
-        },
-        {
-          "videoId": "JgZ1JRbitU8",
-          "title": "These Sharks are Closer Than You Think 😱 | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
-          "publishedAt": "2026-08-09T11:00:16Z",
-          "durationSeconds": 2771,
-          "thumbnail": "https://img.youtube.com/vi/JgZ1JRbitU8/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "4KklERoqcVg",
+          "title": "Let's Learn Basic Shapes for Kids | Learn to Count 4 Kids Compilation | Numberblocks",
+          "publishedAt": "2026-09-12T10:00:34Z",
+          "durationSeconds": 4575,
+          "thumbnail": "https://img.youtube.com/vi/4KklERoqcVg/hqdefault.jpg"
+        },
         {
           "videoId": "swrZN0Q5jXE",
           "title": "I know my four times table | Learn to Count | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-07-26T10:00:39Z",
           "durationSeconds": 3782,
           "thumbnail": "https://img.youtube.com/vi/NyUgWdMCOUM/hqdefault.jpg"
-        },
-        {
-          "videoId": "Gs7bY-PlQr8",
-          "title": "Count Together - Friendship for Kids | Learn to Count Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-25T10:00:01Z",
-          "durationSeconds": 2968,
-          "thumbnail": "https://img.youtube.com/vi/Gs7bY-PlQr8/hqdefault.jpg"
         }
       ]
     },
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "CEgiO2XnR7E",
+          "title": "Playtime On Puffin Rock 🐚💛 | Gentle Compilation",
+          "publishedAt": "2026-09-12T12:00:26Z",
+          "durationSeconds": 214,
+          "thumbnail": "https://img.youtube.com/vi/CEgiO2XnR7E/hqdefault.jpg"
+        },
+        {
           "videoId": "MLPMl6chv4I",
           "title": "Wind Down at the Puffin Rock Pond 🐸🌿 | Calming",
           "publishedAt": "2026-09-06T11:30:24Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2025-12-06T11:30:53Z",
           "durationSeconds": 353,
           "thumbnail": "https://img.youtube.com/vi/u99xPTCfSyQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "mwJf_aOGfY4",
-          "title": "Clams vs Seagulls on Puffin Rock 👀😨",
-          "publishedAt": "2025-11-21T13:01:48Z",
-          "durationSeconds": 76,
-          "thumbnail": "https://img.youtube.com/vi/mwJf_aOGfY4/hqdefault.jpg"
         }
       ]
     },
