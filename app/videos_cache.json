@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:40:15.230Z",
+  "generatedAt": "2026-09-14T11:00:50.632Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "h64W_6Vnpvc",
+          "title": "Weird But True! Full Episode Compilation | Science Rules 🧠 | Nat Geo Kids",
+          "publishedAt": "2026-09-14T11:00:06Z",
+          "durationSeconds": 3972,
+          "thumbnail": "https://img.youtube.com/vi/h64W_6Vnpvc/hqdefault.jpg"
+        },
+        {
+          "videoId": "uOtg4plWpHI",
+          "title": "Jack Hanna's Passport Full Episode | Colors of the World 🌎 | Nat Geo Kids",
+          "publishedAt": "2026-09-13T11:00:15Z",
+          "durationSeconds": 1188,
+          "thumbnail": "https://img.youtube.com/vi/uOtg4plWpHI/hqdefault.jpg"
+        },
+        {
           "videoId": "5mctnApeNDw",
           "title": "Wildest Animal Superpowers! | Compilation | Nat Geo Kids",
           "publishedAt": "2026-09-12T15:00:22Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-08-14T11:00:10Z",
           "durationSeconds": 1404,
           "thumbnail": "https://img.youtube.com/vi/59FXSWBomQA/hqdefault.jpg"
-        },
-        {
-          "videoId": "QZCOIfLLeR4",
-          "title": "Weird But True Full Episode | Ocean Friends, Not Foes! 🦈🌊 | Nat Geo Kids",
-          "publishedAt": "2026-08-13T11:00:05Z",
-          "durationSeconds": 2653,
-          "thumbnail": "https://img.youtube.com/vi/QZCOIfLLeR4/hqdefault.jpg"
-        },
-        {
-          "videoId": "BFjV99KJRaE",
-          "title": "America's Funniest Animal Videos! 🤣 | Full Episode Compilation | Nat Geo Kids",
-          "publishedAt": "2026-08-10T11:00:29Z",
-          "durationSeconds": 7917,
-          "thumbnail": "https://img.youtube.com/vi/BFjV99KJRaE/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "J8eVD2PpX_Q",
+          "title": "BRAND NEW CHARACTER REVEAL: Numberblock 33! | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-14T10:45:06Z",
+          "durationSeconds": 127,
+          "thumbnail": "https://img.youtube.com/vi/J8eVD2PpX_Q/hqdefault.jpg"
+        },
+        {
+          "videoId": "6qWAEHhFUtE",
+          "title": "Can You Solve These Counting Codes? | Learn to Count for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-09-13T11:00:20Z",
+          "durationSeconds": 4285,
+          "thumbnail": "https://img.youtube.com/vi/6qWAEHhFUtE/hqdefault.jpg"
+        },
         {
           "videoId": "4KklERoqcVg",
           "title": "Let's Learn Basic Shapes for Kids | Learn to Count 4 Kids Compilation | Numberblocks",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-07-31T10:00:35Z",
           "durationSeconds": 3944,
           "thumbnail": "https://img.youtube.com/vi/EbLA1gsJYEI/hqdefault.jpg"
-        },
-        {
-          "videoId": "xJ_mQ8jsZK8",
-          "title": "Numberblocks Academy - Learn Math! | Learn to Count for Kids Compilation |  | Numberblocks",
-          "publishedAt": "2026-07-30T10:00:25Z",
-          "durationSeconds": 3775,
-          "thumbnail": "https://img.youtube.com/vi/xJ_mQ8jsZK8/hqdefault.jpg"
-        },
-        {
-          "videoId": "NyUgWdMCOUM",
-          "title": "Super Summer Sports Day! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-26T10:00:39Z",
-          "durationSeconds": 3782,
-          "thumbnail": "https://img.youtube.com/vi/NyUgWdMCOUM/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "6bX8xYMerts",
+          "title": "Long Vowels EW U_E UE | Lesson Twenty Nine - Phonics Made Easy | Alphablocks",
+          "publishedAt": "2026-09-13T11:00:01Z",
+          "durationSeconds": 717,
+          "thumbnail": "https://img.youtube.com/vi/6bX8xYMerts/hqdefault.jpg"
+        },
+        {
           "videoId": "hWh59GPbt3A",
           "title": "The Best Reading Songs from The Band!  | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-09-11T11:00:36Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-07-11T11:00:09Z",
           "durationSeconds": 271,
           "thumbnail": "https://img.youtube.com/vi/ehohoviwIGg/hqdefault.jpg"
-        },
-        {
-          "videoId": "KNXmFy9ajP4",
-          "title": "All About Alphablock I | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-07-10T11:00:00Z",
-          "durationSeconds": 2325,
-          "thumbnail": "https://img.youtube.com/vi/KNXmFy9ajP4/hqdefault.jpg"
         }
       ]
     },
