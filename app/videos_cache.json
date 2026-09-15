@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:00:50.632Z",
+  "generatedAt": "2026-09-15T10:30:47.517Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Numberblocks",
       "videos": [
         {
+          "videoId": "bJ97RZ1PbBg",
+          "title": "BRAND NEW CHARACTER REVEAL: Numberblock 34! | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-15T10:00:06Z",
+          "durationSeconds": 96,
+          "thumbnail": "https://img.youtube.com/vi/bJ97RZ1PbBg/hqdefault.jpg"
+        },
+        {
           "videoId": "J8eVD2PpX_Q",
           "title": "BRAND NEW CHARACTER REVEAL: Numberblock 33! | Learn to Count | Numberblocks",
           "publishedAt": "2026-09-14T10:45:06Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-08-01T11:00:34Z",
           "durationSeconds": 3759,
           "thumbnail": "https://img.youtube.com/vi/vjOauI4OWPc/hqdefault.jpg"
-        },
-        {
-          "videoId": "EbLA1gsJYEI",
-          "title": "The Kindest Numberblocks | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-07-31T10:00:35Z",
-          "durationSeconds": 3944,
-          "thumbnail": "https://img.youtube.com/vi/EbLA1gsJYEI/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "RdkYiMTOW1U",
+          "title": "How To Draw A Traffic Cone - Drawing With Shapes",
+          "publishedAt": "2026-09-14T14:10:05Z",
+          "durationSeconds": 702,
+          "thumbnail": "https://img.youtube.com/vi/RdkYiMTOW1U/hqdefault.jpg"
+        },
         {
           "videoId": "QPcSceXFric",
           "title": "How To Draw A Bean Sprout Folding Surprise",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-07-31T14:00:19Z",
           "durationSeconds": 550,
           "thumbnail": "https://img.youtube.com/vi/NB_9dHGxnjU/hqdefault.jpg"
-        },
-        {
-          "videoId": "huSw_oIDyFY",
-          "title": "How To Draw A Funny Blueberry Cheesecake",
-          "publishedAt": "2026-07-30T14:00:16Z",
-          "durationSeconds": 391,
-          "thumbnail": "https://img.youtube.com/vi/huSw_oIDyFY/hqdefault.jpg"
         }
       ]
     },
@@ -1227,6 +1227,13 @@
       "name": "Vooks - Stories for Kids",
       "videos": [
         {
+          "videoId": "UAp_QnQUoyE",
+          "title": "Silly Stories for Kids! | Read Aloud Kids Book | Vooks Narrated Storybooks",
+          "publishedAt": "2026-09-14T12:00:17Z",
+          "durationSeconds": 2644,
+          "thumbnail": "https://img.youtube.com/vi/UAp_QnQUoyE/hqdefault.jpg"
+        },
+        {
           "videoId": "bEtF1PgsYr4",
           "title": "Jasper G and the Grumpity Grumps! | Read Aloud Kids Book | Vooks Narrated Storybooks",
           "publishedAt": "2026-08-19T16:40:40Z",
@@ -1428,13 +1435,6 @@
           "publishedAt": "2025-01-13T20:00:22Z",
           "durationSeconds": 882,
           "thumbnail": "https://img.youtube.com/vi/nINbRb5HPF8/hqdefault.jpg"
-        },
-        {
-          "videoId": "EdOBFjCHpQQ",
-          "title": "Spork! | Read Aloud Kids Book | Vooks Narrated Storybooks",
-          "publishedAt": "2025-01-07T20:03:00Z",
-          "durationSeconds": 455,
-          "thumbnail": "https://img.youtube.com/vi/EdOBFjCHpQQ/hqdefault.jpg"
         }
       ]
     },
