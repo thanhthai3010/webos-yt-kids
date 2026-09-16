@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:30:47.517Z",
+  "generatedAt": "2026-09-16T10:20:09.809Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "cF1rKugxZZ4",
+          "title": "Kids React to Baby Animals 🐙 (Part 2!) | Nat Geo Kids",
+          "publishedAt": "2026-09-15T11:00:04Z",
+          "durationSeconds": 106,
+          "thumbnail": "https://img.youtube.com/vi/cF1rKugxZZ4/hqdefault.jpg"
+        },
+        {
           "videoId": "h64W_6Vnpvc",
           "title": "Weird But True! Full Episode Compilation | Science Rules 🧠 | Nat Geo Kids",
           "publishedAt": "2026-09-14T11:00:06Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-15T15:00:06Z",
           "durationSeconds": 271,
           "thumbnail": "https://img.youtube.com/vi/sKVVFaobouM/hqdefault.jpg"
-        },
-        {
-          "videoId": "59FXSWBomQA",
-          "title": "Giants vs Olympians: Who Will Win?! | Greeking Out Podcast | S4 E3 FULL EP | ‪Nat Geo Kids",
-          "publishedAt": "2026-08-14T11:00:10Z",
-          "durationSeconds": 1404,
-          "thumbnail": "https://img.youtube.com/vi/59FXSWBomQA/hqdefault.jpg"
         }
       ]
     },
@@ -579,15 +579,22 @@
       "name": "Numberblocks",
       "videos": [
         {
+          "videoId": "OXjorKzZoUU",
+          "title": "Meet Numberblock 37! | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-16T10:00:06Z",
+          "durationSeconds": 90,
+          "thumbnail": "https://img.youtube.com/vi/OXjorKzZoUU/hqdefault.jpg"
+        },
+        {
           "videoId": "bJ97RZ1PbBg",
-          "title": "BRAND NEW CHARACTER REVEAL: Numberblock 34! | Learn to Count | Numberblocks",
+          "title": "Meet Numberblock 34! | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
           "publishedAt": "2026-09-15T10:00:06Z",
           "durationSeconds": 96,
           "thumbnail": "https://img.youtube.com/vi/bJ97RZ1PbBg/hqdefault.jpg"
         },
         {
           "videoId": "J8eVD2PpX_Q",
-          "title": "BRAND NEW CHARACTER REVEAL: Numberblock 33! | Learn to Count | Numberblocks",
+          "title": "Meet Numberblock 33! | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
           "publishedAt": "2026-09-14T10:45:06Z",
           "durationSeconds": 127,
           "thumbnail": "https://img.youtube.com/vi/J8eVD2PpX_Q/hqdefault.jpg"
@@ -780,13 +787,6 @@
           "publishedAt": "2026-08-02T10:00:19Z",
           "durationSeconds": 4047,
           "thumbnail": "https://img.youtube.com/vi/L7K8n_uZrWY/hqdefault.jpg"
-        },
-        {
-          "videoId": "vjOauI4OWPc",
-          "title": "Summer Vacation Counting! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-01T11:00:34Z",
-          "durationSeconds": 3759,
-          "thumbnail": "https://img.youtube.com/vi/vjOauI4OWPc/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "hNzQXn4ujm0",
+          "title": "What If You Accidentally Swallowed a Maggot? 🐛 | Maggots Inside Human Body | Learn with Dr. Binocs",
+          "publishedAt": "2026-09-15T12:49:30Z",
+          "durationSeconds": 365,
+          "thumbnail": "https://img.youtube.com/vi/hNzQXn4ujm0/hqdefault.jpg"
+        },
+        {
           "videoId": "225aWflNUz8",
           "title": "Deadliest Viruses | What Causes Swine Flu? | How Does Swine Flu Spread? | Learn with Dr. Binocs",
           "publishedAt": "2026-09-11T12:40:52Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-06-05T12:30:18Z",
           "durationSeconds": 362,
           "thumbnail": "https://img.youtube.com/vi/5SoLTR_IvJA/hqdefault.jpg"
-        },
-        {
-          "videoId": "AiOyLAZsRfc",
-          "title": "What is Hantavirus and How it Spreads? | What are the Symptoms of the Hantavirus? | Dr. Binocs",
-          "publishedAt": "2026-06-02T12:59:06Z",
-          "durationSeconds": 393,
-          "thumbnail": "https://img.youtube.com/vi/AiOyLAZsRfc/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "NBTVJQ_hox4",
+          "title": "Dodo và chú Dobie lạc trên hoang đảo | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-15T10:50:26Z",
+          "durationSeconds": 2658,
+          "thumbnail": "https://img.youtube.com/vi/NBTVJQ_hox4/hqdefault.jpg"
+        },
         {
           "videoId": "a0sck8R72j4",
           "title": "🪂 Cảnh sát trưởng từ trên trời rơi xuống | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-07-10T09:00:26Z",
           "durationSeconds": 789,
           "thumbnail": "https://img.youtube.com/vi/pa-Wvo1zVlk/hqdefault.jpg"
-        },
-        {
-          "videoId": "7sZCBddrqbs",
-          "title": "🦸🏻 Dodo trở thành siêu anh hùng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-07-10T02:00:17Z",
-          "durationSeconds": 3017,
-          "thumbnail": "https://img.youtube.com/vi/7sZCBddrqbs/hqdefault.jpg"
         }
       ]
     }
