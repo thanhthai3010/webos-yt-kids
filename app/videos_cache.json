@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:20:09.809Z",
+  "generatedAt": "2026-09-17T10:29:43.229Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "lLAyDRLHKXY",
+          "title": "Elephants 🐘 (From Trunk to Tail!) | Whoa Factor | Nat Geo Kids",
+          "publishedAt": "2026-09-16T11:00:09Z",
+          "durationSeconds": 335,
+          "thumbnail": "https://img.youtube.com/vi/lLAyDRLHKXY/hqdefault.jpg"
+        },
+        {
           "videoId": "cF1rKugxZZ4",
           "title": "Kids React to Baby Animals 🐙 (Part 2!) | Nat Geo Kids",
           "publishedAt": "2026-09-15T11:00:04Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-16T11:00:29Z",
           "durationSeconds": 2640,
           "thumbnail": "https://img.youtube.com/vi/kZOnY-2y0AE/hqdefault.jpg"
-        },
-        {
-          "videoId": "sKVVFaobouM",
-          "title": "Facts about Dragons, Crocodiles and more! 🌍🐊 Reptiles for Kids | Nat Geo Kids",
-          "publishedAt": "2026-08-15T15:00:06Z",
-          "durationSeconds": 271,
-          "thumbnail": "https://img.youtube.com/vi/sKVVFaobouM/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "aY93tQXspqg",
+          "title": "The Numbers Song - Sing Along Maths | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-09-17T10:00:13Z",
+          "durationSeconds": 5865,
+          "thumbnail": "https://img.youtube.com/vi/aY93tQXspqg/hqdefault.jpg"
+        },
+        {
+          "videoId": "k9cAFbgrGx0",
+          "title": "Meet Numberblock 38! | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-17T10:00:06Z",
+          "durationSeconds": 99,
+          "thumbnail": "https://img.youtube.com/vi/k9cAFbgrGx0/hqdefault.jpg"
+        },
         {
           "videoId": "OXjorKzZoUU",
           "title": "Meet Numberblock 37! | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-08-07T11:00:09Z",
           "durationSeconds": 1244,
           "thumbnail": "https://img.youtube.com/vi/X0qR-o5aUFA/hqdefault.jpg"
-        },
-        {
-          "videoId": "okraTNro0tg",
-          "title": "Every Numberblock 100 Appearance Ever! | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-08-06T10:00:02Z",
-          "durationSeconds": 2673,
-          "thumbnail": "https://img.youtube.com/vi/okraTNro0tg/hqdefault.jpg"
-        },
-        {
-          "videoId": "L7K8n_uZrWY",
-          "title": "Who is the Hide and Seek Champion? | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-02T10:00:19Z",
-          "durationSeconds": 4047,
-          "thumbnail": "https://img.youtube.com/vi/L7K8n_uZrWY/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "NWngZs2qAD8",
+          "title": "How To Draw A Claw Machine",
+          "publishedAt": "2026-09-16T15:14:21Z",
+          "durationSeconds": 378,
+          "thumbnail": "https://img.youtube.com/vi/NWngZs2qAD8/hqdefault.jpg"
+        },
         {
           "videoId": "RdkYiMTOW1U",
           "title": "How To Draw A Traffic Cone - Drawing With Shapes",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-03T14:00:15Z",
           "durationSeconds": 423,
           "thumbnail": "https://img.youtube.com/vi/-ZtZrnxgm3k/hqdefault.jpg"
-        },
-        {
-          "videoId": "NB_9dHGxnjU",
-          "title": "How To Draw An Ice Cream Cart",
-          "publishedAt": "2026-07-31T14:00:19Z",
-          "durationSeconds": 550,
-          "thumbnail": "https://img.youtube.com/vi/NB_9dHGxnjU/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "lHCCViRrtxQ",
+          "title": "🚢 Dodo làm thuyền trưởng nhí | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-16T12:20:12Z",
+          "durationSeconds": 733,
+          "thumbnail": "https://img.youtube.com/vi/lHCCViRrtxQ/hqdefault.jpg"
+        },
+        {
           "videoId": "NBTVJQ_hox4",
           "title": "Dodo và chú Dobie lạc trên hoang đảo | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-09-15T10:50:26Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-07-11T02:00:38Z",
           "durationSeconds": 711,
           "thumbnail": "https://img.youtube.com/vi/7WzluFSOL-I/hqdefault.jpg"
-        },
-        {
-          "videoId": "pa-Wvo1zVlk",
-          "title": "🥭 Khởi hành! Làng Xoài | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-07-10T09:00:26Z",
-          "durationSeconds": 789,
-          "thumbnail": "https://img.youtube.com/vi/pa-Wvo1zVlk/hqdefault.jpg"
         }
       ]
     }
