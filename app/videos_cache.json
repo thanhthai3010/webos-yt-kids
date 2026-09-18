@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:29:43.229Z",
+  "generatedAt": "2026-09-18T10:06:15.409Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "zu9lzYm4St4",
+          "title": "Funny Named Animals are Cute... But Creepy!🤣 | You're Called What?! | Nat Geo Kids",
+          "publishedAt": "2026-09-17T11:00:23Z",
+          "durationSeconds": 1618,
+          "thumbnail": "https://img.youtube.com/vi/zu9lzYm4St4/hqdefault.jpg"
+        },
+        {
           "videoId": "lLAyDRLHKXY",
           "title": "Elephants 🐘 (From Trunk to Tail!) | Whoa Factor | Nat Geo Kids",
           "publishedAt": "2026-09-16T11:00:09Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-17T11:00:36Z",
           "durationSeconds": 7640,
           "thumbnail": "https://img.youtube.com/vi/J1cm8yKC4GI/hqdefault.jpg"
-        },
-        {
-          "videoId": "kZOnY-2y0AE",
-          "title": "Baby Penguin Hatches + Tiger's New Home! 🐧🐯 | Secrets of the Zoo: Tampa Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-08-16T11:00:29Z",
-          "durationSeconds": 2640,
-          "thumbnail": "https://img.youtube.com/vi/kZOnY-2y0AE/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "-osYShkNjVs",
+          "title": "I’m a terrific Time Keeper | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-18T10:00:36Z",
+          "durationSeconds": 179,
+          "thumbnail": "https://img.youtube.com/vi/-osYShkNjVs/hqdefault.jpg"
+        },
+        {
+          "videoId": "G_kElQhB_Ig",
+          "title": "Meet Numberblock 39 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-18T10:00:15Z",
+          "durationSeconds": 95,
+          "thumbnail": "https://img.youtube.com/vi/G_kElQhB_Ig/hqdefault.jpg"
+        },
         {
           "videoId": "aY93tQXspqg",
           "title": "The Numbers Song - Sing Along Maths | Learn to Count for Kids | Number Cartoon | Numberblocks",
@@ -587,28 +601,28 @@
         },
         {
           "videoId": "k9cAFbgrGx0",
-          "title": "Meet Numberblock 38! | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "title": "Meet Numberblock 38 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
           "publishedAt": "2026-09-17T10:00:06Z",
           "durationSeconds": 99,
           "thumbnail": "https://img.youtube.com/vi/k9cAFbgrGx0/hqdefault.jpg"
         },
         {
           "videoId": "OXjorKzZoUU",
-          "title": "Meet Numberblock 37! | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "title": "Meet Numberblock 37 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
           "publishedAt": "2026-09-16T10:00:06Z",
           "durationSeconds": 90,
           "thumbnail": "https://img.youtube.com/vi/OXjorKzZoUU/hqdefault.jpg"
         },
         {
           "videoId": "bJ97RZ1PbBg",
-          "title": "Meet Numberblock 34! | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "title": "Meet Numberblock 34 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
           "publishedAt": "2026-09-15T10:00:06Z",
           "durationSeconds": 96,
           "thumbnail": "https://img.youtube.com/vi/bJ97RZ1PbBg/hqdefault.jpg"
         },
         {
           "videoId": "J8eVD2PpX_Q",
-          "title": "Meet Numberblock 33! | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "title": "Meet Numberblock 33 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
           "publishedAt": "2026-09-14T10:45:06Z",
           "durationSeconds": 127,
           "thumbnail": "https://img.youtube.com/vi/J8eVD2PpX_Q/hqdefault.jpg"
@@ -773,20 +787,6 @@
           "publishedAt": "2026-08-09T10:00:03Z",
           "durationSeconds": 3484,
           "thumbnail": "https://img.youtube.com/vi/40c-tHt3aww/hqdefault.jpg"
-        },
-        {
-          "videoId": "x1hhNFaHAew",
-          "title": "One Hour of Rainbow Math | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-08T10:00:06Z",
-          "durationSeconds": 5612,
-          "thumbnail": "https://img.youtube.com/vi/x1hhNFaHAew/hqdefault.jpg"
-        },
-        {
-          "videoId": "X0qR-o5aUFA",
-          "title": "Let's Draw the Numberblocks! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-07T11:00:09Z",
-          "durationSeconds": 1244,
-          "thumbnail": "https://img.youtube.com/vi/X0qR-o5aUFA/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "Ya6MJaOt9oI",
+          "title": "How To Draw Saturn",
+          "publishedAt": "2026-09-17T14:00:29Z",
+          "durationSeconds": 437,
+          "thumbnail": "https://img.youtube.com/vi/Ya6MJaOt9oI/hqdefault.jpg"
+        },
         {
           "videoId": "NWngZs2qAD8",
           "title": "How To Draw A Claw Machine",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-04T14:00:08Z",
           "durationSeconds": 517,
           "thumbnail": "https://img.youtube.com/vi/co3ARKnKJBk/hqdefault.jpg"
-        },
-        {
-          "videoId": "-ZtZrnxgm3k",
-          "title": "How To Draw Funny Fruit Friends",
-          "publishedAt": "2026-08-03T14:00:15Z",
-          "durationSeconds": 423,
-          "thumbnail": "https://img.youtube.com/vi/-ZtZrnxgm3k/hqdefault.jpg"
         }
       ]
     },
@@ -1227,6 +1227,13 @@
       "name": "Vooks - Stories for Kids",
       "videos": [
         {
+          "videoId": "TGCuAdkwFOA",
+          "title": "Polly the Parrot and the Wonderful Words! | Read Aloud Kids Book | Vooks Narrated Storybooks",
+          "publishedAt": "2026-09-17T12:00:37Z",
+          "durationSeconds": 338,
+          "thumbnail": "https://img.youtube.com/vi/TGCuAdkwFOA/hqdefault.jpg"
+        },
+        {
           "videoId": "UAp_QnQUoyE",
           "title": "Silly Stories for Kids! | Read Aloud Kids Book | Vooks Narrated Storybooks",
           "publishedAt": "2026-09-14T12:00:17Z",
@@ -1428,13 +1435,6 @@
           "publishedAt": "2025-02-10T12:01:23Z",
           "durationSeconds": 301,
           "thumbnail": "https://img.youtube.com/vi/qrwiX7Dc60Q/hqdefault.jpg"
-        },
-        {
-          "videoId": "nINbRb5HPF8",
-          "title": "Read Aloud Kids Book: Team Steve! | Vooks Narrated Storybooks",
-          "publishedAt": "2025-01-13T20:00:22Z",
-          "durationSeconds": 882,
-          "thumbnail": "https://img.youtube.com/vi/nINbRb5HPF8/hqdefault.jpg"
         }
       ]
     },
@@ -1659,6 +1659,13 @@
       "name": "StoryTime at Awnie's House",
       "videos": [
         {
+          "videoId": "IpH-Gvsyu2Q",
+          "title": "Talk Like a Pirate Day!🏴‍☠️ NEW Book Read Aloud for Kids | SET SAIL FOR SCHOOL from Flashlight Press",
+          "publishedAt": "2026-09-17T11:00:12Z",
+          "durationSeconds": 329,
+          "thumbnail": "https://img.youtube.com/vi/IpH-Gvsyu2Q/hqdefault.jpg"
+        },
+        {
           "videoId": "V09XdK0kdgk",
           "title": "THE BAD SEED, THE GOOD EGG & THE SOUR GRAPE 📚 3 Funny Food Group Books Read Aloud",
           "publishedAt": "2026-09-11T11:00:28Z",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2026-01-22T13:01:07Z",
           "durationSeconds": 337,
           "thumbnail": "https://img.youtube.com/vi/YPAOPaisdVs/hqdefault.jpg"
-        },
-        {
-          "videoId": "18_7wcl4BWA",
-          "title": "Winter Storytime Compilation for Kids ❄️ 45 Minutes of Read-Aloud Stories",
-          "publishedAt": "2026-01-05T12:00:03Z",
-          "durationSeconds": 2721,
-          "thumbnail": "https://img.youtube.com/vi/18_7wcl4BWA/hqdefault.jpg"
         }
       ]
     },
