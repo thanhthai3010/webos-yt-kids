@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:06:15.409Z",
+  "generatedAt": "2026-09-19T09:47:23.894Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "zB7yHqfAYlA",
+          "title": "Ancient Olympics had CHEATERS?! 🏛️🏅 | Greeking Out Podcast | S4 E8 FULL EP | Nat Geo Kids",
+          "publishedAt": "2026-09-18T11:00:33Z",
+          "durationSeconds": 1508,
+          "thumbnail": "https://img.youtube.com/vi/zB7yHqfAYlA/hqdefault.jpg"
+        },
+        {
           "videoId": "zu9lzYm4St4",
           "title": "Funny Named Animals are Cute... But Creepy!🤣 | You're Called What?! | Nat Geo Kids",
           "publishedAt": "2026-09-17T11:00:23Z",
@@ -396,13 +403,6 @@
           "publishedAt": "2026-09-13T11:00:15Z",
           "durationSeconds": 1188,
           "thumbnail": "https://img.youtube.com/vi/uOtg4plWpHI/hqdefault.jpg"
-        },
-        {
-          "videoId": "5mctnApeNDw",
-          "title": "Wildest Animal Superpowers! | Compilation | Nat Geo Kids",
-          "publishedAt": "2026-09-12T15:00:22Z",
-          "durationSeconds": 563,
-          "thumbnail": "https://img.youtube.com/vi/5mctnApeNDw/hqdefault.jpg"
         },
         {
           "videoId": "OYPovmiOlBg",
@@ -445,13 +445,6 @@
           "publishedAt": "2026-09-06T11:00:19Z",
           "durationSeconds": 1353,
           "thumbnail": "https://img.youtube.com/vi/BjwsFEAAvQU/hqdefault.jpg"
-        },
-        {
-          "videoId": "JVLSZd27mo4",
-          "title": "Which Wild Cat LOVES Water? 💦 🐆 Animal Facts for Kids I Nat Geo Kids",
-          "publishedAt": "2026-09-05T15:00:01Z",
-          "durationSeconds": 219,
-          "thumbnail": "https://img.youtube.com/vi/JVLSZd27mo4/hqdefault.jpg"
         },
         {
           "videoId": "nrpF_O269s4",
@@ -571,6 +564,13 @@
           "publishedAt": "2026-08-17T11:00:36Z",
           "durationSeconds": 7640,
           "thumbnail": "https://img.youtube.com/vi/J1cm8yKC4GI/hqdefault.jpg"
+        },
+        {
+          "videoId": "kZOnY-2y0AE",
+          "title": "Baby Penguin Hatches + Tiger's New Home! 🐧🐯 | Secrets of the Zoo: Tampa Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-08-16T11:00:29Z",
+          "durationSeconds": 2640,
+          "thumbnail": "https://img.youtube.com/vi/kZOnY-2y0AE/hqdefault.jpg"
         }
       ]
     },
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "Tsf8JX_pGPw",
+          "title": "How To Draw A Parasaurolophus Dinosaur",
+          "publishedAt": "2026-09-18T14:00:30Z",
+          "durationSeconds": 430,
+          "thumbnail": "https://img.youtube.com/vi/Tsf8JX_pGPw/hqdefault.jpg"
+        },
+        {
           "videoId": "Ya6MJaOt9oI",
           "title": "How To Draw Saturn",
           "publishedAt": "2026-09-17T14:00:29Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-05T14:00:25Z",
           "durationSeconds": 360,
           "thumbnail": "https://img.youtube.com/vi/Yrk2QyVTLGw/hqdefault.jpg"
-        },
-        {
-          "videoId": "co3ARKnKJBk",
-          "title": "How To Draw A Funny Cookie Dunking Into Milk",
-          "publishedAt": "2026-08-04T14:00:08Z",
-          "durationSeconds": 517,
-          "thumbnail": "https://img.youtube.com/vi/co3ARKnKJBk/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "CT1uR8xbXaA",
+          "title": "How To Structure Sentences | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-09-18T11:00:28Z",
+          "durationSeconds": 1886,
+          "thumbnail": "https://img.youtube.com/vi/CT1uR8xbXaA/hqdefault.jpg"
+        },
+        {
           "videoId": "6bX8xYMerts",
           "title": "Long Vowels EW U_E UE | Lesson Twenty Nine - Phonics Made Easy | Alphablocks",
           "publishedAt": "2026-09-13T11:00:01Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-07-12T11:00:35Z",
           "durationSeconds": 702,
           "thumbnail": "https://img.youtube.com/vi/OujRcLlEWoo/hqdefault.jpg"
-        },
-        {
-          "videoId": "ehohoviwIGg",
-          "title": "The A to Z of School! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-07-11T11:00:09Z",
-          "durationSeconds": 271,
-          "thumbnail": "https://img.youtube.com/vi/ehohoviwIGg/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "LHQVf1gaLI8",
+          "title": "The Incredible Evolution of Dogs | How Humans Accidentally Created Dog? | How Wolves Became Dogs?",
+          "publishedAt": "2026-09-18T12:30:14Z",
+          "durationSeconds": 341,
+          "thumbnail": "https://img.youtube.com/vi/LHQVf1gaLI8/hqdefault.jpg"
+        },
+        {
           "videoId": "hNzQXn4ujm0",
           "title": "What If You Accidentally Swallowed a Maggot? 🐛 | Maggots Inside Human Body | Learn with Dr. Binocs",
           "publishedAt": "2026-09-15T12:49:30Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-06-09T12:30:04Z",
           "durationSeconds": 378,
           "thumbnail": "https://img.youtube.com/vi/UsEkVuGN294/hqdefault.jpg"
-        },
-        {
-          "videoId": "5SoLTR_IvJA",
-          "title": "Mythical Monster Mystery | Is Jersey Devil Real? | Leeds Devil History | Mysterious Creatures",
-          "publishedAt": "2026-06-05T12:30:18Z",
-          "durationSeconds": 362,
-          "thumbnail": "https://img.youtube.com/vi/5SoLTR_IvJA/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "Y3gKRf0NbHQ",
+          "title": "☯ Buổi tập Kung-Fu theo CST Cane Corso | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-18T11:19:34Z",
+          "durationSeconds": 713,
+          "thumbnail": "https://img.youtube.com/vi/Y3gKRf0NbHQ/hqdefault.jpg"
+        },
         {
           "videoId": "lHCCViRrtxQ",
           "title": "🚢 Dodo làm thuyền trưởng nhí | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-07-14T11:31:15Z",
           "durationSeconds": 2168,
           "thumbnail": "https://img.youtube.com/vi/k-bwhKsVxzc/hqdefault.jpg"
-        },
-        {
-          "videoId": "7WzluFSOL-I",
-          "title": "💈 Nhà tạo mẫu tóc | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-07-11T02:00:38Z",
-          "durationSeconds": 711,
-          "thumbnail": "https://img.youtube.com/vi/7WzluFSOL-I/hqdefault.jpg"
         }
       ]
     }
