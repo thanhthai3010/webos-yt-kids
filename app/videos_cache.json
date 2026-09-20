@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T09:47:23.894Z",
+  "generatedAt": "2026-09-20T10:08:53.723Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "cJghbzC4dAA",
+          "title": "How Do Animals Talk Without Words? 🙊🐜 Animal Facts for Kids | Nat Geo Kids",
+          "publishedAt": "2026-09-19T12:47:41Z",
+          "durationSeconds": 171,
+          "thumbnail": "https://img.youtube.com/vi/cJghbzC4dAA/hqdefault.jpg"
+        },
+        {
           "videoId": "zB7yHqfAYlA",
           "title": "Ancient Olympics had CHEATERS?! 🏛️🏅 | Greeking Out Podcast | S4 E8 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-09-18T11:00:33Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-17T11:00:36Z",
           "durationSeconds": 7640,
           "thumbnail": "https://img.youtube.com/vi/J1cm8yKC4GI/hqdefault.jpg"
-        },
-        {
-          "videoId": "kZOnY-2y0AE",
-          "title": "Baby Penguin Hatches + Tiger's New Home! 🐧🐯 | Secrets of the Zoo: Tampa Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-08-16T11:00:29Z",
-          "durationSeconds": 2640,
-          "thumbnail": "https://img.youtube.com/vi/kZOnY-2y0AE/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,34 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "eZL45lI3WJM",
+          "title": "Sorty and Other Numberblock Friends | Learn to Count for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-09-20T10:00:20Z",
+          "durationSeconds": 4581,
+          "thumbnail": "https://img.youtube.com/vi/eZL45lI3WJM/hqdefault.jpg"
+        },
+        {
+          "videoId": "PnOGHU-AZU0",
+          "title": "Meet Numberblock 43 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-20T10:00:07Z",
+          "durationSeconds": 109,
+          "thumbnail": "https://img.youtube.com/vi/PnOGHU-AZU0/hqdefault.jpg"
+        },
+        {
+          "videoId": "Q98njNPacrg",
+          "title": "Meet Numberblock 41 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-19T10:00:31Z",
+          "durationSeconds": 96,
+          "thumbnail": "https://img.youtube.com/vi/Q98njNPacrg/hqdefault.jpg"
+        },
+        {
+          "videoId": "xI2uUrWL5Kw",
+          "title": "Addition and Subtraction Made Easy for Kids | Learn to Count for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-09-19T10:00:11Z",
+          "durationSeconds": 4039,
+          "thumbnail": "https://img.youtube.com/vi/xI2uUrWL5Kw/hqdefault.jpg"
+        },
         {
           "videoId": "-osYShkNjVs",
           "title": "I’m a terrific Time Keeper | Learn to Count | Numberblocks",
@@ -759,34 +787,6 @@
           "publishedAt": "2026-08-16T10:00:09Z",
           "durationSeconds": 6172,
           "thumbnail": "https://img.youtube.com/vi/_pjA7_SY21E/hqdefault.jpg"
-        },
-        {
-          "videoId": "bWSI5S2LYmk",
-          "title": "Whose House is this? - Numberblocks Homes | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-08-15T11:00:31Z",
-          "durationSeconds": 3234,
-          "thumbnail": "https://img.youtube.com/vi/bWSI5S2LYmk/hqdefault.jpg"
-        },
-        {
-          "videoId": "05cqSSwJEgE",
-          "title": "Let's Make Rainbow Slime | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-14T10:00:04Z",
-          "durationSeconds": 1228,
-          "thumbnail": "https://img.youtube.com/vi/05cqSSwJEgE/hqdefault.jpg"
-        },
-        {
-          "videoId": "xPwAzG2WIuI",
-          "title": "Who Sent the Space Signal? | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-13T10:00:14Z",
-          "durationSeconds": 3772,
-          "thumbnail": "https://img.youtube.com/vi/xPwAzG2WIuI/hqdefault.jpg"
-        },
-        {
-          "videoId": "40c-tHt3aww",
-          "title": "Learn to Be Kind with the Numberblocks | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-09T10:00:03Z",
-          "durationSeconds": 3484,
-          "thumbnail": "https://img.youtube.com/vi/40c-tHt3aww/hqdefault.jpg"
         }
       ]
     },
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "GJmoN_XGTrw",
+          "title": "New Friends on Puffin Rock?! 🫶 | Puffin Rock & The New Friends",
+          "publishedAt": "2026-09-19T11:45:00Z",
+          "durationSeconds": 95,
+          "thumbnail": "https://img.youtube.com/vi/GJmoN_XGTrw/hqdefault.jpg"
+        },
+        {
           "videoId": "CEgiO2XnR7E",
           "title": "Playtime On Puffin Rock 🐚💛 | Gentle Compilation",
           "publishedAt": "2026-09-12T12:00:26Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2025-12-13T11:40:01Z",
           "durationSeconds": 80,
           "thumbnail": "https://img.youtube.com/vi/jlOI-k4ZxgY/hqdefault.jpg"
-        },
-        {
-          "videoId": "u99xPTCfSyQ",
-          "title": "Puffin Rock Sing-Along Compilation 🎤 🎶",
-          "publishedAt": "2025-12-06T11:30:53Z",
-          "durationSeconds": 353,
-          "thumbnail": "https://img.youtube.com/vi/u99xPTCfSyQ/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "7TEOsvKTrS4",
+          "title": "Little Red N Goes on an Adventure | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-09-19T11:00:38Z",
+          "durationSeconds": 3675,
+          "thumbnail": "https://img.youtube.com/vi/7TEOsvKTrS4/hqdefault.jpg"
+        },
+        {
           "videoId": "CT1uR8xbXaA",
           "title": "How To Structure Sentences | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-09-18T11:00:28Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-07-17T11:00:02Z",
           "durationSeconds": 3675,
           "thumbnail": "https://img.youtube.com/vi/BcbFLkdHjA8/hqdefault.jpg"
-        },
-        {
-          "videoId": "OujRcLlEWoo",
-          "title": "Long Vowels AY A_E LONG A | Lesson Twenty Five - Phonics Made Easy | Alphablocks",
-          "publishedAt": "2026-07-12T11:00:35Z",
-          "durationSeconds": 702,
-          "thumbnail": "https://img.youtube.com/vi/OujRcLlEWoo/hqdefault.jpg"
         }
       ]
     },
