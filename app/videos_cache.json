@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:08:53.723Z",
+  "generatedAt": "2026-09-21T11:10:17.995Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "gQ0urWUYDMg",
+          "title": "Beginning of a Black Bear's Rescue Journey 🐻 | Cub Camp Full Episode Compilation | Nat Geo Kids",
+          "publishedAt": "2026-09-21T11:00:40Z",
+          "durationSeconds": 7770,
+          "thumbnail": "https://img.youtube.com/vi/gQ0urWUYDMg/hqdefault.jpg"
+        },
+        {
+          "videoId": "ca2ReLTX0So",
+          "title": "My Best Friend's an Animal Full Episode | 4K | Rescued Besties! | Nat Geo Kids",
+          "publishedAt": "2026-09-20T11:00:19Z",
+          "durationSeconds": 2653,
+          "thumbnail": "https://img.youtube.com/vi/ca2ReLTX0So/hqdefault.jpg"
+        },
+        {
           "videoId": "cJghbzC4dAA",
           "title": "How Do Animals Talk Without Words? 🙊🐜 Animal Facts for Kids | Nat Geo Kids",
           "publishedAt": "2026-09-19T12:47:41Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-08-20T11:00:19Z",
           "durationSeconds": 1526,
           "thumbnail": "https://img.youtube.com/vi/pgV8RMnLIAM/hqdefault.jpg"
-        },
-        {
-          "videoId": "Qu5guyUncB8",
-          "title": "Otters vs. Whales vs. Walruses: Marine Animal Showdown 🌊 | Whoa Factor | Nat Geo Kids",
-          "publishedAt": "2026-08-19T11:00:11Z",
-          "durationSeconds": 328,
-          "thumbnail": "https://img.youtube.com/vi/Qu5guyUncB8/hqdefault.jpg"
-        },
-        {
-          "videoId": "J1cm8yKC4GI",
-          "title": "Enchanting Creatures of the Mountains and Waters ✨ | Full Episode Compilation | Nat Geo Kids",
-          "publishedAt": "2026-08-17T11:00:36Z",
-          "durationSeconds": 7640,
-          "thumbnail": "https://img.youtube.com/vi/J1cm8yKC4GI/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "ErCIgERRC28",
+          "title": "The Rise of Infinaughty - PART 1: The Day the Blocks Turned Pink | Numberblocks (S9 E1)",
+          "publishedAt": "2026-09-21T11:00:18Z",
+          "durationSeconds": 302,
+          "thumbnail": "https://img.youtube.com/vi/ErCIgERRC28/hqdefault.jpg"
+        },
+        {
+          "videoId": "q10hMzUmBnM",
+          "title": "Meet Numberblock 44 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-21T10:00:03Z",
+          "durationSeconds": 147,
+          "thumbnail": "https://img.youtube.com/vi/q10hMzUmBnM/hqdefault.jpg"
+        },
         {
           "videoId": "eZL45lI3WJM",
           "title": "Sorty and Other Numberblock Friends | Learn to Count for Kids Compilation | Numberblocks",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-08-20T10:00:31Z",
           "durationSeconds": 3499,
           "thumbnail": "https://img.youtube.com/vi/ucLv2D0o3eQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "Vz9kT3Ntbw0",
-          "title": "Thank You for 15 Million Subscribers!!! 🥳🎉 | Maths for Kids | 15 million compilation | Numberblocks",
-          "publishedAt": "2026-08-18T10:31:08Z",
-          "durationSeconds": 6152,
-          "thumbnail": "https://img.youtube.com/vi/Vz9kT3Ntbw0/hqdefault.jpg"
-        },
-        {
-          "videoId": "_pjA7_SY21E",
-          "title": "Land of the Giants! - Big Numbers for Big kids | Learn to Count | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-16T10:00:09Z",
-          "durationSeconds": 6172,
-          "thumbnail": "https://img.youtube.com/vi/_pjA7_SY21E/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "Cm-of9p2-3I",
+          "title": "Long Vowels AU AW IR | Lesson Thirty - Phonics Made Easy | Alphablocks",
+          "publishedAt": "2026-09-20T11:00:27Z",
+          "durationSeconds": 988,
+          "thumbnail": "https://img.youtube.com/vi/Cm-of9p2-3I/hqdefault.jpg"
+        },
+        {
           "videoId": "7TEOsvKTrS4",
           "title": "Little Red N Goes on an Adventure | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-09-19T11:00:38Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-07-18T11:00:38Z",
           "durationSeconds": 3525,
           "thumbnail": "https://img.youtube.com/vi/8tksnJWAw84/hqdefault.jpg"
-        },
-        {
-          "videoId": "BcbFLkdHjA8",
-          "title": "Books for Kids | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-07-17T11:00:02Z",
-          "durationSeconds": 3675,
-          "thumbnail": "https://img.youtube.com/vi/BcbFLkdHjA8/hqdefault.jpg"
         }
       ]
     },
