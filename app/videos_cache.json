@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:10:17.995Z",
+  "generatedAt": "2026-09-22T10:23:56.619Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -406,7 +406,7 @@
         },
         {
           "videoId": "cF1rKugxZZ4",
-          "title": "Kids React to Baby Animals 🐙 (Part 2!) | Nat Geo Kids",
+          "title": "Kids React to Baby Animals 🐙 | Nat Geo Kids",
           "publishedAt": "2026-09-15T11:00:04Z",
           "durationSeconds": 106,
           "thumbnail": "https://img.youtube.com/vi/cF1rKugxZZ4/hqdefault.jpg"
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "DfgqusYV0b0",
+          "title": "Meet Numberblock 46 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-22T09:00:28Z",
+          "durationSeconds": 117,
+          "thumbnail": "https://img.youtube.com/vi/DfgqusYV0b0/hqdefault.jpg"
+        },
         {
           "videoId": "ErCIgERRC28",
           "title": "The Rise of Infinaughty - PART 1: The Day the Blocks Turned Pink | Numberblocks (S9 E1)",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-08-21T10:00:35Z",
           "durationSeconds": 3679,
           "thumbnail": "https://img.youtube.com/vi/d1sP28GSQX4/hqdefault.jpg"
-        },
-        {
-          "videoId": "ucLv2D0o3eQ",
-          "title": "I Can't Sleep! - Counting Sheep | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-20T10:00:31Z",
-          "durationSeconds": 3499,
-          "thumbnail": "https://img.youtube.com/vi/ucLv2D0o3eQ/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "tnmfnRPOBx8",
+          "title": "How To Draw A Funny Hay Bale",
+          "publishedAt": "2026-09-21T14:31:40Z",
+          "durationSeconds": 346,
+          "thumbnail": "https://img.youtube.com/vi/tnmfnRPOBx8/hqdefault.jpg"
+        },
         {
           "videoId": "Tsf8JX_pGPw",
           "title": "How To Draw A Parasaurolophus Dinosaur",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-06T14:00:34Z",
           "durationSeconds": 413,
           "thumbnail": "https://img.youtube.com/vi/9aCuNd3faBA/hqdefault.jpg"
-        },
-        {
-          "videoId": "Yrk2QyVTLGw",
-          "title": "How To Draw A Traffic Light",
-          "publishedAt": "2026-08-05T14:00:25Z",
-          "durationSeconds": 360,
-          "thumbnail": "https://img.youtube.com/vi/Yrk2QyVTLGw/hqdefault.jpg"
         }
       ]
     },
