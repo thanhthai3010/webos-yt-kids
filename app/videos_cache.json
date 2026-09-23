@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:23:56.619Z",
+  "generatedAt": "2026-09-23T10:19:17.183Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -406,7 +406,7 @@
         },
         {
           "videoId": "cF1rKugxZZ4",
-          "title": "Kids React to Baby Animals 🐙 | Nat Geo Kids",
+          "title": "Kids React to Baby Octopuses, Alligators and More! | Nat Geo Kids",
           "publishedAt": "2026-09-15T11:00:04Z",
           "durationSeconds": 106,
           "thumbnail": "https://img.youtube.com/vi/cF1rKugxZZ4/hqdefault.jpg"
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "_tICzC_RLo8",
+          "title": "Meet Numberblock 47 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+          "publishedAt": "2026-09-23T09:00:13Z",
+          "durationSeconds": 138,
+          "thumbnail": "https://img.youtube.com/vi/_tICzC_RLo8/hqdefault.jpg"
+        },
+        {
+          "videoId": "J5CNmHRTj4c",
+          "title": "The Rise of Infinaughty - PART 2: An Even Split | Numberblocks (S9 E2)",
+          "publishedAt": "2026-09-22T11:00:16Z",
+          "durationSeconds": 302,
+          "thumbnail": "https://img.youtube.com/vi/J5CNmHRTj4c/hqdefault.jpg"
+        },
         {
           "videoId": "DfgqusYV0b0",
           "title": "Meet Numberblock 46 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-08-23T10:00:32Z",
           "durationSeconds": 4562,
           "thumbnail": "https://img.youtube.com/vi/MbgkPRXyCXI/hqdefault.jpg"
-        },
-        {
-          "videoId": "i7D6fuRTTow",
-          "title": "Exciting Counting Songs 4 Back to School! | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-22T10:00:29Z",
-          "durationSeconds": 7242,
-          "thumbnail": "https://img.youtube.com/vi/i7D6fuRTTow/hqdefault.jpg"
-        },
-        {
-          "videoId": "d1sP28GSQX4",
-          "title": "Multiplication - Back to School Homeschooling | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-08-21T10:00:35Z",
-          "durationSeconds": 3679,
-          "thumbnail": "https://img.youtube.com/vi/d1sP28GSQX4/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "-Y4BXKU-BNc",
+          "title": "What if Steller's Sea Cow didn't go Extinct? | A Giant Sea Cow Mystery | Dr. Binocs Show",
+          "publishedAt": "2026-09-22T12:42:44Z",
+          "durationSeconds": 391,
+          "thumbnail": "https://img.youtube.com/vi/-Y4BXKU-BNc/hqdefault.jpg"
+        },
+        {
           "videoId": "LHQVf1gaLI8",
           "title": "The Incredible Evolution of Dogs | How Humans Accidentally Created Dog? | How Wolves Became Dogs?",
           "publishedAt": "2026-09-18T12:30:14Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-06-12T12:30:24Z",
           "durationSeconds": 383,
           "thumbnail": "https://img.youtube.com/vi/_42FCZl3q5w/hqdefault.jpg"
-        },
-        {
-          "videoId": "UsEkVuGN294",
-          "title": "Can a Hornet Sting Be Dangerous? | What If a Hornet Stings You? | Hornets vs Humans | Dr. Binocs",
-          "publishedAt": "2026-06-09T12:30:04Z",
-          "durationSeconds": 378,
-          "thumbnail": "https://img.youtube.com/vi/UsEkVuGN294/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "ko3li7HDJJw",
+          "title": "🦴 Công thức bị đánh cắp (Phần 1) | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-23T09:00:05Z",
+          "durationSeconds": 396,
+          "thumbnail": "https://img.youtube.com/vi/ko3li7HDJJw/hqdefault.jpg"
+        },
         {
           "videoId": "Y3gKRf0NbHQ",
           "title": "☯ Buổi tập Kung-Fu theo CST Cane Corso | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-07-17T10:48:10Z",
           "durationSeconds": 312,
           "thumbnail": "https://img.youtube.com/vi/Kco5t37mRF8/hqdefault.jpg"
-        },
-        {
-          "videoId": "k-bwhKsVxzc",
-          "title": "🐎Bé Huhu không ghen tị | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-07-14T11:31:15Z",
-          "durationSeconds": 2168,
-          "thumbnail": "https://img.youtube.com/vi/k-bwhKsVxzc/hqdefault.jpg"
         }
       ]
     }
