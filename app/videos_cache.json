@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T10:19:17.183Z",
+  "generatedAt": "2026-09-24T10:33:29.227Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "6Eyz9qUAYRg",
+          "title": "Grizzly vs. Panda vs. Polar Bear! | Whoa Factor | Nat Geo Kids",
+          "publishedAt": "2026-09-23T11:00:12Z",
+          "durationSeconds": 310,
+          "thumbnail": "https://img.youtube.com/vi/6Eyz9qUAYRg/hqdefault.jpg"
+        },
+        {
           "videoId": "gQ0urWUYDMg",
           "title": "Beginning of a Black Bear's Rescue Journey 🐻 | Cub Camp Full Episode Compilation | Nat Geo Kids",
           "publishedAt": "2026-09-21T11:00:40Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-21T11:00:30Z",
           "durationSeconds": 1431,
           "thumbnail": "https://img.youtube.com/vi/httS5N9FuHs/hqdefault.jpg"
-        },
-        {
-          "videoId": "pgV8RMnLIAM",
-          "title": "Animal Royal Rumble 👑 | Funny Animal Video | You're Called What?! | Nat Geo Kids",
-          "publishedAt": "2026-08-20T11:00:19Z",
-          "durationSeconds": 1526,
-          "thumbnail": "https://img.youtube.com/vi/pgV8RMnLIAM/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "rQva7iOnkkM",
+          "title": "The Rise of Infinaughty - PART 3: Trying Times | Numberblocks (S9 E3)",
+          "publishedAt": "2026-09-23T11:00:18Z",
+          "durationSeconds": 302,
+          "thumbnail": "https://img.youtube.com/vi/rQva7iOnkkM/hqdefault.jpg"
+        },
         {
           "videoId": "_tICzC_RLo8",
           "title": "Meet Numberblock 47 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-08-27T10:00:22Z",
           "durationSeconds": 4031,
           "thumbnail": "https://img.youtube.com/vi/8IymF8M_nLk/hqdefault.jpg"
-        },
-        {
-          "videoId": "MbgkPRXyCXI",
-          "title": "Back to School Sports Special! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-23T10:00:32Z",
-          "durationSeconds": 4562,
-          "thumbnail": "https://img.youtube.com/vi/MbgkPRXyCXI/hqdefault.jpg"
         }
       ]
     },
@@ -1056,7 +1056,7 @@
           "videoId": "DPCDpSLha6Q",
           "title": "Bison! | Learn With Steve Backshall | BBC Earth Kids",
           "publishedAt": "2026-07-12T14:00:39Z",
-          "durationSeconds": 371,
+          "durationSeconds": 372,
           "thumbnail": "https://img.youtube.com/vi/DPCDpSLha6Q/hqdefault.jpg"
         },
         {
@@ -1660,7 +1660,7 @@
       "videos": [
         {
           "videoId": "IpH-Gvsyu2Q",
-          "title": "Talk Like a Pirate Day!🏴‍☠️ NEW Book Read Aloud for Kids | SET SAIL FOR SCHOOL from Flashlight Press",
+          "title": "SET SAIL FOR SCHOOL from Flashlight Press 🏴‍☠️|  NEW Funny Anti-rhyme Book Read Aloud for Kids",
           "publishedAt": "2026-09-17T11:00:12Z",
           "durationSeconds": 329,
           "thumbnail": "https://img.youtube.com/vi/IpH-Gvsyu2Q/hqdefault.jpg"
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "PbjviJb7VCE",
+          "title": "🚀 Thử thách làm phi hành gia | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-24T09:00:32Z",
+          "durationSeconds": 2741,
+          "thumbnail": "https://img.youtube.com/vi/PbjviJb7VCE/hqdefault.jpg"
+        },
+        {
           "videoId": "ko3li7HDJJw",
           "title": "🦴 Công thức bị đánh cắp (Phần 1) | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-09-23T09:00:05Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-07-18T10:34:01Z",
           "durationSeconds": 2354,
           "thumbnail": "https://img.youtube.com/vi/fgl2ajRP7hQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "Kco5t37mRF8",
-          "title": "🚢 Sẵn sàng khởi hành | Đi du thuyền nào | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-07-17T10:48:10Z",
-          "durationSeconds": 312,
-          "thumbnail": "https://img.youtube.com/vi/Kco5t37mRF8/hqdefault.jpg"
         }
       ]
     }
