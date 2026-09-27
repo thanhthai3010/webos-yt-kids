@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:20:28.445Z",
+  "generatedAt": "2026-09-27T10:52:41.915Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "z29spc041dM",
+          "title": "Wild World of Squirrels! 🐿️🌰 Animal Card Quest | Nat Geo Kids",
+          "publishedAt": "2026-09-26T15:00:39Z",
+          "durationSeconds": 167,
+          "thumbnail": "https://img.youtube.com/vi/z29spc041dM/hqdefault.jpg"
+        },
+        {
           "videoId": "lzWbRuE20YU",
           "title": "All Greeking Out S4 Full Episodes⚡| Compilation | Nat Geo Kids",
           "publishedAt": "2026-09-25T11:00:34Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-23T13:00:20Z",
           "durationSeconds": 97,
           "thumbnail": "https://img.youtube.com/vi/IFvInaD41dY/hqdefault.jpg"
-        },
-        {
-          "videoId": "qhKtncXKy8o",
-          "title": "Boost Your Brain this School Year! 🧠💪 | Brain Games Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-08-23T11:00:23Z",
-          "durationSeconds": 1317,
-          "thumbnail": "https://img.youtube.com/vi/qhKtncXKy8o/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "XwviRUy-JoM",
+          "title": "Numberblock Nine is Amazing! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-09-27T10:00:20Z",
+          "durationSeconds": 4839,
+          "thumbnail": "https://img.youtube.com/vi/XwviRUy-JoM/hqdefault.jpg"
+        },
+        {
+          "videoId": "-dKDf6im0C4",
+          "title": "The Rise of Infinaughty! Full 25-Minute Movie (All 5 Episodes) | Numberblocks S9",
+          "publishedAt": "2026-09-26T11:01:04Z",
+          "durationSeconds": 1398,
+          "thumbnail": "https://img.youtube.com/vi/-dKDf6im0C4/hqdefault.jpg"
+        },
         {
           "videoId": "5fD79cjS9XA",
           "title": "The Rise of Infinaughty - PART 5: Everybody Counts | Numberblocks (S9 E5)",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-09-03T10:00:20Z",
           "durationSeconds": 3432,
           "thumbnail": "https://img.youtube.com/vi/8Zg6LdErx74/hqdefault.jpg"
-        },
-        {
-          "videoId": "oIFNyMAXvyc",
-          "title": "Fractions are a Piece of Cake! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-30T10:00:21Z",
-          "durationSeconds": 4289,
-          "thumbnail": "https://img.youtube.com/vi/oIFNyMAXvyc/hqdefault.jpg"
-        },
-        {
-          "videoId": "LAVt0sA36sc",
-          "title": "Adventures in the Forest of Tens | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-08-29T10:00:21Z",
-          "durationSeconds": 3770,
-          "thumbnail": "https://img.youtube.com/vi/LAVt0sA36sc/hqdefault.jpg"
         }
       ]
     },
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "yiNYruLAayk",
+          "title": "Fun On Puffin Rock ⛰️🎉 | Gentle Compilation",
+          "publishedAt": "2026-09-26T12:00:07Z",
+          "durationSeconds": 162,
+          "thumbnail": "https://img.youtube.com/vi/yiNYruLAayk/hqdefault.jpg"
+        },
+        {
           "videoId": "GJmoN_XGTrw",
           "title": "New Friends on Puffin Rock?! 🫶 | Puffin Rock & The New Friends",
           "publishedAt": "2026-09-19T11:45:00Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2026-01-04T13:02:00Z",
           "durationSeconds": 128,
           "thumbnail": "https://img.youtube.com/vi/zOUYuRfF3_U/hqdefault.jpg"
-        },
-        {
-          "videoId": "jlOI-k4ZxgY",
-          "title": "Search for Marvin on Puffin Rock | Puffin Rock & The New Friends",
-          "publishedAt": "2025-12-13T11:40:01Z",
-          "durationSeconds": 80,
-          "thumbnail": "https://img.youtube.com/vi/jlOI-k4ZxgY/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "vN5FR7cPuFc",
+          "title": "Night Time Adventures in Alphaland | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-09-26T11:00:28Z",
+          "durationSeconds": 2355,
+          "thumbnail": "https://img.youtube.com/vi/vN5FR7cPuFc/hqdefault.jpg"
+        },
+        {
           "videoId": "Wq5F4SDns4s",
           "title": "Pip, Fred, and Other Friends | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-09-25T11:00:04Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-07-24T11:00:16Z",
           "durationSeconds": 2445,
           "thumbnail": "https://img.youtube.com/vi/gyEkee2OipU/hqdefault.jpg"
-        },
-        {
-          "videoId": "o_S7-g-4IN8",
-          "title": "Long Vowels EA E_E LONG E | Lesson Twenty Six - Phonics Made Easy | Alphablocks",
-          "publishedAt": "2026-07-19T11:00:18Z",
-          "durationSeconds": 661,
-          "thumbnail": "https://img.youtube.com/vi/o_S7-g-4IN8/hqdefault.jpg"
         }
       ]
     },
