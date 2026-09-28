@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:52:41.915Z",
+  "generatedAt": "2026-09-28T12:03:51.027Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "TXr69MV_flw",
+          "title": "Positive Energy Across the World!⚡🌎| Full Episode Compilation | Nat Geo Kids",
+          "publishedAt": "2026-09-28T11:00:06Z",
+          "durationSeconds": 7852,
+          "thumbnail": "https://img.youtube.com/vi/TXr69MV_flw/hqdefault.jpg"
+        },
+        {
+          "videoId": "7CghDWUJRI0",
+          "title": "Underwater Animal Adventures! 🌊 | America's National Parks Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-09-27T11:00:20Z",
+          "durationSeconds": 2656,
+          "thumbnail": "https://img.youtube.com/vi/7CghDWUJRI0/hqdefault.jpg"
+        },
+        {
           "videoId": "z29spc041dM",
           "title": "Wild World of Squirrels! 🐿️🌰 Animal Card Quest | Nat Geo Kids",
           "publishedAt": "2026-09-26T15:00:39Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-08-26T11:00:34Z",
           "durationSeconds": 293,
           "thumbnail": "https://img.youtube.com/vi/DRnivTADBx4/hqdefault.jpg"
-        },
-        {
-          "videoId": "lxrzT61_WU0",
-          "title": "How to Live in Lava + More Extreme Adaptations 😱 | America's National Parks | Nat Geo Kids",
-          "publishedAt": "2026-08-24T11:00:31Z",
-          "durationSeconds": 2654,
-          "thumbnail": "https://img.youtube.com/vi/lxrzT61_WU0/hqdefault.jpg"
-        },
-        {
-          "videoId": "IFvInaD41dY",
-          "title": "Kids React to Baby Lions 🦁 | Nat Geo Kids",
-          "publishedAt": "2026-08-23T13:00:20Z",
-          "durationSeconds": 97,
-          "thumbnail": "https://img.youtube.com/vi/IFvInaD41dY/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "SbwgW4cHmqY",
+          "title": "Long Vowels OU OY Y | Lesson Thirty - Phonics Made Easy | Alphablocks",
+          "publishedAt": "2026-09-27T11:00:00Z",
+          "durationSeconds": 1256,
+          "thumbnail": "https://img.youtube.com/vi/SbwgW4cHmqY/hqdefault.jpg"
+        },
+        {
           "videoId": "vN5FR7cPuFc",
           "title": "Night Time Adventures in Alphaland | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-09-26T11:00:28Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-07-25T11:00:30Z",
           "durationSeconds": 3944,
           "thumbnail": "https://img.youtube.com/vi/pn8LEufJ0rM/hqdefault.jpg"
-        },
-        {
-          "videoId": "gyEkee2OipU",
-          "title": "Share a Book - Kindness for Kids | Year of Reading | Learn to Read Compilation | Alphablocks",
-          "publishedAt": "2026-07-24T11:00:16Z",
-          "durationSeconds": 2445,
-          "thumbnail": "https://img.youtube.com/vi/gyEkee2OipU/hqdefault.jpg"
         }
       ]
     },
