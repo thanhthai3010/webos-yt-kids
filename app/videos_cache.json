@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:03:51.027Z",
+  "generatedAt": "2026-09-29T11:37:40.009Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -371,7 +371,7 @@
         },
         {
           "videoId": "7CghDWUJRI0",
-          "title": "Underwater Animal Adventures! 🌊 | America's National Parks Full Episode | Nat Geo Kids",
+          "title": "Underwater Animal Adventures! 🌊 | America's National Parks Full Episode (4K) | Nat Geo Kids",
           "publishedAt": "2026-09-27T11:00:20Z",
           "durationSeconds": 2656,
           "thumbnail": "https://img.youtube.com/vi/7CghDWUJRI0/hqdefault.jpg"
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "kQcBPgfPEJ8",
+          "title": "How To Draw A Haunted Monster Truck",
+          "publishedAt": "2026-09-28T16:07:51Z",
+          "durationSeconds": 660,
+          "thumbnail": "https://img.youtube.com/vi/kQcBPgfPEJ8/hqdefault.jpg"
+        },
+        {
           "videoId": "kjV7CxqY9jU",
           "title": "How To Draw A Cool Fossil",
           "publishedAt": "2026-09-25T15:06:35Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-10T14:00:15Z",
           "durationSeconds": 440,
           "thumbnail": "https://img.youtube.com/vi/EQIMxHf7QRE/hqdefault.jpg"
-        },
-        {
-          "videoId": "EdvzXvi7NOg",
-          "title": "How To Build A Capybara In Minecraft",
-          "publishedAt": "2026-08-08T14:00:08Z",
-          "durationSeconds": 317,
-          "thumbnail": "https://img.youtube.com/vi/EdvzXvi7NOg/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "GB1RGcC6jR0",
+          "title": "💧 Chiếc giếng không bao giờ đầy | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-29T09:51:38Z",
+          "durationSeconds": 435,
+          "thumbnail": "https://img.youtube.com/vi/GB1RGcC6jR0/hqdefault.jpg"
+        },
+        {
           "videoId": "7tx8cMBI5Rw",
           "title": "🦴 Công thức bị đánh cắp (Phần 2) | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-09-26T02:15:00Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-07-23T10:35:53Z",
           "durationSeconds": 374,
           "thumbnail": "https://img.youtube.com/vi/AgNBupNlRoI/hqdefault.jpg"
-        },
-        {
-          "videoId": "WoPOSFAjjEo",
-          "title": "🥤 Ai đã làm tắc đường ống | Đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-07-22T11:02:49Z",
-          "durationSeconds": 852,
-          "thumbnail": "https://img.youtube.com/vi/WoPOSFAjjEo/hqdefault.jpg"
         }
       ]
     }
