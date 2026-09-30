@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T11:37:40.009Z",
+  "generatedAt": "2026-09-30T11:25:13.500Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "nXjhakGU9dM",
+          "title": "Battle of the Birds: Eagles vs. Hawks vs. Owls | Whoa Factor | Nat Geo Kids",
+          "publishedAt": "2026-09-30T11:00:00Z",
+          "durationSeconds": 315,
+          "thumbnail": "https://img.youtube.com/vi/nXjhakGU9dM/hqdefault.jpg"
+        },
+        {
           "videoId": "TXr69MV_flw",
           "title": "Positive Energy Across the World!⚡🌎| Full Episode Compilation | Nat Geo Kids",
           "publishedAt": "2026-09-28T11:00:06Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-27T11:00:03Z",
           "durationSeconds": 2653,
           "thumbnail": "https://img.youtube.com/vi/vujna6ae3WE/hqdefault.jpg"
-        },
-        {
-          "videoId": "DRnivTADBx4",
-          "title": "Watch Out for Spikes: Porcupine vs. Cactus! | Whoa Factor | Nat Geo Kids",
-          "publishedAt": "2026-08-26T11:00:34Z",
-          "durationSeconds": 293,
-          "thumbnail": "https://img.youtube.com/vi/DRnivTADBx4/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "AEx6-kPFygI",
+          "title": "What if these Deadliest Insect Bites You? 🐜🕷️ 🐛 Centipede, Bullet Ant, Cockroach, Bed Bug & Others",
+          "publishedAt": "2026-09-29T12:30:03Z",
+          "durationSeconds": 3361,
+          "thumbnail": "https://img.youtube.com/vi/AEx6-kPFygI/hqdefault.jpg"
+        },
+        {
           "videoId": "5MPSIuxfo0E",
           "title": "What Are Red Blood Cells? 🩸 | How Do Red Blood Cells Carry Oxygen? | Dr. Binocs Show",
           "publishedAt": "2026-09-25T12:30:21Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-06-19T13:44:05Z",
           "durationSeconds": 362,
           "thumbnail": "https://img.youtube.com/vi/DbUK5GaOf_o/hqdefault.jpg"
-        },
-        {
-          "videoId": "coWqgO5mgaA",
-          "title": "Climate Phenomenon | What occurs during an El Niño event? | What are El Nino and La Nina? |Dr Binocs",
-          "publishedAt": "2026-06-16T12:30:25Z",
-          "durationSeconds": 375,
-          "thumbnail": "https://img.youtube.com/vi/coWqgO5mgaA/hqdefault.jpg"
         }
       ]
     },
