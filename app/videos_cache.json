@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:25:13.500Z",
+  "generatedAt": "2026-10-01T11:52:29.121Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "Xytw4wAWDMg",
+          "title": "Jaguar Bites and More Jungle Superpowers | Super Animals Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-10-01T11:00:05Z",
+          "durationSeconds": 1271,
+          "thumbnail": "https://img.youtube.com/vi/Xytw4wAWDMg/hqdefault.jpg"
+        },
+        {
           "videoId": "nXjhakGU9dM",
           "title": "Battle of the Birds: Eagles vs. Hawks vs. Owls | Whoa Factor | Nat Geo Kids",
           "publishedAt": "2026-09-30T11:00:00Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-08-28T11:00:17Z",
           "durationSeconds": 1181,
           "thumbnail": "https://img.youtube.com/vi/RErZdXRK5xw/hqdefault.jpg"
-        },
-        {
-          "videoId": "vujna6ae3WE",
-          "title": "What Happens When a Bridge Breaks? 😰 | World's Toughest Fixes | Nat Geo Kids",
-          "publishedAt": "2026-08-27T11:00:03Z",
-          "durationSeconds": 2653,
-          "thumbnail": "https://img.youtube.com/vi/vujna6ae3WE/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "uC2CoaA1plM",
+          "title": "Number Songs for Kids!  | Learn to Count for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-01T10:00:38Z",
+          "durationSeconds": 4796,
+          "thumbnail": "https://img.youtube.com/vi/uC2CoaA1plM/hqdefault.jpg"
+        },
         {
           "videoId": "XwviRUy-JoM",
           "title": "Numberblock Nine is Amazing! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-04T08:55:13Z",
           "durationSeconds": 239,
           "thumbnail": "https://img.youtube.com/vi/D28BHwgKi5Q/hqdefault.jpg"
-        },
-        {
-          "videoId": "8Zg6LdErx74",
-          "title": "Let's Do Some Rainbow Counting with Numberblock 7 | Learn to Count | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-09-03T10:00:20Z",
-          "durationSeconds": 3432,
-          "thumbnail": "https://img.youtube.com/vi/8Zg6LdErx74/hqdefault.jpg"
         }
       ]
     },
@@ -1659,6 +1659,13 @@
       "name": "StoryTime at Awnie's House",
       "videos": [
         {
+          "videoId": "NzOSABZiWps",
+          "title": "5 Fun & Spooky HALLOWEEN STORIES KIDS LOVE! 🎃👻 | 30 Minutes of Read Alouds",
+          "publishedAt": "2026-10-01T11:00:12Z",
+          "durationSeconds": 1841,
+          "thumbnail": "https://img.youtube.com/vi/NzOSABZiWps/hqdefault.jpg"
+        },
+        {
           "videoId": "7gGGDTIv1oI",
           "title": "Kids Book Read Aloud:",
           "publishedAt": "2026-09-25T11:00:26Z",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2026-02-05T12:01:22Z",
           "durationSeconds": 312,
           "thumbnail": "https://img.youtube.com/vi/iyfou6oJPKQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "WLIKgpeDv44",
-          "title": "🐮💖 SILLY COW Read Aloud for Kids | Funny & Sweet Storytime with Awnie & Pinkfong",
-          "publishedAt": "2026-01-29T13:00:59Z",
-          "durationSeconds": 303,
-          "thumbnail": "https://img.youtube.com/vi/WLIKgpeDv44/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "5LxOK8jUQuw",
+          "title": "Dobie tập Kung-Fu theo CST Cane Corso | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-09-30T11:41:42Z",
+          "durationSeconds": 3343,
+          "thumbnail": "https://img.youtube.com/vi/5LxOK8jUQuw/hqdefault.jpg"
+        },
+        {
           "videoId": "GB1RGcC6jR0",
           "title": "💧 Chiếc giếng không bao giờ đầy | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-09-29T09:51:38Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-07-25T06:18:03Z",
           "durationSeconds": 2503,
           "thumbnail": "https://img.youtube.com/vi/mUEaSK_aD8s/hqdefault.jpg"
-        },
-        {
-          "videoId": "AgNBupNlRoI",
-          "title": "🌺Hoa ngứa ngáy | Biệt đội cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam🚔",
-          "publishedAt": "2026-07-23T10:35:53Z",
-          "durationSeconds": 374,
-          "thumbnail": "https://img.youtube.com/vi/AgNBupNlRoI/hqdefault.jpg"
         }
       ]
     }
