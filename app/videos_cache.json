@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:24:54.878Z",
+  "generatedAt": "2026-10-03T10:41:56.040Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -1659,6 +1659,13 @@
       "name": "StoryTime at Awnie's House",
       "videos": [
         {
+          "videoId": "GOsDKTQgcog",
+          "title": "The Hallo-Wiener 🎃🐶 | ANIMATED Halloween Read Aloud for Kids | Dav Pilkey",
+          "publishedAt": "2026-10-03T04:28:16Z",
+          "durationSeconds": 400,
+          "thumbnail": "https://img.youtube.com/vi/GOsDKTQgcog/hqdefault.jpg"
+        },
+        {
           "videoId": "NzOSABZiWps",
           "title": "5 Fun & Spooky HALLOWEEN STORIES KIDS LOVE! 🎃👻 | 30 Minutes of Read Alouds",
           "publishedAt": "2026-10-01T11:00:12Z",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2026-02-12T12:01:16Z",
           "durationSeconds": 402,
           "thumbnail": "https://img.youtube.com/vi/hHA8Tk2DZTo/hqdefault.jpg"
-        },
-        {
-          "videoId": "iyfou6oJPKQ",
-          "title": "I LOVE YOU AND CHEESE PIZZA 🍕❤️ Learning about what love really means | Storytime read aloud",
-          "publishedAt": "2026-02-05T12:01:22Z",
-          "durationSeconds": 312,
-          "thumbnail": "https://img.youtube.com/vi/iyfou6oJPKQ/hqdefault.jpg"
         }
       ]
     },
