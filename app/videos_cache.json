@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T10:41:56.040Z",
+  "generatedAt": "2026-10-04T11:22:04.307Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "aPKGR4MQlXw",
+          "title": "Space Rockets and Sneakers 🚀👟 | Made in a Day Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-10-04T11:00:07Z",
+          "durationSeconds": 2513,
+          "thumbnail": "https://img.youtube.com/vi/aPKGR4MQlXw/hqdefault.jpg"
+        },
+        {
+          "videoId": "9hADH1YQn08",
+          "title": "Teaching Baby Meerkats at Survival School! 🎒 Animal Card Quest | Nat Geo Kids",
+          "publishedAt": "2026-10-03T15:00:39Z",
+          "durationSeconds": 152,
+          "thumbnail": "https://img.youtube.com/vi/9hADH1YQn08/hqdefault.jpg"
+        },
+        {
           "videoId": "Xt90Af7_0i8",
           "title": "Persephone's Trip to the Underworld Explained | Greeking Out Podcast | S5 E1 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-10-02T11:00:07Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-08-31T11:00:11Z",
           "durationSeconds": 1742,
           "thumbnail": "https://img.youtube.com/vi/5tK4DnpqYkA/hqdefault.jpg"
-        },
-        {
-          "videoId": "JbtV2c46v8A",
-          "title": "Unlikely Animal Friends Full Episode | Cat Best Friends 😻 | Nat Geo Kids",
-          "publishedAt": "2026-08-30T11:00:02Z",
-          "durationSeconds": 2653,
-          "thumbnail": "https://img.youtube.com/vi/JbtV2c46v8A/hqdefault.jpg"
-        },
-        {
-          "videoId": "zvACxEx9AZM",
-          "title": "Hedgehogs, Bats & Hyenas! 🦉🌖 Night Animals | Nat Geo Kids",
-          "publishedAt": "2026-08-29T15:00:24Z",
-          "durationSeconds": 199,
-          "thumbnail": "https://img.youtube.com/vi/zvACxEx9AZM/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "YrvGlFtIp4k",
+          "title": "Numbers Don't Have to be Scary | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-10-04T10:00:36Z",
+          "durationSeconds": 5105,
+          "thumbnail": "https://img.youtube.com/vi/YrvGlFtIp4k/hqdefault.jpg"
+        },
+        {
+          "videoId": "pqQTXA5mmao",
+          "title": "The Wrong Number and Other Spooky Stories | Learn to Count for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-03T11:00:12Z",
+          "durationSeconds": 4565,
+          "thumbnail": "https://img.youtube.com/vi/pqQTXA5mmao/hqdefault.jpg"
+        },
         {
           "videoId": "OdNkLG3k33s",
           "title": "I’m a Number Detective | Learn to Count | Numberblocks",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-09-10T10:00:11Z",
           "durationSeconds": 3779,
           "thumbnail": "https://img.youtube.com/vi/sB1cDtHoKSs/hqdefault.jpg"
-        },
-        {
-          "videoId": "vpA5wuraL4Y",
-          "title": "The Numberblock 100 Special | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-09-06T10:00:11Z",
-          "durationSeconds": 2406,
-          "thumbnail": "https://img.youtube.com/vi/vpA5wuraL4Y/hqdefault.jpg"
-        },
-        {
-          "videoId": "hidvKz9eUqo",
-          "title": "50, 60, 70 - Big Numbers and Beyond! | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-09-05T10:00:13Z",
-          "durationSeconds": 4539,
-          "thumbnail": "https://img.youtube.com/vi/hidvKz9eUqo/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,20 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "X9N_DVNFwIY",
+          "title": "Baby's First Alphabet | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-10-04T11:00:34Z",
+          "durationSeconds": 2059,
+          "thumbnail": "https://img.youtube.com/vi/X9N_DVNFwIY/hqdefault.jpg"
+        },
+        {
+          "videoId": "DzYwsxT-MCY",
+          "title": "Classroom Calm with the Alphablocks | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-10-03T11:00:39Z",
+          "durationSeconds": 4050,
+          "thumbnail": "https://img.youtube.com/vi/DzYwsxT-MCY/hqdefault.jpg"
+        },
+        {
           "videoId": "1gJpAU6MufY",
           "title": "Alphablocks Telly | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-10-02T11:00:26Z",
@@ -2285,20 +2299,6 @@
           "publishedAt": "2026-08-01T05:00:27Z",
           "durationSeconds": 2444,
           "thumbnail": "https://img.youtube.com/vi/e33JKhyvT-c/hqdefault.jpg"
-        },
-        {
-          "videoId": "JhBk8ntzzv0",
-          "title": "Playtime in Alphaland! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-07-31T11:00:30Z",
-          "durationSeconds": 3704,
-          "thumbnail": "https://img.youtube.com/vi/JhBk8ntzzv0/hqdefault.jpg"
-        },
-        {
-          "videoId": "RVOfgOlLbgc",
-          "title": "Long Vowels IE I_E | Lesson Twenty Seven - Phonics Made Easy | Alphablocks",
-          "publishedAt": "2026-07-26T11:00:26Z",
-          "durationSeconds": 665,
-          "thumbnail": "https://img.youtube.com/vi/RVOfgOlLbgc/hqdefault.jpg"
         }
       ]
     },
