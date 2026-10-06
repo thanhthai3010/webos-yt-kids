@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:44:46.027Z",
+  "generatedAt": "2026-10-06T12:15:40.155Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "Y7c7avmlCnw",
+          "title": "How To Draw A Pumpkin Candy Bucket",
+          "publishedAt": "2026-10-05T15:41:42Z",
+          "durationSeconds": 448,
+          "thumbnail": "https://img.youtube.com/vi/Y7c7avmlCnw/hqdefault.jpg"
+        },
+        {
           "videoId": "PrjGvyweh8w",
           "title": "How To Draw Marshall From PAW Patrol: The Dino Movie",
           "publishedAt": "2026-10-01T15:36:47Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-12T14:00:05Z",
           "durationSeconds": 504,
           "thumbnail": "https://img.youtube.com/vi/SYI_hnqyH_8/hqdefault.jpg"
-        },
-        {
-          "videoId": "stsRpkfRhxs",
-          "title": "How To Draw Bingo From Bluey",
-          "publishedAt": "2026-08-11T14:00:32Z",
-          "durationSeconds": 787,
-          "thumbnail": "https://img.youtube.com/vi/stsRpkfRhxs/hqdefault.jpg"
         }
       ]
     },
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "mFBqYchuuPg",
+          "title": "Seashell Sounds Of The Sea | Puffin Rock 🐚",
+          "publishedAt": "2026-10-06T12:00:06Z",
+          "durationSeconds": 85,
+          "thumbnail": "https://img.youtube.com/vi/mFBqYchuuPg/hqdefault.jpg"
+        },
+        {
           "videoId": "yiNYruLAayk",
           "title": "Fun On Puffin Rock ⛰️🎉 | Gentle Compilation",
           "publishedAt": "2026-09-26T12:00:07Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2026-01-18T13:01:44Z",
           "durationSeconds": 111,
           "thumbnail": "https://img.youtube.com/vi/uTAtVN71ojA/hqdefault.jpg"
-        },
-        {
-          "videoId": "zOUYuRfF3_U",
-          "title": "🐛 Baba Loves Caterpillars Compilation 🐛 | A Calm Nature Adventure 🌿",
-          "publishedAt": "2026-01-04T13:02:00Z",
-          "durationSeconds": 128,
-          "thumbnail": "https://img.youtube.com/vi/zOUYuRfF3_U/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "bBHouM1lwLo",
+          "title": "🥖 Bảo tàng nghệ thuật làm bánh | Đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-10-06T10:46:22Z",
+          "durationSeconds": 402,
+          "thumbnail": "https://img.youtube.com/vi/bBHouM1lwLo/hqdefault.jpg"
+        },
+        {
           "videoId": "Tp3xzctnft8",
           "title": "🛸 Bí ẩn UFO | Đội cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-10-05T09:00:24Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-08-01T03:02:16Z",
           "durationSeconds": 420,
           "thumbnail": "https://img.youtube.com/vi/XuUT5EMn1iQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "8QbN34INXs8",
-          "title": "🔥 Dodo trở thành lính cứu hỏa nhỏ | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-07-29T11:52:39Z",
-          "durationSeconds": 2828,
-          "thumbnail": "https://img.youtube.com/vi/8QbN34INXs8/hqdefault.jpg"
         }
       ]
     }
