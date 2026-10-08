@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:06:49.233Z",
+  "generatedAt": "2026-10-08T12:17:05.970Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "Df49TC9NONk",
+          "title": "Weird But True Full Episode | The Science Behind Your Senses! | Nat Geo Kids",
+          "publishedAt": "2026-10-08T11:00:30Z",
+          "durationSeconds": 2653,
+          "thumbnail": "https://img.youtube.com/vi/Df49TC9NONk/hqdefault.jpg"
+        },
+        {
           "videoId": "YBGPMztHR4Y",
           "title": "Octopus Showdown 🐙 | Whoa Factor | Nat Geo Kids",
           "publishedAt": "2026-10-07T11:00:14Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-09-04T11:00:13Z",
           "durationSeconds": 1628,
           "thumbnail": "https://img.youtube.com/vi/nrpF_O269s4/hqdefault.jpg"
-        },
-        {
-          "videoId": "1-XzGMIQss4",
-          "title": "Super Awesome Pets | Super Animals Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-09-03T11:00:03Z",
-          "durationSeconds": 1272,
-          "thumbnail": "https://img.youtube.com/vi/1-XzGMIQss4/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "lRe36GiOEdU",
+          "title": "Octoblock 8 Saves the Day! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-10-08T10:00:39Z",
+          "durationSeconds": 4582,
+          "thumbnail": "https://img.youtube.com/vi/lRe36GiOEdU/hqdefault.jpg"
+        },
         {
           "videoId": "YrvGlFtIp4k",
           "title": "Numbers Don't Have to be Scary | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-11T10:00:07Z",
           "durationSeconds": 142,
           "thumbnail": "https://img.youtube.com/vi/swrZN0Q5jXE/hqdefault.jpg"
-        },
-        {
-          "videoId": "sB1cDtHoKSs",
-          "title": "Random Numbers! Silly Math Galore | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-09-10T10:00:11Z",
-          "durationSeconds": 3779,
-          "thumbnail": "https://img.youtube.com/vi/sB1cDtHoKSs/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "k6RHLmAL-NU",
+          "title": "How To Draw A Haunted School Bus",
+          "publishedAt": "2026-10-07T15:00:19Z",
+          "durationSeconds": 690,
+          "thumbnail": "https://img.youtube.com/vi/k6RHLmAL-NU/hqdefault.jpg"
+        },
         {
           "videoId": "7tylcOBB2Ts",
           "title": "How To Draw A Skateboarding Skeleton",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-14T14:00:35Z",
           "durationSeconds": 641,
           "thumbnail": "https://img.youtube.com/vi/SPZTd6e3rsQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "LEvX_I9cIuQ",
-          "title": "How To Draw My Melody Squishmallow",
-          "publishedAt": "2026-08-13T14:00:30Z",
-          "durationSeconds": 473,
-          "thumbnail": "https://img.youtube.com/vi/LEvX_I9cIuQ/hqdefault.jpg"
         }
       ]
     },
@@ -1659,6 +1659,13 @@
       "name": "StoryTime at Awnie's House",
       "videos": [
         {
+          "videoId": "TeWNdzHFgy4",
+          "title": "5 Scary Stories for Kids! 👻📚 | Funny & Spooky Read Aloud Compilation",
+          "publishedAt": "2026-10-08T11:00:31Z",
+          "durationSeconds": 2133,
+          "thumbnail": "https://img.youtube.com/vi/TeWNdzHFgy4/hqdefault.jpg"
+        },
+        {
           "videoId": "GOsDKTQgcog",
           "title": "The Hallo-Wiener 🎃🐶 | ANIMATED Halloween Read Aloud for Kids | Dav Pilkey",
           "publishedAt": "2026-10-03T04:28:16Z",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2026-02-19T13:01:36Z",
           "durationSeconds": 404,
           "thumbnail": "https://img.youtube.com/vi/v7Edp9A1wrM/hqdefault.jpg"
-        },
-        {
-          "videoId": "hHA8Tk2DZTo",
-          "title": "SHEILA RAE THE BRAVE by Kevin Henkes 😊💪 Overcoming Fear | Kid's Book Read Aloud with Awnie",
-          "publishedAt": "2026-02-12T12:01:16Z",
-          "durationSeconds": 402,
-          "thumbnail": "https://img.youtube.com/vi/hHA8Tk2DZTo/hqdefault.jpg"
         }
       ]
     },
