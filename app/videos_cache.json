@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:17:05.970Z",
+  "generatedAt": "2026-10-09T12:08:10.491Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "w4n93HV5i-Q",
+          "title": "The One Where a Marble Statue Comes to Life | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids",
+          "publishedAt": "2026-10-09T11:00:26Z",
+          "durationSeconds": 926,
+          "thumbnail": "https://img.youtube.com/vi/w4n93HV5i-Q/hqdefault.jpg"
+        },
+        {
           "videoId": "Df49TC9NONk",
           "title": "Weird But True Full Episode | The Science Behind Your Senses! | Nat Geo Kids",
           "publishedAt": "2026-10-08T11:00:30Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-09-06T11:00:19Z",
           "durationSeconds": 1353,
           "thumbnail": "https://img.youtube.com/vi/BjwsFEAAvQU/hqdefault.jpg"
-        },
-        {
-          "videoId": "nrpF_O269s4",
-          "title": "Will Gilgamesh Find the Key to Eternal Life?! | Greeking Out Podcast | S4 E6 FULL EP | Nat Geo Kids",
-          "publishedAt": "2026-09-04T11:00:13Z",
-          "durationSeconds": 1628,
-          "thumbnail": "https://img.youtube.com/vi/nrpF_O269s4/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "bvdQr1rUPZI",
+          "title": "My First Numbers | 12345 | Learn Maths for Kids | Numberblocks",
+          "publishedAt": "2026-10-09T10:00:36Z",
+          "durationSeconds": 3748,
+          "thumbnail": "https://img.youtube.com/vi/bvdQr1rUPZI/hqdefault.jpg"
+        },
         {
           "videoId": "lRe36GiOEdU",
           "title": "Octoblock 8 Saves the Day! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-12T10:00:34Z",
           "durationSeconds": 4575,
           "thumbnail": "https://img.youtube.com/vi/4KklERoqcVg/hqdefault.jpg"
-        },
-        {
-          "videoId": "swrZN0Q5jXE",
-          "title": "I know my four times table | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-11T10:00:07Z",
-          "durationSeconds": 142,
-          "thumbnail": "https://img.youtube.com/vi/swrZN0Q5jXE/hqdefault.jpg"
         }
       ]
     },
@@ -1227,11 +1227,11 @@
       "name": "Vooks - Stories for Kids",
       "videos": [
         {
-          "videoId": "Zuq2N5m8SO0",
-          "title": "Bugs Bees Worms and Butterflies 1 | Read Aloud Kids Book | Vooks Narrated Storybooks",
-          "publishedAt": "2026-10-05T12:00:19Z",
-          "durationSeconds": 2562,
-          "thumbnail": "https://img.youtube.com/vi/Zuq2N5m8SO0/hqdefault.jpg"
+          "videoId": "_kxXvUni1tE",
+          "title": "Leroy the Lion and the Incredible Influence! | Read Aloud Kids Book | Vooks Narrated Storybooks",
+          "publishedAt": "2026-10-09T12:00:38Z",
+          "durationSeconds": 379,
+          "thumbnail": "https://img.youtube.com/vi/_kxXvUni1tE/hqdefault.jpg"
         },
         {
           "videoId": "Ci-H-lvWeSk",
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "nz8TZ4yFSok",
+          "title": "Exploring On Puffin Rock 🌎 | Compilation",
+          "publishedAt": "2026-10-09T11:45:03Z",
+          "durationSeconds": 186,
+          "thumbnail": "https://img.youtube.com/vi/nz8TZ4yFSok/hqdefault.jpg"
+        },
+        {
           "videoId": "mFBqYchuuPg",
           "title": "Seashell Sounds Of The Sea | Puffin Rock 🐚",
           "publishedAt": "2026-10-06T12:00:06Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2026-01-23T13:01:00Z",
           "durationSeconds": 96,
           "thumbnail": "https://img.youtube.com/vi/QbbmzGAM5ro/hqdefault.jpg"
-        },
-        {
-          "videoId": "uTAtVN71ojA",
-          "title": "Best Sibling Moments | Oona & Baba Season 1 🥰",
-          "publishedAt": "2026-01-18T13:01:44Z",
-          "durationSeconds": 111,
-          "thumbnail": "https://img.youtube.com/vi/uTAtVN71ojA/hqdefault.jpg"
         }
       ]
     },
@@ -1658,6 +1658,13 @@
       "channelId": "UCbqmj1hzxuAXsjk08k-KP6w",
       "name": "StoryTime at Awnie's House",
       "videos": [
+        {
+          "videoId": "4eXbksMHZXA",
+          "title": "THE SCARIEST STORY YOU EVER HEARD! 👀 | Kids Read Aloud with Awnie",
+          "publishedAt": "2026-10-09T12:00:16Z",
+          "durationSeconds": 389,
+          "thumbnail": "https://img.youtube.com/vi/4eXbksMHZXA/hqdefault.jpg"
+        },
         {
           "videoId": "TeWNdzHFgy4",
           "title": "5 Scary Stories for Kids! 👻📚 | Funny & Spooky Read Aloud Compilation",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2026-02-26T15:01:31Z",
           "durationSeconds": 346,
           "thumbnail": "https://img.youtube.com/vi/lM0ghgbdrMk/hqdefault.jpg"
-        },
-        {
-          "videoId": "v7Edp9A1wrM",
-          "title": "BILLY TART’S CAN OF FARTS 💨 Kids Book Read Aloud | Funny Storytime with Awnie",
-          "publishedAt": "2026-02-19T13:01:36Z",
-          "durationSeconds": 404,
-          "thumbnail": "https://img.youtube.com/vi/v7Edp9A1wrM/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "nuD1XSIDcO4",
+          "title": "Alphablock M and the Mole | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-10-09T11:00:40Z",
+          "durationSeconds": 3825,
+          "thumbnail": "https://img.youtube.com/vi/nuD1XSIDcO4/hqdefault.jpg"
+        },
+        {
           "videoId": "X9N_DVNFwIY",
           "title": "Baby's First Alphabet | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-10-04T11:00:34Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-08-02T11:00:35Z",
           "durationSeconds": 1935,
           "thumbnail": "https://img.youtube.com/vi/-1WEie8vWIs/hqdefault.jpg"
-        },
-        {
-          "videoId": "e33JKhyvT-c",
-          "title": "Super Saturday Morning Cartoons | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-01T05:00:27Z",
-          "durationSeconds": 2444,
-          "thumbnail": "https://img.youtube.com/vi/e33JKhyvT-c/hqdefault.jpg"
         }
       ]
     },
