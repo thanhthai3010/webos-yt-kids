@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:08:10.491Z",
+  "generatedAt": "2026-10-10T11:25:29.820Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -413,7 +413,7 @@
         },
         {
           "videoId": "Xytw4wAWDMg",
-          "title": "Jaguar Bites and More Jungle Superpowers | Super Animals Full Episode | Nat Geo Kids",
+          "title": "Super Animals Full Episode | Jaguar Bites and More Jungle Superpowers | Nat Geo Kids",
           "publishedAt": "2026-10-01T11:00:05Z",
           "durationSeconds": 1271,
           "thumbnail": "https://img.youtube.com/vi/Xytw4wAWDMg/hqdefault.jpg"
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "nkYJhtF3trc",
+          "title": "Struggling with Math? Start Here! | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-10-10T10:00:21Z",
+          "durationSeconds": 6453,
+          "thumbnail": "https://img.youtube.com/vi/nkYJhtF3trc/hqdefault.jpg"
+        },
         {
           "videoId": "bvdQr1rUPZI",
           "title": "My First Numbers | 12345 | Learn Maths for Kids | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-13T11:00:20Z",
           "durationSeconds": 4285,
           "thumbnail": "https://img.youtube.com/vi/6qWAEHhFUtE/hqdefault.jpg"
-        },
-        {
-          "videoId": "4KklERoqcVg",
-          "title": "Let's Learn Basic Shapes for Kids | Learn to Count 4 Kids Compilation | Numberblocks",
-          "publishedAt": "2026-09-12T10:00:34Z",
-          "durationSeconds": 4575,
-          "thumbnail": "https://img.youtube.com/vi/4KklERoqcVg/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "dgMuNfIZ0Kw",
+          "title": "1 Hour of Halloween Drawing Fun! 🎃 Easy Art Lessons for Kids",
+          "publishedAt": "2026-10-09T15:00:12Z",
+          "durationSeconds": 3625,
+          "thumbnail": "https://img.youtube.com/vi/dgMuNfIZ0Kw/hqdefault.jpg"
+        },
         {
           "videoId": "k6RHLmAL-NU",
           "title": "How To Draw A Haunted School Bus",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-17T14:00:17Z",
           "durationSeconds": 718,
           "thumbnail": "https://img.youtube.com/vi/SzzwCBn08tE/hqdefault.jpg"
-        },
-        {
-          "videoId": "SPZTd6e3rsQ",
-          "title": "How To Draw Super Bean Capybara",
-          "publishedAt": "2026-08-14T14:00:35Z",
-          "durationSeconds": 641,
-          "thumbnail": "https://img.youtube.com/vi/SPZTd6e3rsQ/hqdefault.jpg"
         }
       ]
     },
@@ -1660,7 +1660,7 @@
       "videos": [
         {
           "videoId": "4eXbksMHZXA",
-          "title": "THE SCARIEST STORY YOU EVER HEARD! 👀 | Kids Read Aloud with Awnie",
+          "title": "THE SCARIEST STORY YOU'VE EVER HEARD! 👀 | Kids Read Aloud with Awnie",
           "publishedAt": "2026-10-09T12:00:16Z",
           "durationSeconds": 389,
           "thumbnail": "https://img.youtube.com/vi/4eXbksMHZXA/hqdefault.jpg"
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "7owPTDsB0Jw",
+          "title": "Spelling Made Easy - Songs for Kids | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-10-10T11:00:02Z",
+          "durationSeconds": 4245,
+          "thumbnail": "https://img.youtube.com/vi/7owPTDsB0Jw/hqdefault.jpg"
+        },
+        {
           "videoId": "nuD1XSIDcO4",
           "title": "Alphablock M and the Mole | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-10-09T11:00:40Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-08-07T11:00:14Z",
           "durationSeconds": 3285,
           "thumbnail": "https://img.youtube.com/vi/ZtGpEQ-pYVk/hqdefault.jpg"
-        },
-        {
-          "videoId": "-1WEie8vWIs",
-          "title": "Phonetic Sounds from A to Z | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-02T11:00:35Z",
-          "durationSeconds": 1935,
-          "thumbnail": "https://img.youtube.com/vi/-1WEie8vWIs/hqdefault.jpg"
         }
       ]
     },
@@ -2739,8 +2739,15 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "iuBwLacRFeI",
+          "title": "Dangerous Flash Flood | What Causes a Flash Flood? | Nepal Flood Disaster | The Dr. Binocs Show",
+          "publishedAt": "2026-10-09T12:51:19Z",
+          "durationSeconds": 325,
+          "thumbnail": "https://img.youtube.com/vi/iuBwLacRFeI/hqdefault.jpg"
+        },
+        {
           "videoId": "M5ddG9m6cRk",
-          "title": "Myth vs Reality | What If a Centipede Enters Your Ear? | Do Centipedes Eat Human Brain? | Dr. Binocs",
+          "title": "Myth vs Reality | What If a Centipede Enters Your Ear? | Centipedes Facts For Kids | Dr. Binocs",
           "publishedAt": "2026-10-06T12:30:04Z",
           "durationSeconds": 376,
           "thumbnail": "https://img.youtube.com/vi/M5ddG9m6cRk/hqdefault.jpg"
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-06-30T12:37:31Z",
           "durationSeconds": 1014,
           "thumbnail": "https://img.youtube.com/vi/zbnS2bgBTsQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "czxWd2B2iP0",
-          "title": "Why all We Knew About Our Solar System is Wrong? | Which Planet is the Closest to the Earth?",
-          "publishedAt": "2026-06-26T13:05:00Z",
-          "durationSeconds": 405,
-          "thumbnail": "https://img.youtube.com/vi/czxWd2B2iP0/hqdefault.jpg"
         }
       ]
     },
