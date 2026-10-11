@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:25:29.820Z",
+  "generatedAt": "2026-10-11T11:39:06.493Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "wEz-NB7CRp0",
+          "title": "We Built a HUMAN-SIZED Wasps Nest | Live Like an Animal Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-10-11T11:00:39Z",
+          "durationSeconds": 2468,
+          "thumbnail": "https://img.youtube.com/vi/wEz-NB7CRp0/hqdefault.jpg"
+        },
+        {
+          "videoId": "iAIpKDObuWg",
+          "title": "Halloween Animals in REAL Life! 🎃 Learn some Fun Facts about Bats, Spiders, and Owls! | Nat Geo Kids",
+          "publishedAt": "2026-10-10T15:00:35Z",
+          "durationSeconds": 272,
+          "thumbnail": "https://img.youtube.com/vi/iAIpKDObuWg/hqdefault.jpg"
+        },
+        {
           "videoId": "w4n93HV5i-Q",
           "title": "The One Where a Marble Statue Comes to Life | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-10-09T11:00:26Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-09-08T11:00:37Z",
           "durationSeconds": 66,
           "thumbnail": "https://img.youtube.com/vi/yzdwLWbD_E0/hqdefault.jpg"
-        },
-        {
-          "videoId": "zwNXQ6fNnno",
-          "title": "Your Brain's Hidden Secrets 🧠 | Brain Games Full Episode Compilation | Nat Geo Kids",
-          "publishedAt": "2026-09-07T11:00:19Z",
-          "durationSeconds": 7983,
-          "thumbnail": "https://img.youtube.com/vi/zwNXQ6fNnno/hqdefault.jpg"
-        },
-        {
-          "videoId": "BjwsFEAAvQU",
-          "title": "Roman to the Rescue Full Episode 🐶 | Layla | Nat Geo Kids",
-          "publishedAt": "2026-09-06T11:00:19Z",
-          "durationSeconds": 1353,
-          "thumbnail": "https://img.youtube.com/vi/BjwsFEAAvQU/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "4PCLWIc9OYM",
+          "title": "Numberblock One's Spooky Counting Adventure! | Spooky Number Cartoon Compilation | Numberblocks",
+          "publishedAt": "2026-10-11T11:00:06Z",
+          "durationSeconds": 5638,
+          "thumbnail": "https://img.youtube.com/vi/4PCLWIc9OYM/hqdefault.jpg"
+        },
         {
           "videoId": "nkYJhtF3trc",
           "title": "Struggling with Math? Start Here! | Learn to Count for Kids | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-14T10:45:06Z",
           "durationSeconds": 127,
           "thumbnail": "https://img.youtube.com/vi/J8eVD2PpX_Q/hqdefault.jpg"
-        },
-        {
-          "videoId": "6qWAEHhFUtE",
-          "title": "Can You Solve These Counting Codes? | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-09-13T11:00:20Z",
-          "durationSeconds": 4285,
-          "thumbnail": "https://img.youtube.com/vi/6qWAEHhFUtE/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "eTAAS0eQ-1s",
+          "title": "Let's Learn Halloween CVC Words | Halloween Cartoons | Learn to Read & Spell for Kids | Alphablocks",
+          "publishedAt": "2026-10-11T11:00:03Z",
+          "durationSeconds": 1609,
+          "thumbnail": "https://img.youtube.com/vi/eTAAS0eQ-1s/hqdefault.jpg"
+        },
+        {
           "videoId": "7owPTDsB0Jw",
           "title": "Spelling Made Easy - Songs for Kids | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-10-10T11:00:02Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-08-08T11:00:06Z",
           "durationSeconds": 3829,
           "thumbnail": "https://img.youtube.com/vi/FqldR5bfh2E/hqdefault.jpg"
-        },
-        {
-          "videoId": "ZtGpEQ-pYVk",
-          "title": "Super Sports Spectacular! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-07T11:00:14Z",
-          "durationSeconds": 3285,
-          "thumbnail": "https://img.youtube.com/vi/ZtGpEQ-pYVk/hqdefault.jpg"
         }
       ]
     },
