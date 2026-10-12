@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:39:06.493Z",
+  "generatedAt": "2026-10-12T13:35:52.292Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "Uk7NdsKaREM",
+          "title": "Kids React to Black Rain Frogs | Africa Earth's Wild Home | Nat Geo Kids",
+          "publishedAt": "2026-10-12T13:00:29Z",
+          "durationSeconds": 91,
+          "thumbnail": "https://img.youtube.com/vi/Uk7NdsKaREM/hqdefault.jpg"
+        },
+        {
+          "videoId": "G59TqTjtuhg",
+          "title": "Exploring Earth's Closest Neighbors | A Traveler's Guide to the Planets Compilation | Nat Geo Kids",
+          "publishedAt": "2026-10-12T11:00:31Z",
+          "durationSeconds": 5491,
+          "thumbnail": "https://img.youtube.com/vi/G59TqTjtuhg/hqdefault.jpg"
+        },
+        {
           "videoId": "wEz-NB7CRp0",
           "title": "We Built a HUMAN-SIZED Wasps Nest | Live Like an Animal Full Episode | Nat Geo Kids",
           "publishedAt": "2026-10-11T11:00:39Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-09-10T11:00:14Z",
           "durationSeconds": 2583,
           "thumbnail": "https://img.youtube.com/vi/OE7-gYFnCEs/hqdefault.jpg"
-        },
-        {
-          "videoId": "7IVHtph87pw",
-          "title": "Lion vs. Giraffe vs. Zebra! | Whoa Factor | Nat Geo Kids",
-          "publishedAt": "2026-09-09T11:00:11Z",
-          "durationSeconds": 323,
-          "thumbnail": "https://img.youtube.com/vi/7IVHtph87pw/hqdefault.jpg"
-        },
-        {
-          "videoId": "yzdwLWbD_E0",
-          "title": "Kids React to Lion vs. Buffalo 🦁🐃 | Nat Geo Kids",
-          "publishedAt": "2026-09-08T11:00:37Z",
-          "durationSeconds": 66,
-          "thumbnail": "https://img.youtube.com/vi/yzdwLWbD_E0/hqdefault.jpg"
         }
       ]
     },
