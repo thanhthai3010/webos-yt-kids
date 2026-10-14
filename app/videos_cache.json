@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T12:59:38.366Z",
+  "generatedAt": "2026-10-14T10:40:12.984Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -441,7 +441,7 @@
         },
         {
           "videoId": "Xytw4wAWDMg",
-          "title": "Super Animals Full Episode | Jaguar Bites and More Jungle Superpowers | Nat Geo Kids",
+          "title": "Super Animals Full Episode | Jaguar Jungle Superpowers | Nat Geo Kids",
           "publishedAt": "2026-10-01T11:00:05Z",
           "durationSeconds": 1271,
           "thumbnail": "https://img.youtube.com/vi/Xytw4wAWDMg/hqdefault.jpg"
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "ga8wyomPt68",
+          "title": "How To Draw Frankenstein Big Mouth",
+          "publishedAt": "2026-10-13T16:00:14Z",
+          "durationSeconds": 564,
+          "thumbnail": "https://img.youtube.com/vi/ga8wyomPt68/hqdefault.jpg"
+        },
+        {
           "videoId": "TxQ8haK5u6Q",
           "title": "How To Draw A Halloween Pumpkin House",
           "publishedAt": "2026-10-12T16:00:25Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-19T14:00:25Z",
           "durationSeconds": 655,
           "thumbnail": "https://img.youtube.com/vi/911cUwXlKXM/hqdefault.jpg"
-        },
-        {
-          "videoId": "-vQ2_umdFRw",
-          "title": "How To Draw Back To School Pickle The Axolotl",
-          "publishedAt": "2026-08-18T16:39:21Z",
-          "durationSeconds": 521,
-          "thumbnail": "https://img.youtube.com/vi/-vQ2_umdFRw/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "yPlN-RL_URc",
+          "title": "Đi tìm ông dê | Đội cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-10-14T09:00:12Z",
+          "durationSeconds": 867,
+          "thumbnail": "https://img.youtube.com/vi/yPlN-RL_URc/hqdefault.jpg"
+        },
+        {
           "videoId": "KkB8x9OU8gE",
           "title": "🦀Bảo vệ bãi biển | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-10-13T10:36:01Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-08-07T10:23:26Z",
           "durationSeconds": 448,
           "thumbnail": "https://img.youtube.com/vi/aZ_qzqg74tw/hqdefault.jpg"
-        },
-        {
-          "videoId": "4H3T_84UUBA",
-          "title": "🦹🏻 Ai mới là tên trộm áo choàng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-08-04T11:56:24Z",
-          "durationSeconds": 2563,
-          "thumbnail": "https://img.youtube.com/vi/4H3T_84UUBA/hqdefault.jpg"
         }
       ]
     }
