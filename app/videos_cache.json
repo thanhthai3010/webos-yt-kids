@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T10:40:12.984Z",
+  "generatedAt": "2026-10-15T10:23:55.838Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "CGEtugYEJok",
+          "title": "Pigs vs. Cows vs. Goats: Barnyard Showdown! | Whoa Factor | Nat Geo Kids",
+          "publishedAt": "2026-10-14T11:00:12Z",
+          "durationSeconds": 299,
+          "thumbnail": "https://img.youtube.com/vi/CGEtugYEJok/hqdefault.jpg"
+        },
+        {
           "videoId": "Uk7NdsKaREM",
           "title": "Kids React to Black Rain Frogs | Africa Earth's Wild Home | Nat Geo Kids",
           "publishedAt": "2026-10-12T13:00:29Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-09-11T11:00:31Z",
           "durationSeconds": 1068,
           "thumbnail": "https://img.youtube.com/vi/OYPovmiOlBg/hqdefault.jpg"
-        },
-        {
-          "videoId": "OE7-gYFnCEs",
-          "title": "Exploring a Hidden Ghost City! 👻 | Lost Cities with Albert Lin | Nat Geo Kids",
-          "publishedAt": "2026-09-10T11:00:14Z",
-          "durationSeconds": 2583,
-          "thumbnail": "https://img.youtube.com/vi/OE7-gYFnCEs/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "Jk9hlntqsWA",
+          "title": "Aliens? In Numberland? | Halloween Math for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-15T10:00:17Z",
+          "durationSeconds": 5112,
+          "thumbnail": "https://img.youtube.com/vi/Jk9hlntqsWA/hqdefault.jpg"
+        },
         {
           "videoId": "4PCLWIc9OYM",
           "title": "Numberblock One's Spooky Counting Adventure! | Spooky Number Cartoon Compilation | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-15T10:00:06Z",
           "durationSeconds": 96,
           "thumbnail": "https://img.youtube.com/vi/bJ97RZ1PbBg/hqdefault.jpg"
-        },
-        {
-          "videoId": "J8eVD2PpX_Q",
-          "title": "Meet Numberblock 33 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-14T10:45:06Z",
-          "durationSeconds": 127,
-          "thumbnail": "https://img.youtube.com/vi/J8eVD2PpX_Q/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "2trpMnBYbHo",
+          "title": "How To Draw A Caramel Apple Monster",
+          "publishedAt": "2026-10-14T16:00:32Z",
+          "durationSeconds": 541,
+          "thumbnail": "https://img.youtube.com/vi/2trpMnBYbHo/hqdefault.jpg"
+        },
         {
           "videoId": "ga8wyomPt68",
           "title": "How To Draw Frankenstein Big Mouth",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-20T14:00:39Z",
           "durationSeconds": 619,
           "thumbnail": "https://img.youtube.com/vi/nRfEYbCfQQs/hqdefault.jpg"
-        },
-        {
-          "videoId": "911cUwXlKXM",
-          "title": "How To Draw Rhubarb From Paw Patrol The Dino Movie",
-          "publishedAt": "2026-08-19T14:00:25Z",
-          "durationSeconds": 655,
-          "thumbnail": "https://img.youtube.com/vi/911cUwXlKXM/hqdefault.jpg"
         }
       ]
     },
