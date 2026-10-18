@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:45:24.552Z",
+  "generatedAt": "2026-10-18T09:58:24.098Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "adABRbEs4G4",
+          "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids",
+          "publishedAt": "2026-10-17T15:00:23Z",
+          "durationSeconds": 287,
+          "thumbnail": "https://img.youtube.com/vi/adABRbEs4G4/hqdefault.jpg"
+        },
+        {
           "videoId": "I3abQzLOv2A",
           "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-10-16T11:00:26Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-09-15T11:00:04Z",
           "durationSeconds": 106,
           "thumbnail": "https://img.youtube.com/vi/cF1rKugxZZ4/hqdefault.jpg"
-        },
-        {
-          "videoId": "h64W_6Vnpvc",
-          "title": "Weird But True! Full Episode Compilation | Science Rules 🧠 | Nat Geo Kids",
-          "publishedAt": "2026-09-14T11:00:06Z",
-          "durationSeconds": 3972,
-          "thumbnail": "https://img.youtube.com/vi/h64W_6Vnpvc/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "iWn4EUZ3tLM",
+          "title": "Captain Hex Beards Return! | Halloween Math for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-17T10:00:26Z",
+          "durationSeconds": 3671,
+          "thumbnail": "https://img.youtube.com/vi/iWn4EUZ3tLM/hqdefault.jpg"
+        },
         {
           "videoId": "I4-m-mtNeuw",
           "title": "A Guide to Fractions | Learn Early Maths Skills for Kids | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-17T10:00:06Z",
           "durationSeconds": 99,
           "thumbnail": "https://img.youtube.com/vi/k9cAFbgrGx0/hqdefault.jpg"
-        },
-        {
-          "videoId": "OXjorKzZoUU",
-          "title": "Meet Numberblock 37 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-16T10:00:06Z",
-          "durationSeconds": 90,
-          "thumbnail": "https://img.youtube.com/vi/OXjorKzZoUU/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "fQjDqxPtJKc",
+          "title": "Alphablocks - Watch Whilst You Eat | Readin and Writing for Kids | ABC | Alphablocks",
+          "publishedAt": "2026-10-17T11:00:21Z",
+          "durationSeconds": 5565,
+          "thumbnail": "https://img.youtube.com/vi/fQjDqxPtJKc/hqdefault.jpg"
+        },
+        {
           "videoId": "sH9sST6r32I",
           "title": "100 Spellings for Kids to Learn | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-10-16T11:00:14Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-08-14T11:00:36Z",
           "durationSeconds": 2985,
           "thumbnail": "https://img.youtube.com/vi/kdWnG0eMQRI/hqdefault.jpg"
-        },
-        {
-          "videoId": "6j8_kct3gLw",
-          "title": "Rainbow Spelling for Tiny Tots | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-09T11:00:12Z",
-          "durationSeconds": 2455,
-          "thumbnail": "https://img.youtube.com/vi/6j8_kct3gLw/hqdefault.jpg"
         }
       ]
     },
