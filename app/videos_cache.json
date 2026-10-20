@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:19:31.621Z",
+  "generatedAt": "2026-10-20T10:28:28.163Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "zvAW8WE0VD4",
+          "title": "How To Draw A Frankenstein Milkshake",
+          "publishedAt": "2026-10-19T16:56:31Z",
+          "durationSeconds": 488,
+          "thumbnail": "https://img.youtube.com/vi/zvAW8WE0VD4/hqdefault.jpg"
+        },
+        {
           "videoId": "l4JNjGkQnuM",
           "title": "How To Draw A Vampire Pizza",
           "publishedAt": "2026-10-16T16:00:12Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-08-28T14:28:29Z",
           "durationSeconds": 380,
           "thumbnail": "https://img.youtube.com/vi/depxT2CPYjA/hqdefault.jpg"
-        },
-        {
-          "videoId": "pUywCc6URlI",
-          "title": "How To Draw A Funny School Locker",
-          "publishedAt": "2026-08-27T14:24:15Z",
-          "durationSeconds": 386,
-          "thumbnail": "https://img.youtube.com/vi/pUywCc6URlI/hqdefault.jpg"
         }
       ]
     },
