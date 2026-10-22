@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:39:17.213Z",
+  "generatedAt": "2026-10-22T10:42:15.228Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "9q3uiSeT80M",
+          "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids",
+          "publishedAt": "2026-10-21T11:00:23Z",
+          "durationSeconds": 316,
+          "thumbnail": "https://img.youtube.com/vi/9q3uiSeT80M/hqdefault.jpg"
+        },
+        {
           "videoId": "aASWMaa5ZU8",
           "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids",
           "publishedAt": "2026-10-19T11:00:04Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-09-18T11:00:33Z",
           "durationSeconds": 1508,
           "thumbnail": "https://img.youtube.com/vi/zB7yHqfAYlA/hqdefault.jpg"
-        },
-        {
-          "videoId": "zu9lzYm4St4",
-          "title": "Funny Named Animals are Cute... But Creepy!🤣 | You're Called What?! | Nat Geo Kids",
-          "publishedAt": "2026-09-17T11:00:23Z",
-          "durationSeconds": 1618,
-          "thumbnail": "https://img.youtube.com/vi/zu9lzYm4St4/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "lyAv38kLJdo",
+          "title": "Dodo chuẩn bị quay lại nhà trường | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-10-21T11:53:50Z",
+          "durationSeconds": 2210,
+          "thumbnail": "https://img.youtube.com/vi/lyAv38kLJdo/hqdefault.jpg"
+        },
+        {
           "videoId": "nJZPKSs_dl0",
           "title": "🥷 Tên trộm bí ẩn | Đội cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-10-17T02:00:16Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-08-11T11:15:02Z",
           "durationSeconds": 2050,
           "thumbnail": "https://img.youtube.com/vi/SYMK9kTCxok/hqdefault.jpg"
-        },
-        {
-          "videoId": "PF6eoZcL_H4",
-          "title": "🛳️ Bữa tiệc hóa trang trên du thuyền | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-08-08T14:18:34Z",
-          "durationSeconds": 334,
-          "thumbnail": "https://img.youtube.com/vi/PF6eoZcL_H4/hqdefault.jpg"
         }
       ]
     }
