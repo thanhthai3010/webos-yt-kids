@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:42:15.228Z",
+  "generatedAt": "2026-10-23T10:34:22.175Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "EXYhTpsYHN8",
+          "title": "Kids React to More Animals from Africa! | Nat Geo Kids",
+          "publishedAt": "2026-10-22T14:00:33Z",
+          "durationSeconds": 100,
+          "thumbnail": "https://img.youtube.com/vi/EXYhTpsYHN8/hqdefault.jpg"
+        },
+        {
+          "videoId": "Gvmyc2yW_NM",
+          "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-10-22T12:00:37Z",
+          "durationSeconds": 1326,
+          "thumbnail": "https://img.youtube.com/vi/Gvmyc2yW_NM/hqdefault.jpg"
+        },
+        {
           "videoId": "9q3uiSeT80M",
           "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids",
           "publishedAt": "2026-10-21T11:00:23Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-09-20T11:00:19Z",
           "durationSeconds": 2653,
           "thumbnail": "https://img.youtube.com/vi/ca2ReLTX0So/hqdefault.jpg"
-        },
-        {
-          "videoId": "cJghbzC4dAA",
-          "title": "How Do Animals Talk Without Words? 🙊🐜 Animal Facts for Kids | Nat Geo Kids",
-          "publishedAt": "2026-09-19T12:47:41Z",
-          "durationSeconds": 171,
-          "thumbnail": "https://img.youtube.com/vi/cJghbzC4dAA/hqdefault.jpg"
-        },
-        {
-          "videoId": "zB7yHqfAYlA",
-          "title": "Ancient Olympics had CHEATERS?! 🏛️🏅 | Greeking Out Podcast | S4 E8 FULL EP | Nat Geo Kids",
-          "publishedAt": "2026-09-18T11:00:33Z",
-          "durationSeconds": 1508,
-          "thumbnail": "https://img.youtube.com/vi/zB7yHqfAYlA/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "tMMhXM7JG0Q",
+          "title": "A Double Trouble Day | Halloween Math for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-23T10:00:07Z",
+          "durationSeconds": 5364,
+          "thumbnail": "https://img.youtube.com/vi/tMMhXM7JG0Q/hqdefault.jpg"
+        },
+        {
+          "videoId": "5j7csdkFnN0",
+          "title": "The Spooky Sevens! | Halloween Math for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-22T11:00:12Z",
+          "durationSeconds": 4302,
+          "thumbnail": "https://img.youtube.com/vi/5j7csdkFnN0/hqdefault.jpg"
+        },
         {
           "videoId": "6PIMATLRo_U",
           "title": "Learn How to Tell the Time! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-09-18T10:00:36Z",
           "durationSeconds": 179,
           "thumbnail": "https://img.youtube.com/vi/-osYShkNjVs/hqdefault.jpg"
-        },
-        {
-          "videoId": "G_kElQhB_Ig",
-          "title": "Meet Numberblock 39 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-18T10:00:15Z",
-          "durationSeconds": 95,
-          "thumbnail": "https://img.youtube.com/vi/G_kElQhB_Ig/hqdefault.jpg"
-        },
-        {
-          "videoId": "aY93tQXspqg",
-          "title": "The Numbers Song - Sing Along Maths | Learn to Count for Kids | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-09-17T10:00:13Z",
-          "durationSeconds": 5865,
-          "thumbnail": "https://img.youtube.com/vi/aY93tQXspqg/hqdefault.jpg"
         }
       ]
     },
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "xAwGJdsgHQM",
+          "title": "Slide, Slide, Fun on Puffin Rock! 🎉🛝 | Playtime Compilation",
+          "publishedAt": "2026-10-22T11:45:22Z",
+          "durationSeconds": 71,
+          "thumbnail": "https://img.youtube.com/vi/xAwGJdsgHQM/hqdefault.jpg"
+        },
+        {
           "videoId": "SAnyY7QFUY0",
           "title": "Learning with Puffin Rock 🌊 | Fun Compilation",
           "publishedAt": "2026-10-18T11:30:16Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2026-02-20T13:01:35Z",
           "durationSeconds": 318,
           "thumbnail": "https://img.youtube.com/vi/ozlHnYW3ob0/hqdefault.jpg"
-        },
-        {
-          "videoId": "S9LkmILyd3E",
-          "title": "Bernie's Best Bits 💚 | Puffin Rock Compilation",
-          "publishedAt": "2026-02-07T13:00:57Z",
-          "durationSeconds": 201,
-          "thumbnail": "https://img.youtube.com/vi/S9LkmILyd3E/hqdefault.jpg"
         }
       ]
     },
