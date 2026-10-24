@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:34:22.175Z",
+  "generatedAt": "2026-10-24T09:52:15.925Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "Xakbw3sQcd0",
+          "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids",
+          "publishedAt": "2026-10-23T12:00:15Z",
+          "durationSeconds": 1507,
+          "thumbnail": "https://img.youtube.com/vi/Xakbw3sQcd0/hqdefault.jpg"
+        },
+        {
           "videoId": "EXYhTpsYHN8",
           "title": "Kids React to More Animals from Africa! | Nat Geo Kids",
           "publishedAt": "2026-10-22T14:00:33Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-09-21T11:00:40Z",
           "durationSeconds": 7770,
           "thumbnail": "https://img.youtube.com/vi/gQ0urWUYDMg/hqdefault.jpg"
-        },
-        {
-          "videoId": "ca2ReLTX0So",
-          "title": "My Best Friend's an Animal Full Episode | 4K | Rescued Besties! | Nat Geo Kids",
-          "publishedAt": "2026-09-20T11:00:19Z",
-          "durationSeconds": 2653,
-          "thumbnail": "https://img.youtube.com/vi/ca2ReLTX0So/hqdefault.jpg"
         }
       ]
     },
@@ -687,7 +687,7 @@
           "videoId": "-dKDf6im0C4",
           "title": "The Rise of Infinaughty! Full 25-Minute Movie (All 5 Episodes) | Numberblocks S9",
           "publishedAt": "2026-09-26T11:01:04Z",
-          "durationSeconds": 1398,
+          "durationSeconds": 1397,
           "thumbnail": "https://img.youtube.com/vi/-dKDf6im0C4/hqdefault.jpg"
         },
         {
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "bPzs8S3UB9Q",
+          "title": "How To Draw A Vampire Bat Holding A Pumpkin",
+          "publishedAt": "2026-10-23T15:17:38Z",
+          "durationSeconds": 603,
+          "thumbnail": "https://img.youtube.com/vi/bPzs8S3UB9Q/hqdefault.jpg"
+        },
         {
           "videoId": "yjuQptALLzM",
           "title": "Our NEW Drawing App for Kids! 🎨",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-01T14:00:17Z",
           "durationSeconds": 552,
           "thumbnail": "https://img.youtube.com/vi/Hh438OyVVXk/hqdefault.jpg"
-        },
-        {
-          "videoId": "1mSoi4N2J4U",
-          "title": "How To Draw Back-To-School Capybara Bean",
-          "publishedAt": "2026-08-31T14:00:38Z",
-          "durationSeconds": 390,
-          "thumbnail": "https://img.youtube.com/vi/1mSoi4N2J4U/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "BkA8JKZf9qI",
+          "title": "60 Minutes of Halloween Fun! | Halloween Cartoons - Learn to Read and Spell for Kids | Alphablocks",
+          "publishedAt": "2026-10-23T11:00:13Z",
+          "durationSeconds": 3855,
+          "thumbnail": "https://img.youtube.com/vi/BkA8JKZf9qI/hqdefault.jpg"
+        },
+        {
           "videoId": "ss3_AQ8ADwA",
           "title": "The Halloween Theme Tune | Halloween Cartoons - Learn to Read and Spell for Kids | Alphablocks",
           "publishedAt": "2026-10-18T11:00:04Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-08-16T11:00:08Z",
           "durationSeconds": 2436,
           "thumbnail": "https://img.youtube.com/vi/NH5QoW7e864/hqdefault.jpg"
-        },
-        {
-          "videoId": "DK_hkUOi-08",
-          "title": "The Art of Spelling | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-15T11:00:37Z",
-          "durationSeconds": 2864,
-          "thumbnail": "https://img.youtube.com/vi/DK_hkUOi-08/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "11I6SH0HE9A",
+          "title": "Why Are Bats Associated With Halloween? 🦇🎃 | Halloween Facts for Kids | The Dr. Binocs Show",
+          "publishedAt": "2026-10-23T12:30:11Z",
+          "durationSeconds": 334,
+          "thumbnail": "https://img.youtube.com/vi/11I6SH0HE9A/hqdefault.jpg"
+        },
+        {
           "videoId": "2c-c9GA_LzY",
           "title": "What If Your Brain Shrinks? | Brain Science For Kids | Brain Facts | Dr. Binocs Show",
           "publishedAt": "2026-10-20T12:30:32Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-07-14T12:30:28Z",
           "durationSeconds": 365,
           "thumbnail": "https://img.youtube.com/vi/cvjaeQ7mV6M/hqdefault.jpg"
-        },
-        {
-          "videoId": "51rdY8554SU",
-          "title": "Broken Bone Healing Process | How Plaster Helps in Fracture? | Bone Fractures | Dr. Binocs Show",
-          "publishedAt": "2026-07-10T12:30:16Z",
-          "durationSeconds": 370,
-          "thumbnail": "https://img.youtube.com/vi/51rdY8554SU/hqdefault.jpg"
         }
       ]
     },
