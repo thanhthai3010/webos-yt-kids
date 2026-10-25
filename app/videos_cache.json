@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:52:15.925Z",
+  "generatedAt": "2026-10-25T10:12:38.938Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "DLRdkTUJ-kY",
+          "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids",
+          "publishedAt": "2026-10-24T15:00:24Z",
+          "durationSeconds": 364,
+          "thumbnail": "https://img.youtube.com/vi/DLRdkTUJ-kY/hqdefault.jpg"
+        },
+        {
           "videoId": "Xakbw3sQcd0",
           "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-10-23T12:00:15Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-09-23T11:00:12Z",
           "durationSeconds": 310,
           "thumbnail": "https://img.youtube.com/vi/6Eyz9qUAYRg/hqdefault.jpg"
-        },
-        {
-          "videoId": "gQ0urWUYDMg",
-          "title": "Beginning of a Black Bear's Rescue Journey 🐻 | Cub Camp Full Episode Compilation | Nat Geo Kids",
-          "publishedAt": "2026-09-21T11:00:40Z",
-          "durationSeconds": 7770,
-          "thumbnail": "https://img.youtube.com/vi/gQ0urWUYDMg/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "T-C1wF41baU",
+          "title": "Halloween Holiday Homework Help | Halloween Math for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-24T11:00:20Z",
+          "durationSeconds": 4851,
+          "thumbnail": "https://img.youtube.com/vi/T-C1wF41baU/hqdefault.jpg"
+        },
         {
           "videoId": "tMMhXM7JG0Q",
           "title": "A Double Trouble Day | Halloween Math for Kids Compilation | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-19T10:00:11Z",
           "durationSeconds": 4039,
           "thumbnail": "https://img.youtube.com/vi/xI2uUrWL5Kw/hqdefault.jpg"
-        },
-        {
-          "videoId": "-osYShkNjVs",
-          "title": "I’m a terrific Time Keeper | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-18T10:00:36Z",
-          "durationSeconds": 179,
-          "thumbnail": "https://img.youtube.com/vi/-osYShkNjVs/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "3bepWxmLSKg",
+          "title": "The Wonderful Wizard of Az - An Alphalocks Dress Up Special | Halloween Cartoons | Alphablocks",
+          "publishedAt": "2026-10-24T11:00:23Z",
+          "durationSeconds": 585,
+          "thumbnail": "https://img.youtube.com/vi/3bepWxmLSKg/hqdefault.jpg"
+        },
+        {
           "videoId": "BkA8JKZf9qI",
           "title": "60 Minutes of Halloween Fun! | Halloween Cartoons - Learn to Read and Spell for Kids | Alphablocks",
           "publishedAt": "2026-10-23T11:00:13Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-08-21T11:00:26Z",
           "durationSeconds": 2084,
           "thumbnail": "https://img.youtube.com/vi/4IMV_Awj0YU/hqdefault.jpg"
-        },
-        {
-          "videoId": "NH5QoW7e864",
-          "title": "Whacky Words! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-16T11:00:08Z",
-          "durationSeconds": 2436,
-          "thumbnail": "https://img.youtube.com/vi/NH5QoW7e864/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "lMaMxtEyRpA",
+          "title": "🧸 Công viên Đất nặn vui vẻ | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-10-25T09:31:10Z",
+          "durationSeconds": 702,
+          "thumbnail": "https://img.youtube.com/vi/lMaMxtEyRpA/hqdefault.jpg"
+        },
+        {
           "videoId": "lyAv38kLJdo",
           "title": "Dodo chuẩn bị quay lại nhà trường | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-10-21T11:53:50Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-08-12T11:38:08Z",
           "durationSeconds": 413,
           "thumbnail": "https://img.youtube.com/vi/UJL2N40VdAM/hqdefault.jpg"
-        },
-        {
-          "videoId": "SYMK9kTCxok",
-          "title": "🐑 Dobie chăm sóc các bạn thú cưng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-08-11T11:15:02Z",
-          "durationSeconds": 2050,
-          "thumbnail": "https://img.youtube.com/vi/SYMK9kTCxok/hqdefault.jpg"
         }
       ]
     }
