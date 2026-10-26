@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:12:38.938Z",
+  "generatedAt": "2026-10-26T11:36:03.414Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "iZooMGvvZdo",
+          "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids",
+          "publishedAt": "2026-10-25T12:00:06Z",
+          "durationSeconds": 1773,
+          "thumbnail": "https://img.youtube.com/vi/iZooMGvvZdo/hqdefault.jpg"
+        },
+        {
           "videoId": "DLRdkTUJ-kY",
           "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids",
           "publishedAt": "2026-10-24T15:00:24Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-09-24T11:00:29Z",
           "durationSeconds": 2712,
           "thumbnail": "https://img.youtube.com/vi/PwSWHUG1Bzc/hqdefault.jpg"
-        },
-        {
-          "videoId": "6Eyz9qUAYRg",
-          "title": "Grizzly vs. Panda vs. Polar Bear! | Whoa Factor | Nat Geo Kids",
-          "publishedAt": "2026-09-23T11:00:12Z",
-          "durationSeconds": 310,
-          "thumbnail": "https://img.youtube.com/vi/6Eyz9qUAYRg/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "4z0jCz7e_s4",
+          "title": "Spooky Cartoons for a Halloween Night | Halloween Math for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-25T11:00:05Z",
+          "durationSeconds": 4073,
+          "thumbnail": "https://img.youtube.com/vi/4z0jCz7e_s4/hqdefault.jpg"
+        },
         {
           "videoId": "T-C1wF41baU",
           "title": "Halloween Holiday Homework Help | Halloween Math for Kids Compilation | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-19T10:00:31Z",
           "durationSeconds": 96,
           "thumbnail": "https://img.youtube.com/vi/Q98njNPacrg/hqdefault.jpg"
-        },
-        {
-          "videoId": "xI2uUrWL5Kw",
-          "title": "Addition and Subtraction Made Easy for Kids | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-09-19T10:00:11Z",
-          "durationSeconds": 4039,
-          "thumbnail": "https://img.youtube.com/vi/xI2uUrWL5Kw/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "kbxt9dljNgc",
+          "title": "Halloween Let's Spell Together | Halloween Cartoons - Learn to Read & Spell for Kids | Alphablocks",
+          "publishedAt": "2026-10-25T12:00:37Z",
+          "durationSeconds": 1235,
+          "thumbnail": "https://img.youtube.com/vi/kbxt9dljNgc/hqdefault.jpg"
+        },
+        {
           "videoId": "3bepWxmLSKg",
           "title": "The Wonderful Wizard of Az - An Alphalocks Dress Up Special | Halloween Cartoons | Alphablocks",
           "publishedAt": "2026-10-24T11:00:23Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-08-22T11:00:04Z",
           "durationSeconds": 7360,
           "thumbnail": "https://img.youtube.com/vi/FPJJ2UPPJks/hqdefault.jpg"
-        },
-        {
-          "videoId": "4IMV_Awj0YU",
-          "title": "Discover the Secret Vowel Sound with Y | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-21T11:00:26Z",
-          "durationSeconds": 2084,
-          "thumbnail": "https://img.youtube.com/vi/4IMV_Awj0YU/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "3BeYkAKzz4g",
+          "title": "🥷 Chiếc bóng bí ẩn | Đội cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-10-26T09:00:37Z",
+          "durationSeconds": 819,
+          "thumbnail": "https://img.youtube.com/vi/3BeYkAKzz4g/hqdefault.jpg"
+        },
+        {
           "videoId": "lMaMxtEyRpA",
           "title": "🧸 Công viên Đất nặn vui vẻ | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-10-25T09:31:10Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-08-14T09:30:45Z",
           "durationSeconds": 349,
           "thumbnail": "https://img.youtube.com/vi/tMUWwb367sA/hqdefault.jpg"
-        },
-        {
-          "videoId": "UJL2N40VdAM",
-          "title": "🛸Drone bay mất kiểm soát | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮Cảnh sát trưởng Labrador Vietnam🚔",
-          "publishedAt": "2026-08-12T11:38:08Z",
-          "durationSeconds": 413,
-          "thumbnail": "https://img.youtube.com/vi/UJL2N40VdAM/hqdefault.jpg"
         }
       ]
     }
