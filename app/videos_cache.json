@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T11:06:34.317Z",
+  "generatedAt": "2026-10-28T11:42:22.891Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "cQvh1XLB2Ws",
+          "title": "How To Draw A Cute Ghost Holding Balloons",
+          "publishedAt": "2026-10-27T16:00:35Z",
+          "durationSeconds": 369,
+          "thumbnail": "https://img.youtube.com/vi/cQvh1XLB2Ws/hqdefault.jpg"
+        },
+        {
           "videoId": "EcVNQhah89Q",
           "title": "How To Draw A Scarecrow Folding Surprise",
           "publishedAt": "2026-10-26T15:35:37Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-03T14:00:15Z",
           "durationSeconds": 533,
           "thumbnail": "https://img.youtube.com/vi/2CiVR8ZOwbM/hqdefault.jpg"
-        },
-        {
-          "videoId": "nWZDqKeoxy4",
-          "title": "How To Draw A Cement Truck",
-          "publishedAt": "2026-09-02T14:00:06Z",
-          "durationSeconds": 589,
-          "thumbnail": "https://img.youtube.com/vi/nWZDqKeoxy4/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "zurv_FRZrWo",
+          "title": "It's Halloween Night👻Halloween Monsters & It's Mysteries | The Mysterious Monsters | Dr. Binocs",
+          "publishedAt": "2026-10-27T12:31:19Z",
+          "durationSeconds": 2104,
+          "thumbnail": "https://img.youtube.com/vi/zurv_FRZrWo/hqdefault.jpg"
+        },
+        {
           "videoId": "11I6SH0HE9A",
           "title": "Why Are Bats Associated With Halloween? 🦇🎃 | Halloween Facts for Kids | The Dr. Binocs Show",
           "publishedAt": "2026-10-23T12:30:11Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-07-17T12:30:34Z",
           "durationSeconds": 341,
           "thumbnail": "https://img.youtube.com/vi/9YUIbyPR_ZQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "cvjaeQ7mV6M",
-          "title": "What If a Porcupine Pricks You? 🦔 Porcupine Quills Explained | Prickly Porcupine Facts | Dr. Binocs",
-          "publishedAt": "2026-07-14T12:30:28Z",
-          "durationSeconds": 365,
-          "thumbnail": "https://img.youtube.com/vi/cvjaeQ7mV6M/hqdefault.jpg"
         }
       ]
     },
