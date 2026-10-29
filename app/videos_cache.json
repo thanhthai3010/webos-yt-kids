@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T11:42:22.891Z",
+  "generatedAt": "2026-10-29T11:50:09.396Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -579,6 +579,13 @@
       "name": "Numberblocks",
       "videos": [
         {
+          "videoId": "Z40NJQhjqNk",
+          "title": "The Terrible Two's Spooky Adventure | Halloween Math for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-29T11:00:09Z",
+          "durationSeconds": 5106,
+          "thumbnail": "https://img.youtube.com/vi/Z40NJQhjqNk/hqdefault.jpg"
+        },
+        {
           "videoId": "4z0jCz7e_s4",
           "title": "Spooky Cartoons for a Halloween Night | Halloween Math for Kids Compilation | Numberblocks",
           "publishedAt": "2026-10-25T11:00:05Z",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-20T10:00:07Z",
           "durationSeconds": 109,
           "thumbnail": "https://img.youtube.com/vi/PnOGHU-AZU0/hqdefault.jpg"
-        },
-        {
-          "videoId": "Q98njNPacrg",
-          "title": "Meet Numberblock 41 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-19T10:00:31Z",
-          "durationSeconds": 96,
-          "thumbnail": "https://img.youtube.com/vi/Q98njNPacrg/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "QDU7Qr8-JUc",
+          "title": "How To Draw A Black Cat Folding Surprise",
+          "publishedAt": "2026-10-28T16:00:04Z",
+          "durationSeconds": 607,
+          "thumbnail": "https://img.youtube.com/vi/QDU7Qr8-JUc/hqdefault.jpg"
+        },
         {
           "videoId": "cQvh1XLB2Ws",
           "title": "How To Draw A Cute Ghost Holding Balloons",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-04T14:00:29Z",
           "durationSeconds": 398,
           "thumbnail": "https://img.youtube.com/vi/Y133m0xtC-I/hqdefault.jpg"
-        },
-        {
-          "videoId": "2CiVR8ZOwbM",
-          "title": "How To Draw The Frog Life Cycle",
-          "publishedAt": "2026-09-03T14:00:15Z",
-          "durationSeconds": 533,
-          "thumbnail": "https://img.youtube.com/vi/2CiVR8ZOwbM/hqdefault.jpg"
         }
       ]
     },
@@ -1681,7 +1681,7 @@
         },
         {
           "videoId": "TeWNdzHFgy4",
-          "title": "5 Scary Stories for Kids! 👻📚 | Funny & Spooky Read Aloud Compilation",
+          "title": "5 Not So Scary Stories for Kids! 👻📚 | Funny & Spooky Read Aloud Compilation",
           "publishedAt": "2026-10-08T11:00:31Z",
           "durationSeconds": 2133,
           "thumbnail": "https://img.youtube.com/vi/TeWNdzHFgy4/hqdefault.jpg"
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "ETG-mB29fvY",
+          "title": "Công thức bị đánh cắp | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-10-29T11:34:28Z",
+          "durationSeconds": 2851,
+          "thumbnail": "https://img.youtube.com/vi/ETG-mB29fvY/hqdefault.jpg"
+        },
+        {
           "videoId": "3BeYkAKzz4g",
           "title": "🥷 Chiếc bóng bí ẩn | Đội cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-10-26T09:00:37Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-08-18T12:45:08Z",
           "durationSeconds": 2432,
           "thumbnail": "https://img.youtube.com/vi/pFoOc-Kw8Qw/hqdefault.jpg"
-        },
-        {
-          "videoId": "tMUWwb367sA",
-          "title": "Dodo và 3 chú Labrador | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-08-14T09:30:45Z",
-          "durationSeconds": 349,
-          "thumbnail": "https://img.youtube.com/vi/tMUWwb367sA/hqdefault.jpg"
         }
       ]
     }
