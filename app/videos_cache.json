@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:42:38.402Z",
+  "generatedAt": "2026-10-31T11:16:14.346Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "svaGnbGxrs4",
+          "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids",
+          "publishedAt": "2026-10-30T12:00:37Z",
+          "durationSeconds": 1419,
+          "thumbnail": "https://img.youtube.com/vi/svaGnbGxrs4/hqdefault.jpg"
+        },
+        {
           "videoId": "OFLJN2J0-l8",
           "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids",
           "publishedAt": "2026-10-29T12:00:37Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-09-27T11:00:20Z",
           "durationSeconds": 2656,
           "thumbnail": "https://img.youtube.com/vi/7CghDWUJRI0/hqdefault.jpg"
-        },
-        {
-          "videoId": "z29spc041dM",
-          "title": "Wild World of Squirrels! 🐿️🌰 Animal Card Quest | Nat Geo Kids",
-          "publishedAt": "2026-09-26T15:00:39Z",
-          "durationSeconds": 167,
-          "thumbnail": "https://img.youtube.com/vi/z29spc041dM/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "wZFiRar-_sg",
+          "title": "The Great Halloween Circus | Halloween Math for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-30T12:00:36Z",
+          "durationSeconds": 3767,
+          "thumbnail": "https://img.youtube.com/vi/wZFiRar-_sg/hqdefault.jpg"
+        },
         {
           "videoId": "Z40NJQhjqNk",
           "title": "The Terrible Two's Spooky Adventure | Halloween Math for Kids Compilation | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-20T10:00:20Z",
           "durationSeconds": 4581,
           "thumbnail": "https://img.youtube.com/vi/eZL45lI3WJM/hqdefault.jpg"
-        },
-        {
-          "videoId": "PnOGHU-AZU0",
-          "title": "Meet Numberblock 43 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-20T10:00:07Z",
-          "durationSeconds": 109,
-          "thumbnail": "https://img.youtube.com/vi/PnOGHU-AZU0/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "Xlddubk54eM",
+          "title": "Alphablocks Not-So-Scary Halloween Party | Learn to Read and Spell for Kids | Alphablocks",
+          "publishedAt": "2026-10-30T12:00:07Z",
+          "durationSeconds": 4515,
+          "thumbnail": "https://img.youtube.com/vi/Xlddubk54eM/hqdefault.jpg"
+        },
+        {
           "videoId": "kbxt9dljNgc",
           "title": "Halloween Let's Spell Together | Halloween Cartoons - Learn to Read & Spell for Kids | Alphablocks",
           "publishedAt": "2026-10-25T12:00:37Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-08-23T11:00:13Z",
           "durationSeconds": 1765,
           "thumbnail": "https://img.youtube.com/vi/IpNgiP2lANk/hqdefault.jpg"
-        },
-        {
-          "videoId": "FPJJ2UPPJks",
-          "title": "Reading Day! - 2 Hours of Alphablocks | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-22T11:00:04Z",
-          "durationSeconds": 7360,
-          "thumbnail": "https://img.youtube.com/vi/FPJJ2UPPJks/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "ll8_wPmXtRE",
+          "title": "Are Souls Real? What Happens to Our Soul After Death? | Mystery of the Soul | Dr. Binocs Show",
+          "publishedAt": "2026-10-30T12:30:18Z",
+          "durationSeconds": 382,
+          "thumbnail": "https://img.youtube.com/vi/ll8_wPmXtRE/hqdefault.jpg"
+        },
+        {
           "videoId": "zurv_FRZrWo",
           "title": "It's Halloween Night👻Halloween Monsters & It's Mysteries | The Mysterious Monsters | Dr. Binocs",
           "publishedAt": "2026-10-27T12:31:19Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-07-21T12:36:56Z",
           "durationSeconds": 366,
           "thumbnail": "https://img.youtube.com/vi/Z3XN4GWANRM/hqdefault.jpg"
-        },
-        {
-          "videoId": "9YUIbyPR_ZQ",
-          "title": "Who Invented Donuts? | History of Doughnuts | Why Do Donuts Have Holes? | The Dr. Binocs Show",
-          "publishedAt": "2026-07-17T12:30:34Z",
-          "durationSeconds": 341,
-          "thumbnail": "https://img.youtube.com/vi/9YUIbyPR_ZQ/hqdefault.jpg"
         }
       ]
     },
