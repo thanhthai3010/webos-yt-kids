@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:16:14.346Z",
+  "generatedAt": "2026-11-01T12:05:51.658Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,27 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "lT3AZws4JvE",
+          "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀",
+          "publishedAt": "2026-10-31T19:00:09Z",
+          "durationSeconds": 99,
+          "thumbnail": "https://img.youtube.com/vi/lT3AZws4JvE/hqdefault.jpg"
+        },
+        {
+          "videoId": "PZ5ZJYuD1vw",
+          "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids",
+          "publishedAt": "2026-10-31T16:00:18Z",
+          "durationSeconds": 362,
+          "thumbnail": "https://img.youtube.com/vi/PZ5ZJYuD1vw/hqdefault.jpg"
+        },
+        {
+          "videoId": "QNzpynjWGcw",
+          "title": "Kids React to Slippery Slimy Creepy Crawly Animals! | Nat Geo Kids",
+          "publishedAt": "2026-10-31T14:00:31Z",
+          "durationSeconds": 73,
+          "thumbnail": "https://img.youtube.com/vi/QNzpynjWGcw/hqdefault.jpg"
+        },
+        {
           "videoId": "svaGnbGxrs4",
           "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids",
           "publishedAt": "2026-10-30T12:00:37Z",
@@ -550,27 +571,6 @@
           "publishedAt": "2026-10-01T11:00:05Z",
           "durationSeconds": 1271,
           "thumbnail": "https://img.youtube.com/vi/Xytw4wAWDMg/hqdefault.jpg"
-        },
-        {
-          "videoId": "nXjhakGU9dM",
-          "title": "Battle of the Birds: Eagles vs. Hawks vs. Owls | Whoa Factor | Nat Geo Kids",
-          "publishedAt": "2026-09-30T11:00:00Z",
-          "durationSeconds": 315,
-          "thumbnail": "https://img.youtube.com/vi/nXjhakGU9dM/hqdefault.jpg"
-        },
-        {
-          "videoId": "TXr69MV_flw",
-          "title": "Positive Energy Across the World!⚡🌎| Full Episode Compilation | Nat Geo Kids",
-          "publishedAt": "2026-09-28T11:00:06Z",
-          "durationSeconds": 7852,
-          "thumbnail": "https://img.youtube.com/vi/TXr69MV_flw/hqdefault.jpg"
-        },
-        {
-          "videoId": "7CghDWUJRI0",
-          "title": "Underwater Animal Adventures! 🌊 | America's National Parks Full Episode (4K) | Nat Geo Kids",
-          "publishedAt": "2026-09-27T11:00:20Z",
-          "durationSeconds": 2656,
-          "thumbnail": "https://img.youtube.com/vi/7CghDWUJRI0/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "f5N4dpyzXfk",
+          "title": "Cold Weather Counting for Kids | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-11-01T11:00:14Z",
+          "durationSeconds": 3491,
+          "thumbnail": "https://img.youtube.com/vi/f5N4dpyzXfk/hqdefault.jpg"
+        },
+        {
+          "videoId": "kRMZhfGCnlo",
+          "title": "The Octonaughty Halloween Takeover! | Halloween Math for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-10-31T12:00:28Z",
+          "durationSeconds": 5382,
+          "thumbnail": "https://img.youtube.com/vi/kRMZhfGCnlo/hqdefault.jpg"
+        },
         {
           "videoId": "wZFiRar-_sg",
           "title": "The Great Halloween Circus | Halloween Math for Kids Compilation | Numberblocks",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-09-21T11:00:18Z",
           "durationSeconds": 302,
           "thumbnail": "https://img.youtube.com/vi/ErCIgERRC28/hqdefault.jpg"
-        },
-        {
-          "videoId": "q10hMzUmBnM",
-          "title": "Meet Numberblock 44 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-21T10:00:03Z",
-          "durationSeconds": 147,
-          "thumbnail": "https://img.youtube.com/vi/q10hMzUmBnM/hqdefault.jpg"
-        },
-        {
-          "videoId": "eZL45lI3WJM",
-          "title": "Sorty and Other Numberblock Friends | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-09-20T10:00:20Z",
-          "durationSeconds": 4581,
-          "thumbnail": "https://img.youtube.com/vi/eZL45lI3WJM/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,20 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "6N-7VZueIFA",
+          "title": "Alphablock O's Big Adventure | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-11-01T12:00:00Z",
+          "durationSeconds": 1530,
+          "thumbnail": "https://img.youtube.com/vi/6N-7VZueIFA/hqdefault.jpg"
+        },
+        {
+          "videoId": "0rm9UIGyjJU",
+          "title": "Boo - An Alphablocks Halloween Special | Halloween Cartoons - Learn to Read and Spell | Alphablocks",
+          "publishedAt": "2026-10-31T12:00:10Z",
+          "durationSeconds": 585,
+          "thumbnail": "https://img.youtube.com/vi/0rm9UIGyjJU/hqdefault.jpg"
+        },
+        {
           "videoId": "Xlddubk54eM",
           "title": "Alphablocks Not-So-Scary Halloween Party | Learn to Read and Spell for Kids | Alphablocks",
           "publishedAt": "2026-10-30T12:00:07Z",
@@ -2285,20 +2299,6 @@
           "publishedAt": "2026-08-29T11:00:38Z",
           "durationSeconds": 1815,
           "thumbnail": "https://img.youtube.com/vi/lVr24d7S9uQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "v1ZomIEGw1A",
-          "title": "Tricky Words to Learn Before School | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-28T11:00:33Z",
-          "durationSeconds": 3371,
-          "thumbnail": "https://img.youtube.com/vi/v1ZomIEGw1A/hqdefault.jpg"
-        },
-        {
-          "videoId": "IpNgiP2lANk",
-          "title": "Alphablocks - Level 2 Phonics Next Steps | Learn to Read and Spell for Kids Compilation",
-          "publishedAt": "2026-08-23T11:00:13Z",
-          "durationSeconds": 1765,
-          "thumbnail": "https://img.youtube.com/vi/IpNgiP2lANk/hqdefault.jpg"
         }
       ]
     },
