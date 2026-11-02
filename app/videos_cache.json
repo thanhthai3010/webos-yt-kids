@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:05:51.658Z",
+  "generatedAt": "2026-11-02T13:54:39.715Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "DpIfdt0ge58",
+          "title": "Relax with Animals Across the USA | America's National Parks Compilation | Nat Geo Kids",
+          "publishedAt": "2026-11-02T13:00:34Z",
+          "durationSeconds": 5300,
+          "thumbnail": "https://img.youtube.com/vi/DpIfdt0ge58/hqdefault.jpg"
+        },
+        {
+          "videoId": "5rYfZXlqLvM",
+          "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-11-01T13:00:01Z",
+          "durationSeconds": 2498,
+          "thumbnail": "https://img.youtube.com/vi/5rYfZXlqLvM/hqdefault.jpg"
+        },
+        {
           "videoId": "lT3AZws4JvE",
           "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀",
           "publishedAt": "2026-10-31T19:00:09Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-10-03T15:00:39Z",
           "durationSeconds": 152,
           "thumbnail": "https://img.youtube.com/vi/9hADH1YQn08/hqdefault.jpg"
-        },
-        {
-          "videoId": "Xt90Af7_0i8",
-          "title": "Persephone's Trip to the Underworld Explained | Greeking Out Podcast | S5 E1 FULL EP | Nat Geo Kids",
-          "publishedAt": "2026-10-02T11:00:07Z",
-          "durationSeconds": 1360,
-          "thumbnail": "https://img.youtube.com/vi/Xt90Af7_0i8/hqdefault.jpg"
-        },
-        {
-          "videoId": "Xytw4wAWDMg",
-          "title": "Super Animals Full Episode | Jaguar Jungle Superpowers | Nat Geo Kids",
-          "publishedAt": "2026-10-01T11:00:05Z",
-          "durationSeconds": 1271,
-          "thumbnail": "https://img.youtube.com/vi/Xytw4wAWDMg/hqdefault.jpg"
         }
       ]
     },
