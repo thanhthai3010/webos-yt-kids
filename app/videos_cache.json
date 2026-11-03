@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:54:39.715Z",
+  "generatedAt": "2026-11-03T13:03:48.731Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -364,7 +364,7 @@
       "videos": [
         {
           "videoId": "DpIfdt0ge58",
-          "title": "Relax with Animals Across the USA | America's National Parks Compilation | Nat Geo Kids",
+          "title": "1.5 Hours of Relaxing with Animals Across America's National Parks | Compilation | Nat Geo Kids",
           "publishedAt": "2026-11-02T13:00:34Z",
           "durationSeconds": 5300,
           "thumbnail": "https://img.youtube.com/vi/DpIfdt0ge58/hqdefault.jpg"
@@ -378,7 +378,7 @@
         },
         {
           "videoId": "lT3AZws4JvE",
-          "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀",
+          "title": "AD | Prepare for lift-off with the National Geographic Light-Up Air Rockets 🚀 | Nat Geo Kids",
           "publishedAt": "2026-10-31T19:00:09Z",
           "durationSeconds": 99,
           "thumbnail": "https://img.youtube.com/vi/lT3AZws4JvE/hqdefault.jpg"
@@ -483,7 +483,7 @@
         },
         {
           "videoId": "I3abQzLOv2A",
-          "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids",
+          "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E3 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-10-16T11:00:26Z",
           "durationSeconds": 1475,
           "thumbnail": "https://img.youtube.com/vi/I3abQzLOv2A/hqdefault.jpg"
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "fc3IIwGIr2Y",
+          "title": "How To Draw Cookie Monster Celebrating His Birthday",
+          "publishedAt": "2026-11-02T17:00:25Z",
+          "durationSeconds": 443,
+          "thumbnail": "https://img.youtube.com/vi/fc3IIwGIr2Y/hqdefault.jpg"
+        },
+        {
           "videoId": "IQB-_QkWhng",
           "title": "How to Draw a Cute Witch and Her Cauldron",
           "publishedAt": "2026-10-29T16:00:34Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-08T14:00:18Z",
           "durationSeconds": 521,
           "thumbnail": "https://img.youtube.com/vi/1dsLJNDn45I/hqdefault.jpg"
-        },
-        {
-          "videoId": "LNAH9vztxmg",
-          "title": "How To Draw A Forklift",
-          "publishedAt": "2026-09-07T14:00:35Z",
-          "durationSeconds": 490,
-          "thumbnail": "https://img.youtube.com/vi/LNAH9vztxmg/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "6s99xHikMPo",
+          "title": "Is Puddle Water Safe to Drink? | What Happens if You Drink Water From a Puddle? | Dr. Binocs Show",
+          "publishedAt": "2026-11-03T12:30:13Z",
+          "durationSeconds": 356,
+          "thumbnail": "https://img.youtube.com/vi/6s99xHikMPo/hqdefault.jpg"
+        },
+        {
           "videoId": "ll8_wPmXtRE",
           "title": "Are Souls Real? What Happens to Our Soul After Death? | Mystery of the Soul | Dr. Binocs Show",
           "publishedAt": "2026-10-30T12:30:18Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-07-24T12:30:06Z",
           "durationSeconds": 343,
           "thumbnail": "https://img.youtube.com/vi/oSZG9JHdngM/hqdefault.jpg"
-        },
-        {
-          "videoId": "Z3XN4GWANRM",
-          "title": "First Aid for Finger Cuts | What Happens If You Lose a Finger? | Dr. Binocs Show",
-          "publishedAt": "2026-07-21T12:36:56Z",
-          "durationSeconds": 366,
-          "thumbnail": "https://img.youtube.com/vi/Z3XN4GWANRM/hqdefault.jpg"
         }
       ]
     },
@@ -2954,6 +2954,20 @@
       "channelId": "UC5_mjTuvrZpDX34CZvqfQ9Q",
       "name": "Sheriff Labrador Vietnam",
       "videos": [
+        {
+          "videoId": "35RRfbHMiCQ",
+          "title": "🐦 Đường về nhà của Beanie | Đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-11-03T12:12:45Z",
+          "durationSeconds": 966,
+          "thumbnail": "https://img.youtube.com/vi/35RRfbHMiCQ/hqdefault.jpg"
+        },
+        {
+          "videoId": "RYvoo4HeAKc",
+          "title": "⏰ Tạm biệt nhé, buổi sáng hỗn loạn | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-11-03T09:00:08Z",
+          "durationSeconds": 742,
+          "thumbnail": "https://img.youtube.com/vi/RYvoo4HeAKc/hqdefault.jpg"
+        },
         {
           "videoId": "ETG-mB29fvY",
           "title": "Công thức bị đánh cắp | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
@@ -3149,20 +3163,6 @@
           "publishedAt": "2026-08-21T11:47:40Z",
           "durationSeconds": 600,
           "thumbnail": "https://img.youtube.com/vi/yruZYC24yeE/hqdefault.jpg"
-        },
-        {
-          "videoId": "PgzFOLZAWDQ",
-          "title": "Cầu trượt tóc phồng | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-08-20T09:00:38Z",
-          "durationSeconds": 633,
-          "thumbnail": "https://img.youtube.com/vi/PgzFOLZAWDQ/hqdefault.jpg"
-        },
-        {
-          "videoId": "pFoOc-Kw8Qw",
-          "title": "🚙 Điểm đến tiếp theo! Làng Xoài! | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-08-18T12:45:08Z",
-          "durationSeconds": 2432,
-          "thumbnail": "https://img.youtube.com/vi/pFoOc-Kw8Qw/hqdefault.jpg"
         }
       ]
     }
