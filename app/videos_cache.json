@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:03:48.731Z",
+  "generatedAt": "2026-11-04T13:18:57.431Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "Mbka697fEUc",
+          "title": "How To Draw A Cute Acorn Camper",
+          "publishedAt": "2026-11-03T17:00:07Z",
+          "durationSeconds": 369,
+          "thumbnail": "https://img.youtube.com/vi/Mbka697fEUc/hqdefault.jpg"
+        },
+        {
           "videoId": "fc3IIwGIr2Y",
           "title": "How To Draw Cookie Monster Celebrating His Birthday",
           "publishedAt": "2026-11-02T17:00:25Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-09T14:00:17Z",
           "durationSeconds": 555,
           "thumbnail": "https://img.youtube.com/vi/p1lqjlmwfL4/hqdefault.jpg"
-        },
-        {
-          "videoId": "1dsLJNDn45I",
-          "title": "How To Draw School Lunch",
-          "publishedAt": "2026-09-08T14:00:18Z",
-          "durationSeconds": 521,
-          "thumbnail": "https://img.youtube.com/vi/1dsLJNDn45I/hqdefault.jpg"
         }
       ]
     },
@@ -1659,6 +1659,13 @@
       "name": "StoryTime at Awnie's House",
       "videos": [
         {
+          "videoId": "aq1pGcTlzRs",
+          "title": "5 FALL STORIES FOR KIDS 🍂 | 23-Minute Read Aloud Compilation | Awnie’s House",
+          "publishedAt": "2026-11-04T13:00:24Z",
+          "durationSeconds": 1420,
+          "thumbnail": "https://img.youtube.com/vi/aq1pGcTlzRs/hqdefault.jpg"
+        },
+        {
           "videoId": "GTEOtg0Gea0",
           "title": "5 Thanksgiving Stories for Kids 🦃 | 30-Minute Read Aloud Compilation | Awnie’s House",
           "publishedAt": "2026-10-29T12:00:13Z",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2026-03-26T12:00:03Z",
           "durationSeconds": 427,
           "thumbnail": "https://img.youtube.com/vi/02qBQKtqzc4/hqdefault.jpg"
-        },
-        {
-          "videoId": "6PQbidou6w4",
-          "title": "TTHE GREAT EGGSCAPE 🥚 READ ALOUD | A Funny Easter Story for Kids!",
-          "publishedAt": "2026-03-19T12:00:12Z",
-          "durationSeconds": 589,
-          "thumbnail": "https://img.youtube.com/vi/6PQbidou6w4/hqdefault.jpg"
         }
       ]
     },
