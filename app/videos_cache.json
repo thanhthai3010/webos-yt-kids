@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:18:57.431Z",
+  "generatedAt": "2026-11-05T13:31:58.382Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "sZuusYKOcVY",
+          "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-11-05T13:00:03Z",
+          "durationSeconds": 2644,
+          "thumbnail": "https://img.youtube.com/vi/sZuusYKOcVY/hqdefault.jpg"
+        },
+        {
           "videoId": "DpIfdt0ge58",
           "title": "1.5 Hours of Relaxing with Animals Across America's National Parks | Compilation | Nat Geo Kids",
           "publishedAt": "2026-11-02T13:00:34Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-04T11:00:07Z",
           "durationSeconds": 2513,
           "thumbnail": "https://img.youtube.com/vi/aPKGR4MQlXw/hqdefault.jpg"
-        },
-        {
-          "videoId": "9hADH1YQn08",
-          "title": "Teaching Baby Meerkats at Survival School! 🎒 Animal Card Quest | Nat Geo Kids",
-          "publishedAt": "2026-10-03T15:00:39Z",
-          "durationSeconds": 152,
-          "thumbnail": "https://img.youtube.com/vi/9hADH1YQn08/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "gD70VpIrEIk",
+          "title": "Fireworks Maths and More! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-11-05T12:00:34Z",
+          "durationSeconds": 3970,
+          "thumbnail": "https://img.youtube.com/vi/gD70VpIrEIk/hqdefault.jpg"
+        },
         {
           "videoId": "f5N4dpyzXfk",
           "title": "Cold Weather Counting for Kids | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-22T09:00:28Z",
           "durationSeconds": 117,
           "thumbnail": "https://img.youtube.com/vi/DfgqusYV0b0/hqdefault.jpg"
-        },
-        {
-          "videoId": "ErCIgERRC28",
-          "title": "The Rise of Infinaughty - PART 1: The Day the Blocks Turned Pink | Numberblocks (S9 E1)",
-          "publishedAt": "2026-09-21T11:00:18Z",
-          "durationSeconds": 302,
-          "thumbnail": "https://img.youtube.com/vi/ErCIgERRC28/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "9C6nMo5FmpM",
+          "title": "How To Draw A Cute Fall Leaf With Rain Boots",
+          "publishedAt": "2026-11-04T18:38:20Z",
+          "durationSeconds": 514,
+          "thumbnail": "https://img.youtube.com/vi/9C6nMo5FmpM/hqdefault.jpg"
+        },
         {
           "videoId": "Mbka697fEUc",
           "title": "How To Draw A Cute Acorn Camper",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-10T14:00:27Z",
           "durationSeconds": 431,
           "thumbnail": "https://img.youtube.com/vi/p-dHw804GIo/hqdefault.jpg"
-        },
-        {
-          "videoId": "p1lqjlmwfL4",
-          "title": "How To Draw A Starship From SpaceX",
-          "publishedAt": "2026-09-09T14:00:17Z",
-          "durationSeconds": 555,
-          "thumbnail": "https://img.youtube.com/vi/p1lqjlmwfL4/hqdefault.jpg"
         }
       ]
     },
@@ -1227,6 +1227,13 @@
       "name": "Vooks - Stories for Kids",
       "videos": [
         {
+          "videoId": "P0j42-rY5mA",
+          "title": "Koko the Kangaroo and the Big-Hearted Belongings! | Read Aloud Kids Book | Vooks Narrated Storybooks",
+          "publishedAt": "2026-11-05T13:00:20Z",
+          "durationSeconds": 365,
+          "thumbnail": "https://img.youtube.com/vi/P0j42-rY5mA/hqdefault.jpg"
+        },
+        {
           "videoId": "_kxXvUni1tE",
           "title": "Leroy the Lion and the Incredible Influence! | Read Aloud Kids Book | Vooks Narrated Storybooks",
           "publishedAt": "2026-10-09T12:00:38Z",
@@ -1428,13 +1435,6 @@
           "publishedAt": "2025-03-29T13:56:02Z",
           "durationSeconds": 265,
           "thumbnail": "https://img.youtube.com/vi/gMZvxbKIV3k/hqdefault.jpg"
-        },
-        {
-          "videoId": "BSGtEUrw7mY",
-          "title": "Friendship Stories for Kids! | Read Aloud Kids Books | Vooks Narrated Storybooks",
-          "publishedAt": "2025-03-05T13:00:27Z",
-          "durationSeconds": 10438,
-          "thumbnail": "https://img.youtube.com/vi/BSGtEUrw7mY/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "vGxfo3eVJNE",
+          "title": "🦖 Công viên khủng long thần kỳ | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-11-04T13:59:02Z",
+          "durationSeconds": 2303,
+          "thumbnail": "https://img.youtube.com/vi/vGxfo3eVJNE/hqdefault.jpg"
+        },
+        {
           "videoId": "35RRfbHMiCQ",
           "title": "🐦 Đường về nhà của Beanie | Đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-11-03T12:12:45Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-08-25T11:39:36Z",
           "durationSeconds": 3370,
           "thumbnail": "https://img.youtube.com/vi/AmgjjNOwAZ4/hqdefault.jpg"
-        },
-        {
-          "videoId": "yruZYC24yeE",
-          "title": "⚽ Linh Dương bé dịu dàng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-08-21T11:47:40Z",
-          "durationSeconds": 600,
-          "thumbnail": "https://img.youtube.com/vi/yruZYC24yeE/hqdefault.jpg"
         }
       ]
     }
