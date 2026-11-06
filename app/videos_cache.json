@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:31:58.382Z",
+  "generatedAt": "2026-11-06T13:17:21.516Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "7J1VXQ--ElA",
+          "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids",
+          "publishedAt": "2026-11-06T13:00:39Z",
+          "durationSeconds": 1137,
+          "thumbnail": "https://img.youtube.com/vi/7J1VXQ--ElA/hqdefault.jpg"
+        },
+        {
           "videoId": "sZuusYKOcVY",
           "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids",
           "publishedAt": "2026-11-05T13:00:03Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-05T11:00:27Z",
           "durationSeconds": 7935,
           "thumbnail": "https://img.youtube.com/vi/HwSarE09HqE/hqdefault.jpg"
-        },
-        {
-          "videoId": "aPKGR4MQlXw",
-          "title": "Space Rockets and Sneakers 🚀👟 | Made in a Day Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-10-04T11:00:07Z",
-          "durationSeconds": 2513,
-          "thumbnail": "https://img.youtube.com/vi/aPKGR4MQlXw/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "L58JFJ_r0O8",
+          "title": "Patterns to Learn this Autumn | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-11-06T12:00:05Z",
+          "durationSeconds": 4835,
+          "thumbnail": "https://img.youtube.com/vi/L58JFJ_r0O8/hqdefault.jpg"
+        },
         {
           "videoId": "gD70VpIrEIk",
           "title": "Fireworks Maths and More! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-22T11:00:16Z",
           "durationSeconds": 302,
           "thumbnail": "https://img.youtube.com/vi/J5CNmHRTj4c/hqdefault.jpg"
-        },
-        {
-          "videoId": "DfgqusYV0b0",
-          "title": "Meet Numberblock 46 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-22T09:00:28Z",
-          "durationSeconds": 117,
-          "thumbnail": "https://img.youtube.com/vi/DfgqusYV0b0/hqdefault.jpg"
         }
       ]
     },
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "tsH0u_Rrv7k",
+          "title": "May's Best Bits 🐰 | Puffin Rock",
+          "publishedAt": "2026-11-06T12:00:08Z",
+          "durationSeconds": 180,
+          "thumbnail": "https://img.youtube.com/vi/tsH0u_Rrv7k/hqdefault.jpg"
+        },
+        {
           "videoId": "qEWiL-Jzqu8",
           "title": "Puffin Rock Movie Sing Along Compilation 🎶 | Puffin Rock And The New Friends 💛",
           "publishedAt": "2026-10-29T12:00:24Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2026-03-03T12:30:54Z",
           "durationSeconds": 63,
           "thumbnail": "https://img.youtube.com/vi/ffbJE1Cs9j8/hqdefault.jpg"
-        },
-        {
-          "videoId": "q78i-VNMsBI",
-          "title": "Morning Adventure on Puffin Rock",
-          "publishedAt": "2026-03-02T10:30:36Z",
-          "durationSeconds": 67,
-          "thumbnail": "https://img.youtube.com/vi/q78i-VNMsBI/hqdefault.jpg"
         }
       ]
     },
@@ -1658,6 +1658,13 @@
       "channelId": "UCbqmj1hzxuAXsjk08k-KP6w",
       "name": "StoryTime at Awnie's House",
       "videos": [
+        {
+          "videoId": "CotOMn-GUHE",
+          "title": "THE HUMBLE PIE 🥧 | Finding Your Voice | Kids Read Aloud with Awnie",
+          "publishedAt": "2026-11-06T13:00:22Z",
+          "durationSeconds": 727,
+          "thumbnail": "https://img.youtube.com/vi/CotOMn-GUHE/hqdefault.jpg"
+        },
         {
           "videoId": "aq1pGcTlzRs",
           "title": "5 FALL STORIES FOR KIDS 🍂 | 23-Minute Read Aloud Compilation | Awnie’s House",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2026-04-02T12:01:08Z",
           "durationSeconds": 252,
           "thumbnail": "https://img.youtube.com/vi/juFNxeYDA3c/hqdefault.jpg"
-        },
-        {
-          "videoId": "02qBQKtqzc4",
-          "title": "👉 THE BERENSTAIN BEARS and the EASTER STORY 🤍 Read Aloud for Kids | True Meaning of Easter",
-          "publishedAt": "2026-03-26T12:00:03Z",
-          "durationSeconds": 427,
-          "thumbnail": "https://img.youtube.com/vi/02qBQKtqzc4/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "KzuTwFXGnwY",
+          "title": "The Best Bonfire Night Reading | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-11-06T12:00:04Z",
+          "durationSeconds": 3675,
+          "thumbnail": "https://img.youtube.com/vi/KzuTwFXGnwY/hqdefault.jpg"
+        },
+        {
           "videoId": "6N-7VZueIFA",
           "title": "Alphablock O's Big Adventure | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-11-01T12:00:00Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-08-30T11:00:37Z",
           "durationSeconds": 1634,
           "thumbnail": "https://img.youtube.com/vi/Bee-BDdivVY/hqdefault.jpg"
-        },
-        {
-          "videoId": "lVr24d7S9uQ",
-          "title": "Back to School Bedtime Stories | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-08-29T11:00:38Z",
-          "durationSeconds": 1815,
-          "thumbnail": "https://img.youtube.com/vi/lVr24d7S9uQ/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "voPoWkJ2y3k",
+          "title": "Shooting Stars Explained | What Causes Leonid's Meteor Shower? | Comet 55P/Tempel-Tuttle | Dr Binocs",
+          "publishedAt": "2026-11-06T12:27:51Z",
+          "durationSeconds": 383,
+          "thumbnail": "https://img.youtube.com/vi/voPoWkJ2y3k/hqdefault.jpg"
+        },
+        {
           "videoId": "6s99xHikMPo",
           "title": "Is Puddle Water Safe to Drink? | What Happens if You Drink Water From a Puddle? | Dr. Binocs Show",
           "publishedAt": "2026-11-03T12:30:13Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-07-28T12:30:02Z",
           "durationSeconds": 2915,
           "thumbnail": "https://img.youtube.com/vi/nYsa91gisBI/hqdefault.jpg"
-        },
-        {
-          "videoId": "oSZG9JHdngM",
-          "title": "How to Survive CHOKING? | What to Do if You're Alone and Choking? | Self-Heimlich Maneuver Tips",
-          "publishedAt": "2026-07-24T12:30:06Z",
-          "durationSeconds": 343,
-          "thumbnail": "https://img.youtube.com/vi/oSZG9JHdngM/hqdefault.jpg"
         }
       ]
     },
