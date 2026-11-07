@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:17:21.516Z",
+  "generatedAt": "2026-11-07T11:57:16.460Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "F9aEoQeLkD0",
+          "title": "AD | Ready, steady, glow! 🏁 | Nat Geo Kids",
+          "publishedAt": "2026-11-06T20:00:22Z",
+          "durationSeconds": 147,
+          "thumbnail": "https://img.youtube.com/vi/F9aEoQeLkD0/hqdefault.jpg"
+        },
+        {
           "videoId": "7J1VXQ--ElA",
           "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-11-06T13:00:39Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-07T11:00:14Z",
           "durationSeconds": 282,
           "thumbnail": "https://img.youtube.com/vi/YBGPMztHR4Y/hqdefault.jpg"
-        },
-        {
-          "videoId": "HwSarE09HqE",
-          "title": "2 Hours of America's Funniest Videos: Animal Edition | Full Episode Compilation | Nat Geo Kids",
-          "publishedAt": "2026-10-05T11:00:27Z",
-          "durationSeconds": 7935,
-          "thumbnail": "https://img.youtube.com/vi/HwSarE09HqE/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,20 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "J_gp1OWzelY",
+          "title": "First Grade Math | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-11-07T11:00:31Z",
+          "durationSeconds": 4536,
+          "thumbnail": "https://img.youtube.com/vi/J_gp1OWzelY/hqdefault.jpg"
+        },
+        {
+          "videoId": "JMbRCt8MAgQ",
+          "title": "What Makes A Shape, A Shape? | 2D Shapes Song for Kids | Fun Learning | Numberblocks",
+          "publishedAt": "2026-11-07T07:00:11Z",
+          "durationSeconds": 187,
+          "thumbnail": "https://img.youtube.com/vi/JMbRCt8MAgQ/hqdefault.jpg"
+        },
         {
           "videoId": "L58JFJ_r0O8",
           "title": "Patterns to Learn this Autumn | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -773,20 +787,6 @@
           "publishedAt": "2026-09-23T11:00:18Z",
           "durationSeconds": 302,
           "thumbnail": "https://img.youtube.com/vi/rQva7iOnkkM/hqdefault.jpg"
-        },
-        {
-          "videoId": "_tICzC_RLo8",
-          "title": "Meet Numberblock 47 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-23T09:00:13Z",
-          "durationSeconds": 138,
-          "thumbnail": "https://img.youtube.com/vi/_tICzC_RLo8/hqdefault.jpg"
-        },
-        {
-          "videoId": "J5CNmHRTj4c",
-          "title": "The Rise of Infinaughty - PART 2: An Even Split | Numberblocks (S9 E2)",
-          "publishedAt": "2026-09-22T11:00:16Z",
-          "durationSeconds": 302,
-          "thumbnail": "https://img.youtube.com/vi/J5CNmHRTj4c/hqdefault.jpg"
         }
       ]
     },
