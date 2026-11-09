@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:15:40.305Z",
+  "generatedAt": "2026-11-09T14:26:02.854Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "EN8EOvgAvyM",
+          "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids",
+          "publishedAt": "2026-11-09T13:00:16Z",
+          "durationSeconds": 5110,
+          "thumbnail": "https://img.youtube.com/vi/EN8EOvgAvyM/hqdefault.jpg"
+        },
+        {
+          "videoId": "nKni5xQ0DFw",
+          "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids",
+          "publishedAt": "2026-11-08T13:00:22Z",
+          "durationSeconds": 2653,
+          "thumbnail": "https://img.youtube.com/vi/nKni5xQ0DFw/hqdefault.jpg"
+        },
+        {
           "videoId": "ziUQS2I_Lco",
           "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids",
           "publishedAt": "2026-11-07T16:00:03Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-10-10T15:00:35Z",
           "durationSeconds": 272,
           "thumbnail": "https://img.youtube.com/vi/iAIpKDObuWg/hqdefault.jpg"
-        },
-        {
-          "videoId": "w4n93HV5i-Q",
-          "title": "The One Where a Marble Statue Comes to Life | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids",
-          "publishedAt": "2026-10-09T11:00:26Z",
-          "durationSeconds": 926,
-          "thumbnail": "https://img.youtube.com/vi/w4n93HV5i-Q/hqdefault.jpg"
-        },
-        {
-          "videoId": "Df49TC9NONk",
-          "title": "Weird But True Full Episode | The Science Behind Your Senses! | Nat Geo Kids",
-          "publishedAt": "2026-10-08T11:00:30Z",
-          "durationSeconds": 2653,
-          "thumbnail": "https://img.youtube.com/vi/Df49TC9NONk/hqdefault.jpg"
         }
       ]
     },
