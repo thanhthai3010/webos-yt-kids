@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T13:48:52.434Z",
+  "generatedAt": "2026-11-11T12:59:50.411Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -795,6 +795,13 @@
       "name": "Art for Kids Hub",
       "videos": [
         {
+          "videoId": "5jYyqfDI8Fo",
+          "title": "How To Draw A Pumpkin Pie Sailboat",
+          "publishedAt": "2026-11-10T16:30:24Z",
+          "durationSeconds": 615,
+          "thumbnail": "https://img.youtube.com/vi/5jYyqfDI8Fo/hqdefault.jpg"
+        },
+        {
           "videoId": "Mux6Lzw0QC4",
           "title": "How To Draw Cosmo The Space Mouse",
           "publishedAt": "2026-11-09T16:30:39Z",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-16T15:14:21Z",
           "durationSeconds": 378,
           "thumbnail": "https://img.youtube.com/vi/NWngZs2qAD8/hqdefault.jpg"
-        },
-        {
-          "videoId": "RdkYiMTOW1U",
-          "title": "How To Draw A Traffic Cone - Drawing With Shapes",
-          "publishedAt": "2026-09-14T14:10:05Z",
-          "durationSeconds": 702,
-          "thumbnail": "https://img.youtube.com/vi/RdkYiMTOW1U/hqdefault.jpg"
         }
       ]
     },
@@ -2761,7 +2761,7 @@
         },
         {
           "videoId": "ll8_wPmXtRE",
-          "title": "Are Souls Real? What Happens to Our Soul After Death? | Mystery of the Soul | Dr. Binocs Show",
+          "title": "Are Souls Real? | Science of Souls | Mystery of the Soul | Dr. Binocs Show",
           "publishedAt": "2026-10-30T12:30:18Z",
           "durationSeconds": 382,
           "thumbnail": "https://img.youtube.com/vi/ll8_wPmXtRE/hqdefault.jpg"
