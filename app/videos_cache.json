@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:59:50.411Z",
+  "generatedAt": "2026-11-12T14:01:39.230Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "RtY1z8-qGYE",
+          "title": "Strange Noses and Silly Animal Names | You're Called What?! Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-11-12T13:00:38Z",
+          "durationSeconds": 1470,
+          "thumbnail": "https://img.youtube.com/vi/RtY1z8-qGYE/hqdefault.jpg"
+        },
+        {
           "videoId": "EN8EOvgAvyM",
           "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids",
           "publishedAt": "2026-11-09T13:00:16Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-11T11:00:39Z",
           "durationSeconds": 2468,
           "thumbnail": "https://img.youtube.com/vi/wEz-NB7CRp0/hqdefault.jpg"
-        },
-        {
-          "videoId": "iAIpKDObuWg",
-          "title": "Halloween Animals in REAL Life! 🎃 Learn some Fun Facts about Bats, Spiders, and Owls! | Nat Geo Kids",
-          "publishedAt": "2026-10-10T15:00:35Z",
-          "durationSeconds": 272,
-          "thumbnail": "https://img.youtube.com/vi/iAIpKDObuWg/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "i8HP2Btj7kk",
+          "title": "Super Duper Counting Games with the Numberblocks | Learn to Count for Kids | Numberblocks",
+          "publishedAt": "2026-11-12T11:00:35Z",
+          "durationSeconds": 3222,
+          "thumbnail": "https://img.youtube.com/vi/i8HP2Btj7kk/hqdefault.jpg"
+        },
         {
           "videoId": "cNJK7uxJaU0",
           "title": "Who Sent the Space Signal? | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-25T10:00:38Z",
           "durationSeconds": 403,
           "thumbnail": "https://img.youtube.com/vi/asNWTdlBG14/hqdefault.jpg"
-        },
-        {
-          "videoId": "yF3VniaFxNU",
-          "title": "The Rise of Infinaughty - PART 4: The Rectangular Wreck | Numberblocks (S9 E4)",
-          "publishedAt": "2026-09-24T11:00:21Z",
-          "durationSeconds": 302,
-          "thumbnail": "https://img.youtube.com/vi/yF3VniaFxNU/hqdefault.jpg"
         }
       ]
     },
@@ -1659,6 +1659,13 @@
       "name": "StoryTime at Awnie's House",
       "videos": [
         {
+          "videoId": "vxXu4LSxfIk",
+          "title": "Kids Book Read Aloud:",
+          "publishedAt": "2026-11-12T13:00:17Z",
+          "durationSeconds": 373,
+          "thumbnail": "https://img.youtube.com/vi/vxXu4LSxfIk/hqdefault.jpg"
+        },
+        {
           "videoId": "CotOMn-GUHE",
           "title": "THE HUMBLE PIE 🥧 | Finding Your Voice | Kids Read Aloud with Awnie",
           "publishedAt": "2026-11-06T13:00:22Z",
@@ -1860,13 +1867,6 @@
           "publishedAt": "2026-04-09T12:01:40Z",
           "durationSeconds": 721,
           "thumbnail": "https://img.youtube.com/vi/u03-7FA1eWk/hqdefault.jpg"
-        },
-        {
-          "videoId": "juFNxeYDA3c",
-          "title": "IF YOU GIVE A MOOSE A MUFFIN 🫎 | Kids Book Read Aloud | StoryTime with Awnie",
-          "publishedAt": "2026-04-02T12:01:08Z",
-          "durationSeconds": 252,
-          "thumbnail": "https://img.youtube.com/vi/juFNxeYDA3c/hqdefault.jpg"
         }
       ]
     },
