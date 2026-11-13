@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:01:39.230Z",
+  "generatedAt": "2026-11-13T13:28:14.989Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,8 +363,15 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "EQpTtkRBInA",
+          "title": "Baby Hermes Pranks Apollo 🐮 | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids",
+          "publishedAt": "2026-11-13T13:00:19Z",
+          "durationSeconds": 1182,
+          "thumbnail": "https://img.youtube.com/vi/EQpTtkRBInA/hqdefault.jpg"
+        },
+        {
           "videoId": "RtY1z8-qGYE",
-          "title": "Strange Noses and Silly Animal Names | You're Called What?! Full Episode | Nat Geo Kids",
+          "title": "Strange Noses and Silly Animal Names | You're Called What?! | Nat Geo Kids",
           "publishedAt": "2026-11-12T13:00:38Z",
           "durationSeconds": 1470,
           "thumbnail": "https://img.youtube.com/vi/RtY1z8-qGYE/hqdefault.jpg"
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-12T11:00:31Z",
           "durationSeconds": 5491,
           "thumbnail": "https://img.youtube.com/vi/G59TqTjtuhg/hqdefault.jpg"
-        },
-        {
-          "videoId": "wEz-NB7CRp0",
-          "title": "We Built a HUMAN-SIZED Wasps Nest | Live Like an Animal Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-10-11T11:00:39Z",
-          "durationSeconds": 2468,
-          "thumbnail": "https://img.youtube.com/vi/wEz-NB7CRp0/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "hw7DpKZdDBg",
+          "title": "Space Adventures with Numberblock One | Learn to Count for Kids | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-11-13T11:00:34Z",
+          "durationSeconds": 3759,
+          "thumbnail": "https://img.youtube.com/vi/hw7DpKZdDBg/hqdefault.jpg"
+        },
         {
           "videoId": "i8HP2Btj7kk",
           "title": "Super Duper Counting Games with the Numberblocks | Learn to Count for Kids | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-25T11:00:28Z",
           "durationSeconds": 310,
           "thumbnail": "https://img.youtube.com/vi/5fD79cjS9XA/hqdefault.jpg"
-        },
-        {
-          "videoId": "asNWTdlBG14",
-          "title": "I’m a Top Shopkeeper | Learn to Count | Numberblocks",
-          "publishedAt": "2026-09-25T10:00:38Z",
-          "durationSeconds": 403,
-          "thumbnail": "https://img.youtube.com/vi/asNWTdlBG14/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "uRqUixWz7R0",
+          "title": "How To Draw Flufferson Squirrel Mailman",
+          "publishedAt": "2026-11-12T17:21:50Z",
+          "durationSeconds": 509,
+          "thumbnail": "https://img.youtube.com/vi/uRqUixWz7R0/hqdefault.jpg"
+        },
         {
           "videoId": "5jYyqfDI8Fo",
           "title": "How To Draw A Pumpkin Pie Sailboat",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-17T14:00:29Z",
           "durationSeconds": 437,
           "thumbnail": "https://img.youtube.com/vi/Ya6MJaOt9oI/hqdefault.jpg"
-        },
-        {
-          "videoId": "NWngZs2qAD8",
-          "title": "How To Draw A Claw Machine",
-          "publishedAt": "2026-09-16T15:14:21Z",
-          "durationSeconds": 378,
-          "thumbnail": "https://img.youtube.com/vi/NWngZs2qAD8/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "gmp6sKFESy0",
+          "title": "Simple Reading Practice for Kids | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-11-13T12:00:15Z",
+          "durationSeconds": 4361,
+          "thumbnail": "https://img.youtube.com/vi/gmp6sKFESy0/hqdefault.jpg"
+        },
+        {
           "videoId": "1iXszxAHkAY",
           "title": "Try Not to Laugh Super Challenge! | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-11-08T12:00:21Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-09-06T10:00:38Z",
           "durationSeconds": 3675,
           "thumbnail": "https://img.youtube.com/vi/tBbptgHwOXo/hqdefault.jpg"
-        },
-        {
-          "videoId": "V40xAHWUcCM",
-          "title": "Learn All About Vowels  | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-09-05T11:00:35Z",
-          "durationSeconds": 2534,
-          "thumbnail": "https://img.youtube.com/vi/V40xAHWUcCM/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "7-SNaUdrXCY",
+          "title": "Injection Techniques | How Do Injections Help you Heal? | Needles and Syringes | Types and Uses",
+          "publishedAt": "2026-11-13T12:30:16Z",
+          "durationSeconds": 387,
+          "thumbnail": "https://img.youtube.com/vi/7-SNaUdrXCY/hqdefault.jpg"
+        },
+        {
           "videoId": "Xg95tKe6v9k",
           "title": "Deadliest Parasite Loa Loa 🪱 What if You Caught an Eye infection Worm? | African Eye Worm | Binocs",
           "publishedAt": "2026-11-10T12:30:05Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-08-04T12:30:09Z",
           "durationSeconds": 365,
           "thumbnail": "https://img.youtube.com/vi/KY-9OSj-LIc/hqdefault.jpg"
-        },
-        {
-          "videoId": "rqL-UqUGJHY",
-          "title": "What Is Nuclear Fission? | The Power of Splitting Atoms | Amazing Science Facts | Dr. Binocs Show",
-          "publishedAt": "2026-07-31T12:30:16Z",
-          "durationSeconds": 371,
-          "thumbnail": "https://img.youtube.com/vi/rqL-UqUGJHY/hqdefault.jpg"
         }
       ]
     },
