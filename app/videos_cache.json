@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:33:14.729Z",
+  "generatedAt": "2026-11-15T12:59:38.667Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "AH7KGVjXOkE",
+          "title": "The Floor REALLY IS Lava! 🌋 Fun Volcano Facts | Nat Geo Kids",
+          "publishedAt": "2026-11-14T17:30:30Z",
+          "durationSeconds": 392,
+          "thumbnail": "https://img.youtube.com/vi/AH7KGVjXOkE/hqdefault.jpg"
+        },
+        {
           "videoId": "OUfzp6awrEc",
           "title": "AD | Stuck in a tar pit? | Nat Geo Kids",
           "publishedAt": "2026-11-13T20:00:06Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-14T11:00:12Z",
           "durationSeconds": 299,
           "thumbnail": "https://img.youtube.com/vi/CGEtugYEJok/hqdefault.jpg"
-        },
-        {
-          "videoId": "Uk7NdsKaREM",
-          "title": "Kids React to Black Rain Frogs | Africa Earth's Wild Home | Nat Geo Kids",
-          "publishedAt": "2026-10-12T13:00:29Z",
-          "durationSeconds": 91,
-          "thumbnail": "https://img.youtube.com/vi/Uk7NdsKaREM/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "063xXBMTsXM",
+          "title": "Rainbow Maths for Gloomy Days | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-11-15T11:00:28Z",
+          "durationSeconds": 3761,
+          "thumbnail": "https://img.youtube.com/vi/063xXBMTsXM/hqdefault.jpg"
+        },
         {
           "videoId": "oZ-zn7QVTQQ",
           "title": "'I'll Vote for That' - Real Life Maths | Learn to Count for Kids | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-09-27T10:00:20Z",
           "durationSeconds": 4839,
           "thumbnail": "https://img.youtube.com/vi/XwviRUy-JoM/hqdefault.jpg"
-        },
-        {
-          "videoId": "-dKDf6im0C4",
-          "title": "The Rise of Infinaughty! Full 25-Minute Movie (All 5 Episodes) | Numberblocks S9",
-          "publishedAt": "2026-09-26T11:01:04Z",
-          "durationSeconds": 1397,
-          "thumbnail": "https://img.youtube.com/vi/-dKDf6im0C4/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "u3yeE7tnPSs",
+          "title": "The ABC's Phonics Song | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-11-15T12:00:25Z",
+          "durationSeconds": 1443,
+          "thumbnail": "https://img.youtube.com/vi/u3yeE7tnPSs/hqdefault.jpg"
+        },
+        {
           "videoId": "raBGAvrk5fM",
           "title": "My First One Syllable Words | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-11-14T12:00:25Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-09-08T16:15:09Z",
           "durationSeconds": 192,
           "thumbnail": "https://img.youtube.com/vi/5a5QLfcFTeA/hqdefault.jpg"
-        },
-        {
-          "videoId": "0G7aJPzZKAI",
-          "title": "Long Vowels OE O_E LONG O | Lesson Twenty Eight - Phonics Made Easy | Alphablocks",
-          "publishedAt": "2026-09-06T11:00:05Z",
-          "durationSeconds": 995,
-          "thumbnail": "https://img.youtube.com/vi/0G7aJPzZKAI/hqdefault.jpg"
         }
       ]
     },
@@ -2740,7 +2740,7 @@
       "videos": [
         {
           "videoId": "7-SNaUdrXCY",
-          "title": "Injection Techniques | How Do Injections Help you Heal? | Needles and Syringes | Types and Uses",
+          "title": "Injection Techniques | How Do Injections Help you Heal? | Types and Uses",
           "publishedAt": "2026-11-13T12:30:16Z",
           "durationSeconds": 387,
           "thumbnail": "https://img.youtube.com/vi/7-SNaUdrXCY/hqdefault.jpg"
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "Q8UJQkXKhe0",
+          "title": "🥚Quả trứng bị đánh cắp | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-11-15T10:16:26Z",
+          "durationSeconds": 672,
+          "thumbnail": "https://img.youtube.com/vi/Q8UJQkXKhe0/hqdefault.jpg"
+        },
+        {
           "videoId": "2vBn9QJcsAE",
           "title": "💦 Chiếc giếng cổ của làng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-11-10T12:23:23Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-08-30T13:17:37Z",
           "durationSeconds": 636,
           "thumbnail": "https://img.youtube.com/vi/m-a61HzTRnU/hqdefault.jpg"
-        },
-        {
-          "videoId": "iccGz1PuCQc",
-          "title": "🛸 Dodo khám phá vũ trụ | Nghề nghiệp | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-08-26T09:36:32Z",
-          "durationSeconds": 722,
-          "thumbnail": "https://img.youtube.com/vi/iccGz1PuCQc/hqdefault.jpg"
         }
       ]
     }
