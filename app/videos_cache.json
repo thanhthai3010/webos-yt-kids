@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:59:38.667Z",
+  "generatedAt": "2026-11-16T14:03:33.327Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "2E6-G7PegV8",
+          "title": "Cassini: The Spacecraft That Flew Into Saturn 🪐 | Mission to Saturn Full Special | Nat Geo Kids",
+          "publishedAt": "2026-11-15T13:00:22Z",
+          "durationSeconds": 2648,
+          "thumbnail": "https://img.youtube.com/vi/2E6-G7PegV8/hqdefault.jpg"
+        },
+        {
           "videoId": "AH7KGVjXOkE",
           "title": "The Floor REALLY IS Lava! 🌋 Fun Volcano Facts | Nat Geo Kids",
           "publishedAt": "2026-11-14T17:30:30Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-15T11:00:33Z",
           "durationSeconds": 2302,
           "thumbnail": "https://img.youtube.com/vi/AOSjUmwVFt4/hqdefault.jpg"
-        },
-        {
-          "videoId": "CGEtugYEJok",
-          "title": "Pigs vs. Cows vs. Goats: Barnyard Showdown! | Whoa Factor | Nat Geo Kids",
-          "publishedAt": "2026-10-14T11:00:12Z",
-          "durationSeconds": 299,
-          "thumbnail": "https://img.youtube.com/vi/CGEtugYEJok/hqdefault.jpg"
         }
       ]
     },
@@ -1443,6 +1443,13 @@
       "name": "Puffin Rock",
       "videos": [
         {
+          "videoId": "IJOkmuQbmqg",
+          "title": "Otto's Best Bits 🦉 | Puffin Rock",
+          "publishedAt": "2026-11-16T11:45:19Z",
+          "durationSeconds": 187,
+          "thumbnail": "https://img.youtube.com/vi/IJOkmuQbmqg/hqdefault.jpg"
+        },
+        {
           "videoId": "tsH0u_Rrv7k",
           "title": "May's Best Bits 🐰 | Puffin Rock",
           "publishedAt": "2026-11-06T12:00:08Z",
@@ -1644,13 +1651,6 @@
           "publishedAt": "2026-03-13T13:10:14Z",
           "durationSeconds": 255,
           "thumbnail": "https://img.youtube.com/vi/pNJEIk98z54/hqdefault.jpg"
-        },
-        {
-          "videoId": "ffbJE1Cs9j8",
-          "title": "Bernie & Baba Play Hide & Seek | Puffin Rock",
-          "publishedAt": "2026-03-03T12:30:54Z",
-          "durationSeconds": 63,
-          "thumbnail": "https://img.youtube.com/vi/ffbJE1Cs9j8/hqdefault.jpg"
         }
       ]
     },
@@ -2740,7 +2740,7 @@
       "videos": [
         {
           "videoId": "7-SNaUdrXCY",
-          "title": "Injection Techniques | How Do Injections Help you Heal? | Types and Uses",
+          "title": "Injection Techniques | How Do Injections Help you Heal? | Types and Uses | Dr. Binocs Show",
           "publishedAt": "2026-11-13T12:30:16Z",
           "durationSeconds": 387,
           "thumbnail": "https://img.youtube.com/vi/7-SNaUdrXCY/hqdefault.jpg"
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "sG81a4XcSaY",
+          "title": "🌳 Khách sạn trên cây | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-11-16T09:00:17Z",
+          "durationSeconds": 888,
+          "thumbnail": "https://img.youtube.com/vi/sG81a4XcSaY/hqdefault.jpg"
+        },
+        {
           "videoId": "Q8UJQkXKhe0",
           "title": "🥚Quả trứng bị đánh cắp | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-11-15T10:16:26Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-09-01T11:24:34Z",
           "durationSeconds": 2297,
           "thumbnail": "https://img.youtube.com/vi/S_eocSaoXgg/hqdefault.jpg"
-        },
-        {
-          "videoId": "m-a61HzTRnU",
-          "title": "🚢 Hãy xếp hàng | Đi du thuyền nào | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-08-30T13:17:37Z",
-          "durationSeconds": 636,
-          "thumbnail": "https://img.youtube.com/vi/m-a61HzTRnU/hqdefault.jpg"
         }
       ]
     }
