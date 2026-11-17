@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:03:33.327Z",
+  "generatedAt": "2026-11-17T14:57:02.344Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -392,7 +392,7 @@
         },
         {
           "videoId": "RtY1z8-qGYE",
-          "title": "Strange Noses and Silly Animal Names | You're Called What?! | Nat Geo Kids",
+          "title": "Silly Animal Names for Monkeys, Bears, and More 🐵🐻 | You're Called What?! | Nat Geo Kids",
           "publishedAt": "2026-11-12T13:00:38Z",
           "durationSeconds": 1470,
           "thumbnail": "https://img.youtube.com/vi/RtY1z8-qGYE/hqdefault.jpg"
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "GrXmMe_dFXY",
+          "title": "What to Do if Your Ears are Blocked up? | What if You Never Remove Your Earwax? | Dr. Binocs Show",
+          "publishedAt": "2026-11-17T12:56:54Z",
+          "durationSeconds": 379,
+          "thumbnail": "https://img.youtube.com/vi/GrXmMe_dFXY/hqdefault.jpg"
+        },
+        {
           "videoId": "7-SNaUdrXCY",
           "title": "Injection Techniques | How Do Injections Help you Heal? | Types and Uses | Dr. Binocs Show",
           "publishedAt": "2026-11-13T12:30:16Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-08-07T12:30:37Z",
           "durationSeconds": 382,
           "thumbnail": "https://img.youtube.com/vi/EWfCBmkQc7I/hqdefault.jpg"
-        },
-        {
-          "videoId": "KY-9OSj-LIc",
-          "title": "First Aid for a Rattlesnake Bite | What If a Rattlesnake Bites? | Dr. Binocs Show",
-          "publishedAt": "2026-08-04T12:30:09Z",
-          "durationSeconds": 365,
-          "thumbnail": "https://img.youtube.com/vi/KY-9OSj-LIc/hqdefault.jpg"
         }
       ]
     },
