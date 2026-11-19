@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:37:30.072Z",
+  "generatedAt": "2026-11-19T14:44:26.880Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,20 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "P3eT2eluwHI",
+          "title": "Weird But True Full Episode | Flying High on Roller Coasters and Airplanes | Nat Geo Kids",
+          "publishedAt": "2026-11-19T13:00:35Z",
+          "durationSeconds": 2656,
+          "thumbnail": "https://img.youtube.com/vi/P3eT2eluwHI/hqdefault.jpg"
+        },
+        {
+          "videoId": "X5AvTuQ0jYI",
+          "title": "Kids React to Wolves Up Close | Nat Geo Kids",
+          "publishedAt": "2026-11-18T20:00:07Z",
+          "durationSeconds": 80,
+          "thumbnail": "https://img.youtube.com/vi/X5AvTuQ0jYI/hqdefault.jpg"
+        },
+        {
           "videoId": "2E6-G7PegV8",
           "title": "Cassini: The Spacecraft That Flew Into Saturn 🪐 | Mission to Saturn Full Special | Nat Geo Kids",
           "publishedAt": "2026-11-15T13:00:22Z",
@@ -557,20 +571,6 @@
           "publishedAt": "2026-10-17T15:00:23Z",
           "durationSeconds": 287,
           "thumbnail": "https://img.youtube.com/vi/adABRbEs4G4/hqdefault.jpg"
-        },
-        {
-          "videoId": "I3abQzLOv2A",
-          "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E3 FULL EP | Nat Geo Kids",
-          "publishedAt": "2026-10-16T11:00:26Z",
-          "durationSeconds": 1475,
-          "thumbnail": "https://img.youtube.com/vi/I3abQzLOv2A/hqdefault.jpg"
-        },
-        {
-          "videoId": "AOSjUmwVFt4",
-          "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids",
-          "publishedAt": "2026-10-15T11:00:33Z",
-          "durationSeconds": 2302,
-          "thumbnail": "https://img.youtube.com/vi/AOSjUmwVFt4/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "dPOUvBwPt2k",
+          "title": "Let's Learn the Times Tables! - Multiplication Made Easy | Learn to Count for Kids | Numberblocks",
+          "publishedAt": "2026-11-19T11:00:17Z",
+          "durationSeconds": 3771,
+          "thumbnail": "https://img.youtube.com/vi/dPOUvBwPt2k/hqdefault.jpg"
+        },
         {
           "videoId": "063xXBMTsXM",
           "title": "Rainbow Maths for Gloomy Days | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-10-01T10:00:38Z",
           "durationSeconds": 4796,
           "thumbnail": "https://img.youtube.com/vi/uC2CoaA1plM/hqdefault.jpg"
-        },
-        {
-          "videoId": "XwviRUy-JoM",
-          "title": "Numberblock Nine is Amazing! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-09-27T10:00:20Z",
-          "durationSeconds": 4839,
-          "thumbnail": "https://img.youtube.com/vi/XwviRUy-JoM/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "J1EmFaMyNaA",
+          "title": "Our NEW 80-Piece Marker Set Is Here! 🎉",
+          "publishedAt": "2026-11-18T15:41:03Z",
+          "durationSeconds": 178,
+          "thumbnail": "https://img.youtube.com/vi/J1EmFaMyNaA/hqdefault.jpg"
+        },
         {
           "videoId": "OhmPdBhK4Xs",
           "title": "1 Hour of Thanksgiving Drawing Fun! 🦃 Art Lessons for Kids",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-21T14:31:40Z",
           "durationSeconds": 346,
           "thumbnail": "https://img.youtube.com/vi/tnmfnRPOBx8/hqdefault.jpg"
-        },
-        {
-          "videoId": "Tsf8JX_pGPw",
-          "title": "How To Draw A Parasaurolophus Dinosaur",
-          "publishedAt": "2026-09-18T14:00:30Z",
-          "durationSeconds": 430,
-          "thumbnail": "https://img.youtube.com/vi/Tsf8JX_pGPw/hqdefault.jpg"
         }
       ]
     },
