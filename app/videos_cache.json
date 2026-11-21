@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:25:36.658Z",
+  "generatedAt": "2026-11-21T13:45:14.182Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "yCnIuD6IX08",
+          "title": "AD | Build Your Own Glow-In-The-Dark Scorpion Wall Crawler 🦂 | Nat Geo Kids",
+          "publishedAt": "2026-11-20T18:00:08Z",
+          "durationSeconds": 137,
+          "thumbnail": "https://img.youtube.com/vi/yCnIuD6IX08/hqdefault.jpg"
+        },
+        {
           "videoId": "5wANYZSdl5s",
           "title": "Circe’s Potions, Spells, and Big Mistakes | Greeking Out Podcast | S5 E8 FULL EP | Nat Geo Kids",
           "publishedAt": "2026-11-20T13:00:12Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-19T11:00:04Z",
           "durationSeconds": 1335,
           "thumbnail": "https://img.youtube.com/vi/aASWMaa5ZU8/hqdefault.jpg"
-        },
-        {
-          "videoId": "t8cKaMY_sCE",
-          "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids",
-          "publishedAt": "2026-10-18T11:00:03Z",
-          "durationSeconds": 1148,
-          "thumbnail": "https://img.youtube.com/vi/t8cKaMY_sCE/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "cPB2uaXpzS4",
+          "title": "Rainy Day Maths Fun! 🌧️| Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-11-21T11:00:06Z",
+          "durationSeconds": 4288,
+          "thumbnail": "https://img.youtube.com/vi/cPB2uaXpzS4/hqdefault.jpg"
+        },
         {
           "videoId": "zsoHcvAHyvM",
           "title": "Shapes for Kids - Squares, Circles, Triangles, & More! | Learn to Count for Kids | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-10-03T11:00:12Z",
           "durationSeconds": 4565,
           "thumbnail": "https://img.youtube.com/vi/pqQTXA5mmao/hqdefault.jpg"
-        },
-        {
-          "videoId": "OdNkLG3k33s",
-          "title": "I’m a Number Detective | Learn to Count | Numberblocks",
-          "publishedAt": "2026-10-02T10:00:04Z",
-          "durationSeconds": 451,
-          "thumbnail": "https://img.youtube.com/vi/OdNkLG3k33s/hqdefault.jpg"
         }
       ]
     },
@@ -794,6 +794,13 @@
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "name": "Art for Kids Hub",
       "videos": [
+        {
+          "videoId": "7l5OrVT9UxA",
+          "title": "How To Draw A Pizza Delivery Truck",
+          "publishedAt": "2026-11-20T15:00:24Z",
+          "durationSeconds": 648,
+          "thumbnail": "https://img.youtube.com/vi/7l5OrVT9UxA/hqdefault.jpg"
+        },
         {
           "videoId": "ADYpYw8nPYU",
           "title": "How To Draw A Pizza Delivery Turkey",
@@ -996,13 +1003,6 @@
           "publishedAt": "2026-09-25T15:06:35Z",
           "durationSeconds": 271,
           "thumbnail": "https://img.youtube.com/vi/kjV7CxqY9jU/hqdefault.jpg"
-        },
-        {
-          "videoId": "_ZNaRD3zU00",
-          "title": "How To Draw A Wheelbarrow",
-          "publishedAt": "2026-09-24T19:48:18Z",
-          "durationSeconds": 326,
-          "thumbnail": "https://img.youtube.com/vi/_ZNaRD3zU00/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "SdOQ62zPJRY",
+          "title": "Learn Your Letters with the Alphablocks | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-11-21T12:00:19Z",
+          "durationSeconds": 3045,
+          "thumbnail": "https://img.youtube.com/vi/SdOQ62zPJRY/hqdefault.jpg"
+        },
+        {
           "videoId": "NEcug4krSAo",
           "title": "The Best of Letters L and M | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-11-20T12:00:27Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-09-13T11:00:01Z",
           "durationSeconds": 717,
           "thumbnail": "https://img.youtube.com/vi/6bX8xYMerts/hqdefault.jpg"
-        },
-        {
-          "videoId": "hWh59GPbt3A",
-          "title": "The Best Reading Songs from The Band!  | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-09-11T11:00:36Z",
-          "durationSeconds": 2835,
-          "thumbnail": "https://img.youtube.com/vi/hWh59GPbt3A/hqdefault.jpg"
         }
       ]
     },
