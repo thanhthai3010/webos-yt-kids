@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:45:14.182Z",
+  "generatedAt": "2026-11-22T13:38:57.483Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,27 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "Cjh80E5ihIk",
+          "title": "Underwater Best Buds 🤿🐙 |  My Best Friend's an Animal Full Episode (4K) | Nat Geo Kids",
+          "publishedAt": "2026-11-22T13:00:04Z",
+          "durationSeconds": 2653,
+          "thumbnail": "https://img.youtube.com/vi/Cjh80E5ihIk/hqdefault.jpg"
+        },
+        {
+          "videoId": "cuBPUN5p_wM",
+          "title": "The Surprising Secret Lives of Wild Turkeys! 🦃 Animal Card Quest | Nat Geo Kids",
+          "publishedAt": "2026-11-21T16:00:07Z",
+          "durationSeconds": 370,
+          "thumbnail": "https://img.youtube.com/vi/cuBPUN5p_wM/hqdefault.jpg"
+        },
+        {
+          "videoId": "OIEwaIhEOJI",
+          "title": "All About Puppies and Dogs 🐶 | 2 Hour Full Episode Compilation | Nat Geo Kids",
+          "publishedAt": "2026-11-21T15:00:05Z",
+          "durationSeconds": 7713,
+          "thumbnail": "https://img.youtube.com/vi/OIEwaIhEOJI/hqdefault.jpg"
+        },
+        {
           "videoId": "yCnIuD6IX08",
           "title": "AD | Build Your Own Glow-In-The-Dark Scorpion Wall Crawler 🦂 | Nat Geo Kids",
           "publishedAt": "2026-11-20T18:00:08Z",
@@ -550,27 +571,6 @@
           "publishedAt": "2026-10-22T14:00:33Z",
           "durationSeconds": 100,
           "thumbnail": "https://img.youtube.com/vi/EXYhTpsYHN8/hqdefault.jpg"
-        },
-        {
-          "videoId": "Gvmyc2yW_NM",
-          "title": "Spooky Brain Tricks That Make You Superstitious 🐈‍⬛ | Brain Games Full Episode | Nat Geo Kids",
-          "publishedAt": "2026-10-22T12:00:37Z",
-          "durationSeconds": 1326,
-          "thumbnail": "https://img.youtube.com/vi/Gvmyc2yW_NM/hqdefault.jpg"
-        },
-        {
-          "videoId": "9q3uiSeT80M",
-          "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids",
-          "publishedAt": "2026-10-21T11:00:23Z",
-          "durationSeconds": 316,
-          "thumbnail": "https://img.youtube.com/vi/9q3uiSeT80M/hqdefault.jpg"
-        },
-        {
-          "videoId": "aASWMaa5ZU8",
-          "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids",
-          "publishedAt": "2026-10-19T11:00:04Z",
-          "durationSeconds": 1335,
-          "thumbnail": "https://img.youtube.com/vi/aASWMaa5ZU8/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "SjBgjF_Nv84",
+          "title": "Land of the Giants - Learning Huge Numbers! | Learn to Count for Kids Compilation | Numberblocks",
+          "publishedAt": "2026-11-22T12:00:15Z",
+          "durationSeconds": 4204,
+          "thumbnail": "https://img.youtube.com/vi/SjBgjF_Nv84/hqdefault.jpg"
+        },
         {
           "videoId": "cPB2uaXpzS4",
           "title": "Rainy Day Maths Fun! 🌧️| Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-10-04T10:00:36Z",
           "durationSeconds": 5105,
           "thumbnail": "https://img.youtube.com/vi/YrvGlFtIp4k/hqdefault.jpg"
-        },
-        {
-          "videoId": "pqQTXA5mmao",
-          "title": "The Wrong Number and Other Spooky Stories | Learn to Count for Kids Compilation | Numberblocks",
-          "publishedAt": "2026-10-03T11:00:12Z",
-          "durationSeconds": 4565,
-          "thumbnail": "https://img.youtube.com/vi/pqQTXA5mmao/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "DmGNBJzWvBU",
+          "title": "Reading Songs to Consolidate Early Learning Skills | Learn to Read and Spell for Kids | Alphablocks",
+          "publishedAt": "2026-11-22T12:00:27Z",
+          "durationSeconds": 1343,
+          "thumbnail": "https://img.youtube.com/vi/DmGNBJzWvBU/hqdefault.jpg"
+        },
+        {
           "videoId": "SdOQ62zPJRY",
           "title": "Learn Your Letters with the Alphablocks | Learn to Read and Spell for Kids Compilation | Alphablocks",
           "publishedAt": "2026-11-21T12:00:19Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-09-18T11:00:28Z",
           "durationSeconds": 1886,
           "thumbnail": "https://img.youtube.com/vi/CT1uR8xbXaA/hqdefault.jpg"
-        },
-        {
-          "videoId": "6bX8xYMerts",
-          "title": "Long Vowels EW U_E UE | Lesson Twenty Nine - Phonics Made Easy | Alphablocks",
-          "publishedAt": "2026-09-13T11:00:01Z",
-          "durationSeconds": 717,
-          "thumbnail": "https://img.youtube.com/vi/6bX8xYMerts/hqdefault.jpg"
         }
       ]
     },
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "9KyZ6g2F87o",
+          "title": "❄️Bữa tiệc nóng và lạnh | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam🚔",
+          "publishedAt": "2026-11-22T13:16:40Z",
+          "durationSeconds": 386,
+          "thumbnail": "https://img.youtube.com/vi/9KyZ6g2F87o/hqdefault.jpg"
+        },
+        {
           "videoId": "QFEE27Cyo84",
           "title": "🐞 Bọ ăn lúa mỳ gây hại | Làng lúa mỳ | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-11-20T09:00:13Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-09-06T12:20:16Z",
           "durationSeconds": 694,
           "thumbnail": "https://img.youtube.com/vi/sJuqk3bJsd0/hqdefault.jpg"
-        },
-        {
-          "videoId": "B2qWfVdyYRs",
-          "title": "🏖️Đội tuần tra bờ biển | Kỳ nghỉ thật vui | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-09-02T09:00:18Z",
-          "durationSeconds": 736,
-          "thumbnail": "https://img.youtube.com/vi/B2qWfVdyYRs/hqdefault.jpg"
         }
       ]
     }
