@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:38:57.483Z",
+  "generatedAt": "2026-11-23T16:33:49.783Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -2538,14 +2538,14 @@
         },
         {
           "videoId": "23ZgofVpGpQ",
-          "title": "How is it made? with Maddie | Paint, Cardboard and Glass! | Compilation for Kids",
+          "title": "How Paint, Cardboard and Glass are Made! | Full Factory Special!",
           "publishedAt": "2026-07-24T09:23:24Z",
           "durationSeconds": 1857,
           "thumbnail": "https://img.youtube.com/vi/23ZgofVpGpQ/hqdefault.jpg"
         },
         {
           "videoId": "XZvdHPMUgug",
-          "title": "Why Cork Is The World's BEST Material! | Maddie Moate",
+          "title": "How is CORK made? | Maddie Moate",
           "publishedAt": "2026-06-24T12:06:05Z",
           "durationSeconds": 443,
           "thumbnail": "https://img.youtube.com/vi/XZvdHPMUgug/hqdefault.jpg"
@@ -2955,6 +2955,20 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "T9uS-kZn1WY",
+          "title": "🌾 Trung tâm nghệ thuật lúa mì | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-11-23T09:00:08Z",
+          "durationSeconds": 2864,
+          "thumbnail": "https://img.youtube.com/vi/T9uS-kZn1WY/hqdefault.jpg"
+        },
+        {
+          "videoId": "fOOzW83gCoE",
+          "title": "🌳Làng trên cây bị cháy | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam🚔",
+          "publishedAt": "2026-11-23T02:15:32Z",
+          "durationSeconds": 448,
+          "thumbnail": "https://img.youtube.com/vi/fOOzW83gCoE/hqdefault.jpg"
+        },
+        {
           "videoId": "9KyZ6g2F87o",
           "title": "❄️Bữa tiệc nóng và lạnh | Cảnh sát đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam🚔",
           "publishedAt": "2026-11-22T13:16:40Z",
@@ -3149,20 +3163,6 @@
           "publishedAt": "2026-09-09T10:13:34Z",
           "durationSeconds": 883,
           "thumbnail": "https://img.youtube.com/vi/6GZJpvlkCfI/hqdefault.jpg"
-        },
-        {
-          "videoId": "nwkuuyKbVZc",
-          "title": "🍹Đường ống nước trái cây bị tắc | Đi tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-09-08T12:28:15Z",
-          "durationSeconds": 2680,
-          "thumbnail": "https://img.youtube.com/vi/nwkuuyKbVZc/hqdefault.jpg"
-        },
-        {
-          "videoId": "sJuqk3bJsd0",
-          "title": "📚Nhiệm vụ bảo vệ Dodo | Trở lại trường |  | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-09-06T12:20:16Z",
-          "durationSeconds": 694,
-          "thumbnail": "https://img.youtube.com/vi/sJuqk3bJsd0/hqdefault.jpg"
         }
       ]
     }
