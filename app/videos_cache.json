@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:31:55.696Z",
+  "generatedAt": "2026-11-25T16:12:15.639Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -2955,6 +2955,13 @@
       "name": "Sheriff Labrador Vietnam",
       "videos": [
         {
+          "videoId": "oQLGrXTtWig",
+          "title": "⏰ Một buổi sáng đi học vội vàng | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
+          "publishedAt": "2026-11-25T11:12:51Z",
+          "durationSeconds": 3055,
+          "thumbnail": "https://img.youtube.com/vi/oQLGrXTtWig/hqdefault.jpg"
+        },
+        {
           "videoId": "T9uS-kZn1WY",
           "title": "🌾 Trung tâm nghệ thuật lúa mì | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
           "publishedAt": "2026-11-23T09:00:08Z",
@@ -3156,13 +3163,6 @@
           "publishedAt": "2026-09-12T02:15:06Z",
           "durationSeconds": 921,
           "thumbnail": "https://img.youtube.com/vi/a0sck8R72j4/hqdefault.jpg"
-        },
-        {
-          "videoId": "6GZJpvlkCfI",
-          "title": "🫧 Bùng nổ bong bóng bốc mùi | Đi Tuần | Hoạt hình thiếu nhi 👮 Cảnh sát trưởng Labrador Vietnam 🚔",
-          "publishedAt": "2026-09-09T10:13:34Z",
-          "durationSeconds": 883,
-          "thumbnail": "https://img.youtube.com/vi/6GZJpvlkCfI/hqdefault.jpg"
         }
       ]
     }
