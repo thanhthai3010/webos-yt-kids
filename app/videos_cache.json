@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:12:15.639Z",
+  "generatedAt": "2026-11-26T15:51:22.898Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "QNnIcsgVwrM",
+          "title": "Animals and Wildlife of North America | Jack Hanna's Passport Full Episode | Nat Geo Kids",
+          "publishedAt": "2026-11-26T13:00:00Z",
+          "durationSeconds": 969,
+          "thumbnail": "https://img.youtube.com/vi/QNnIcsgVwrM/hqdefault.jpg"
+        },
+        {
           "videoId": "Cjh80E5ihIk",
           "title": "Underwater Best Buds 🤿🐙 |  My Best Friend's an Animal Full Episode (4K) | Nat Geo Kids",
           "publishedAt": "2026-11-22T13:00:04Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-23T12:00:15Z",
           "durationSeconds": 1507,
           "thumbnail": "https://img.youtube.com/vi/Xakbw3sQcd0/hqdefault.jpg"
-        },
-        {
-          "videoId": "EXYhTpsYHN8",
-          "title": "Kids React to More Animals from Africa! | Nat Geo Kids",
-          "publishedAt": "2026-10-22T14:00:33Z",
-          "durationSeconds": 100,
-          "thumbnail": "https://img.youtube.com/vi/EXYhTpsYHN8/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "38GsL-5VdKU",
+          "title": "How to Bake a Pumpkin Pie | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+          "publishedAt": "2026-11-26T12:00:07Z",
+          "durationSeconds": 2985,
+          "thumbnail": "https://img.youtube.com/vi/38GsL-5VdKU/hqdefault.jpg"
+        },
         {
           "videoId": "SjBgjF_Nv84",
           "title": "Land of the Giants - Learning Huge Numbers! | Learn to Count for Kids Compilation | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-10-08T10:00:39Z",
           "durationSeconds": 4582,
           "thumbnail": "https://img.youtube.com/vi/lRe36GiOEdU/hqdefault.jpg"
-        },
-        {
-          "videoId": "YrvGlFtIp4k",
-          "title": "Numbers Don't Have to be Scary | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-10-04T10:00:36Z",
-          "durationSeconds": 5105,
-          "thumbnail": "https://img.youtube.com/vi/YrvGlFtIp4k/hqdefault.jpg"
         }
       ]
     },
