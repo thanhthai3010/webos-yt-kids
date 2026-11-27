@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:51:22.898Z",
+  "generatedAt": "2026-11-27T15:40:01.051Z",
   "collections": [
     {
       "playlistId": "PL9swKX1PviEp_2zvFhOckDiICOBygnM9O",
@@ -363,6 +363,13 @@
       "name": "Nat Geo Kids",
       "videos": [
         {
+          "videoId": "KOBjIyiGOFk",
+          "title": "Every Episode of Greeking Out Season 5 🎙️⚡ | Podcast Compilation | Nat Geo Kids",
+          "publishedAt": "2026-11-27T13:00:08Z",
+          "durationSeconds": 10534,
+          "thumbnail": "https://img.youtube.com/vi/KOBjIyiGOFk/hqdefault.jpg"
+        },
+        {
           "videoId": "QNnIcsgVwrM",
           "title": "Animals and Wildlife of North America | Jack Hanna's Passport Full Episode | Nat Geo Kids",
           "publishedAt": "2026-11-26T13:00:00Z",
@@ -564,13 +571,6 @@
           "publishedAt": "2026-10-24T15:00:24Z",
           "durationSeconds": 364,
           "thumbnail": "https://img.youtube.com/vi/DLRdkTUJ-kY/hqdefault.jpg"
-        },
-        {
-          "videoId": "Xakbw3sQcd0",
-          "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids",
-          "publishedAt": "2026-10-23T12:00:15Z",
-          "durationSeconds": 1507,
-          "thumbnail": "https://img.youtube.com/vi/Xakbw3sQcd0/hqdefault.jpg"
         }
       ]
     },
@@ -578,6 +578,13 @@
       "channelId": "UCPlwvN0w4qFSP1FllALB92w",
       "name": "Numberblocks",
       "videos": [
+        {
+          "videoId": "7F6OXfK9A3Q",
+          "title": "Numberblock 2 Versus the Snakes | Learn to Count for Kids Compilation  | Numberblocks",
+          "publishedAt": "2026-11-27T11:00:17Z",
+          "durationSeconds": 4304,
+          "thumbnail": "https://img.youtube.com/vi/7F6OXfK9A3Q/hqdefault.jpg"
+        },
         {
           "videoId": "38GsL-5VdKU",
           "title": "How to Bake a Pumpkin Pie | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
@@ -780,13 +787,6 @@
           "publishedAt": "2026-10-09T10:00:36Z",
           "durationSeconds": 3748,
           "thumbnail": "https://img.youtube.com/vi/bvdQr1rUPZI/hqdefault.jpg"
-        },
-        {
-          "videoId": "lRe36GiOEdU",
-          "title": "Octoblock 8 Saves the Day! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-          "publishedAt": "2026-10-08T10:00:39Z",
-          "durationSeconds": 4582,
-          "thumbnail": "https://img.youtube.com/vi/lRe36GiOEdU/hqdefault.jpg"
         }
       ]
     },
@@ -2091,6 +2091,13 @@
       "name": "Alphablocks",
       "videos": [
         {
+          "videoId": "JHapKlCIeDM",
+          "title": "Foody Feasts in Alphaland | Learn to Read and Spell for Kids Compilation | Alphablocks",
+          "publishedAt": "2026-11-27T12:00:29Z",
+          "durationSeconds": 2475,
+          "thumbnail": "https://img.youtube.com/vi/JHapKlCIeDM/hqdefault.jpg"
+        },
+        {
           "videoId": "DmGNBJzWvBU",
           "title": "Reading Songs to Consolidate Early Learning Skills | Learn to Read and Spell for Kids | Alphablocks",
           "publishedAt": "2026-11-22T12:00:27Z",
@@ -2292,13 +2299,6 @@
           "publishedAt": "2026-09-19T11:00:38Z",
           "durationSeconds": 3675,
           "thumbnail": "https://img.youtube.com/vi/7TEOsvKTrS4/hqdefault.jpg"
-        },
-        {
-          "videoId": "CT1uR8xbXaA",
-          "title": "How To Structure Sentences | Learn to Read and Spell for Kids Compilation | Alphablocks",
-          "publishedAt": "2026-09-18T11:00:28Z",
-          "durationSeconds": 1886,
-          "thumbnail": "https://img.youtube.com/vi/CT1uR8xbXaA/hqdefault.jpg"
         }
       ]
     },
@@ -2739,6 +2739,13 @@
       "name": "Peekaboo Kidz",
       "videos": [
         {
+          "videoId": "AjXd2ZRRENQ",
+          "title": "What Are Platelets?🩸| How Do Platelets Help Stop Bleeding? | Human Blood Explained | Dr. Binocs",
+          "publishedAt": "2026-11-27T12:30:03Z",
+          "durationSeconds": 358,
+          "thumbnail": "https://img.youtube.com/vi/AjXd2ZRRENQ/hqdefault.jpg"
+        },
+        {
           "videoId": "ZGkzy1MMHFM",
           "title": "Winter Mysteries & Disasters | Chilling Facts That Will Shock You | Snowflakes, Winter Storms & more",
           "publishedAt": "2026-11-24T12:30:15Z",
@@ -2940,13 +2947,6 @@
           "publishedAt": "2026-08-18T12:28:27Z",
           "durationSeconds": 365,
           "thumbnail": "https://img.youtube.com/vi/kSCl9P_Jhz0/hqdefault.jpg"
-        },
-        {
-          "videoId": "PBHumV9IWEk",
-          "title": "The Story of The Wizard of Oz | Magical Journey | Dorothy, Scarecrow, Tinman, Lion Story | Dr Binocs",
-          "publishedAt": "2026-08-14T12:30:08Z",
-          "durationSeconds": 346,
-          "thumbnail": "https://img.youtube.com/vi/PBHumV9IWEk/hqdefault.jpg"
         }
       ]
     },
